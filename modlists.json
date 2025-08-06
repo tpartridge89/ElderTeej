@@ -18,7 +18,7 @@
         "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
-            "image": "https://github.com/tpartridge89/ElderTeej/blob/main/ElderTeejsmall.png?raw=true",
+            "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejsmall.png",
             "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
             "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_0a480d53-a2d1-488b-9e57-efd0bd05ad5a",
             "machineURL": "ElderTeej",
