@@ -1,0 +1,38 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "ElderTeej",
+        "description": "This is a power fantasy. You're the Dragonborn, kick some butt and fill that museum!",
+        "author": "tpartridge89",
+        "maintainers": [
+            "github/tpartridge89"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "Total Overhaul",
+            "Steam",
+            "Combat Overhaul"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://github.com/tpartridge89/ElderTeej/blob/main/ElderTeejsmall.png?raw=true",
+            "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_0a480d53-a2d1-488b-9e57-efd0bd05ad5a",
+            "machineURL": "ElderTeej",
+            "discordURL": "https://discord.gg/r4YnyqGBBA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "mCeCV/uStgY=",
+            "Size": 1815327199,
+            "NumberOfArchives": 2369,
+            "SizeOfArchives": 215098405202,
+            "NumberOfInstalledFiles": 323475,
+            "SizeOfInstalledFiles": 341822799169
+        },
+        "version": "2.0.6"
+    }
+]
