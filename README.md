@@ -7,7 +7,7 @@ Welcome to the ElderTeej Wabbajack list!
 
 What started as a fork of another popular modlist has become my own work, taking my tweaked version of the combat suite and safe save/death alternatives from the Journals of Jyggalag, every supported quest or item with a display in the Legacy of the Dragonborn museum, and plenty of visual goodness! Also includes some QoL tweaks, vanilla skill leveling with Experience on top, and some old favorites like Mysticism, Ordinator, and my implementation of what I'm dubbing The Great Cities of JK's Northern Roads.
 
-Some highlights:
+Some highlights:  
 Witchy Wilderness  
 Animated Armoury WITH the unofficial LOTD integration!  
 Apocalypse  
