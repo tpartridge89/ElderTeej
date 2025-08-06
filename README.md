@@ -26,12 +26,12 @@ Pre-install:
 -Run both Skyrim from Steam. If you haven't downloaded the AE Creation Club files yet, you will need to do so when running Skyrim.  
 -Wabbajack occasionally has issues downloading High Poly Head- I recommend manually downloading it here and placing the file in the folder you intend to use for your mod downloads prior to installing through the Wabbajack UI if you have issues.
 
-Important hot keys:
-G to toggle helmet
-H to call horse
-M4 for dual wield blocking
-DEL for STB Widgets menu
-END for ENB menu
+Important hot keys:  
+G to toggle helmet  
+H to call horse  
+M4 for dual wield blocking  
+DEL for STB Widgets menu  
+END for ENB menu  
 
 PLEASE NOTE THAT THIS IS ACTIVELY BEING PATCHED. I only have this live because I'm hoping for people to help me get this fixed and maybe add some cool stuff to it later, but I don't have a team and I didn't build mods before this; I'm just a guy with a hyperfocus who loves Bethesda games!
 
