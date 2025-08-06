@@ -16,7 +16,7 @@ Skyrim Save System Overhaul 3 (SSSO 3)
 Lost Grimoire SSE  
 And SO much more! Check out the [full load order here](https://loadorderlibrary.com/lists/elderteej-3)!
 
-Requirements:
+Requirements:  
 I have not been able to test this across other PCs to be able to tell you what can and can't run it. I will state that I recommend at least 32 GB of RAM for modded Skyrim, and that running the list at 1440 generally pulls 9-10 GB of VRAM, so a 4070 or higher is recommended for 1440. My current build gets occasional lag spikes and I have a Ryzen 9 5900x and a 4070 Super. Unfortunately, JK's Skyrim is heavy and I can't do much to alleviate that draw, but I have included VRAMr to knock down the performance hit as much as possible while maintaining visual fidelity if you need to run it. This list is HUGE and you will need ~550 GB of disk space free- install plus downloads looks to be about 528 GB if you have VRAMr outputs. 
 
 Pre-install:  
@@ -25,6 +25,10 @@ Pre-install:
 -Set a 40 GB page file   
 -Run both Skyrim from Steam. If you haven't downloaded the AE Creation Club files yet, you will need to do so when running Skyrim.  
 -Wabbajack occasionally has issues downloading High Poly Head- I recommend manually downloading it here and placing the file in the folder you intend to use for your mod downloads prior to installing through the Wabbajack UI if you have issues.
+
+Post-install:  
+-When launching, ensure you have "ElderTeej" selected in the upper right-hand corner.  
+-Please allow everything to load fully before selecting a start in the beginning cell- this is a VERY script heavy portion of things. You should get a message stating "Museum List Building Complete" when everything is ready.  
 
 Important hot keys:  
 G to toggle helmet  
