@@ -38,3 +38,8 @@ Removed:
 -Several texture packs have been upgraded to 4k-2k from 2k-1k  
 -Skyrimprefs.ini and SSE Display Tweaks .ini updated for more consistent settings
 
+2.0.7 hotfix  
+-Fixed inis  
+-Fixed grass cache  
+-Fixed horses missing mane/tail meshes  
+-Some landscape and statics fixed  
