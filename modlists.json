@@ -1,38 +1,43 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "ElderTeej",
-        "description": "BFCO combat, every official LOTD display on Nexus, Ordinator perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You're the Dragonborn, kick some butt and fill that museum!",
-        "author": "tpartridge89",
-        "maintainers": [
-            "github/tpartridge89"
-        ],
-        "game": "skyrimspecialedition",
-        "tags": [
-            "Total Overhaul",
-            "Steam",
-            "Combat Overhaul"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejsmall.png",
-            "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_0a480d53-a2d1-488b-9e57-efd0bd05ad5a",
-            "machineURL": "ElderTeej",
-            "discordURL": "https://discord.gg/r4YnyqGBBA"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "mCeCV/uStgY=",
-            "Size": 1815327199,
-            "NumberOfArchives": 2369,
-            "SizeOfArchives": 215098405202,
-            "NumberOfInstalledFiles": 323475,
-            "SizeOfInstalledFiles": 341822799169
-        },
-        "version": "2.0.6"
-    }
+  {
+    "title": "ElderTeej",
+    "description": "BFCO combat, every official LOTD display on Nexus, Ordinator perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Total Overhaul",
+      "Steam",
+      "Combat Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejsmall.png",
+      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_90ac6bb9-4a1e-4044-8452-b3bb5a497c0c",
+      "machineURL": "ElderTeej",
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "en0HApc3uhM=",
+      "Size": 1815538278,
+      "NumberOfArchives": 2422,
+      "SizeOfArchives": 215377632273,
+      "NumberOfInstalledFiles": 331542,
+      "SizeOfInstalledFiles": 342583228708,
+      "TotalSize": 557960860981
+    },
+    "version": "2.0.7",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-12T06:38:23.998762Z",
+    "repositoryName": ""
+  }
 ]
