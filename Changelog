@@ -39,9 +39,3 @@ Removed:
 -Assorted Mesh Fixes - Parallax (I use PG Patcher anyway and this causes SO many broken textures)  
 
 -Several texture packs have been upgraded to 4k-2k from 2k-1k  
-
-2.0.7 hotfix  
--Fixed inis  
--Fixed grass cache  
--Fixed horses missing mane/tail meshes  
--Some landscape and statics fixed  
