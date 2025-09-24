@@ -39,5 +39,43 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-26T20:27:15.4260314Z",
     "repositoryName": ""
+  },
+  {
+    "title": "A Beautiful Commonwealth",
+    "description": "Boston is dirty, dangerous, and radioactive...\n\n...why not make it a little prettier?",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "DLC Required",
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
+      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/A%20Beautiful%20Commonwealth%20Readme",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_98afa354-cc81-4d1a-9412-b89ab89a1827",
+      "machineURL": "ABC",
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "mkE8bb7W1gw=",
+      "Size": 5253541123,
+      "NumberOfArchives": 1313,
+      "SizeOfArchives": 129279004654,
+      "NumberOfInstalledFiles": 103985,
+      "SizeOfInstalledFiles": 154669627053,
+      "TotalSize": 283948631707
+    },
+    "version": "1.0.0"
   }
+
 ]
