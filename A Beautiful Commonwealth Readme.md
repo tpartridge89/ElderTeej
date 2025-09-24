@@ -36,4 +36,5 @@ Manual Installation notes:
 
 
 IMPORTANT NOTES:  
-The list ships with Creation Kit Platform Extended, but it is not installed. If you need to make Creation Kit changes and want to use CKPE, you will need to overwrite the WinHTTP from xSE Plugin Preloader. Do not forget to swap the version back before playing or the functions Buffout 4 needs from xSE will not work. 
+-This is currently a 1.10.163 list- if you're going to add mods to the list, you MUST ensure you're using the correct version of them. A NG version will also be uploaded at some point.  
+-The list ships with Creation Kit Platform Extended, but it is not installed. If you need to make Creation Kit changes and want to use CKPE, you will need to overwrite the WinHTTP from xSE Plugin Preloader. Do not forget to swap the version back before playing or the functions Buffout 4 needs from xSE will not work. 
