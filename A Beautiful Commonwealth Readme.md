@@ -21,7 +21,7 @@ A couple of highlights:
 I wanted to make a fun, modern feeling Fallout 4 that's ready for an enjoyable playthrough out of the box, but is completely ready for you to add what you want! There's also an included fast start mod ([SKK Fast New Start](https://www.nexusmods.com/fallout4/mods/29227)) and [DavesMods - In Game ESP Explorer](https://www.nexusmods.com/fallout4/mods/42520) for QoL if you add anything new!
 
 Pre-install:  
--Ensure your Fallout 4 install is clean and up to date. This generally means deleting all vanilla Skyrim files and reinstalling through the "verify game files" option in Steam. You should do this for Creation Kit as well as you will need Creation Kit for this list, too.  
+-Ensure your Fallout 4 install is clean and up to date. This generally means deleting all vanilla Fallout files and reinstalling through the "verify game files" option in Steam. You should do this for Creation Kit as well as you will need Creation Kit for this list, too.  
 -Make sure all Visual C++ Redistributables and .NET frameworks are up to date.  
 -Set a 40 GB page file.  
 -Ensure you have installed Creation Kit (repeating this is not a typo).  
