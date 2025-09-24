@@ -20,6 +20,20 @@ A couple of highlights:
 
 I wanted to make a fun, modern feeling Fallout 4 that's ready for an enjoyable playthrough out of the box, but is completely ready for you to add what you want! There's also an included fast start mod ([SKK Fast New Start](https://www.nexusmods.com/fallout4/mods/29227)) and [DavesMods - In Game ESP Explorer](https://www.nexusmods.com/fallout4/mods/42520) for QoL if you add anything new!
 
+Pre-install:  
+-Ensure your Fallout 4 install is clean and up to date. This generally means deleting all vanilla Skyrim files and reinstalling through the "verify game files" option in Steam. You should do this for Creation Kit as well as you will need Creation Kit for this list, too.  
+-Make sure all Visual C++ Redistributables and .NET frameworks are up to date.  
+-Set a 40 GB page file.  
+-Ensure you have installed Creation Kit (repeating this is not a typo).  
+-Run both Fallout 4 AND Creation Kit from Steam.  
+
+Manual Installation notes:
+-Download main file and extract the .wabbajack file from the archive.  
+-Open Wabbajack and go to "Browse Lists" on the left-hand menu.  
+-On the top of the UI, you should see a button that says "Install from Disk." Select this and navigate to the .wabbajack file you extracted. Let the installer run.  
+-Open Mod Organizer 2. To start the game, make sure "A Beautiful Commonwealth" is selected in the right-hand corner and hit play.  
+
+
 
 IMPORTANT NOTES:  
 The list ships with Creation Kit Platform Extended, but it is not installed. If you need to make Creation Kit changes and want to use CKPE, you will need to overwrite the WinHTTP from xSE Plugin Preloader. Do not forget to swap the version back before playing or the functions Buffout 4 needs from xSE will not work. 
