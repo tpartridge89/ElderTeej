@@ -14,4 +14,4 @@ A couple of highlights:
 -Ketaros World!  
 -So much more! [Full load order here!](https://loadorderlibrary.com/lists/a-beautiful-commonwealth)
 
-I wanted to make a fun, modern feeling Fallout 4 that's ready for an enjoyable playthrough out of the box, but is completely ready for you to add what you want! There's also an included fast start mod ([url=https://www.nexusmods.com/fallout4/mods/29227]SKK Fast New Start[/url]) and [url=https://www.nexusmods.com/fallout4/mods/42520]DavesMods - In Game ESP Explorer[/url] for QoL if you add anything new!
+I wanted to make a fun, modern feeling Fallout 4 that's ready for an enjoyable playthrough out of the box, but is completely ready for you to add what you want! There's also an included fast start mod ([SKK Fast New Start](https://www.nexusmods.com/fallout4/mods/29227)) and [DavesMods - In Game ESP Explorer](https://www.nexusmods.com/fallout4/mods/42520) for QoL if you add anything new!
