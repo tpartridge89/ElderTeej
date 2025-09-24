@@ -27,7 +27,7 @@ Pre-install:
 -Ensure you have installed Creation Kit (repeating this is not a typo).  
 -Run both Fallout 4 AND Creation Kit from Steam.  
 
-Manual Installation notes:
+Manual Installation notes:  
 -Download main file and extract the .wabbajack file from the archive.  
 -Open Wabbajack and go to "Browse Lists" on the left-hand menu.  
 -On the top of the UI, you should see a button that says "Install from Disk." Select this and navigate to the .wabbajack file you extracted. Let the installer run.  
