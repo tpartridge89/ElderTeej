@@ -19,3 +19,7 @@ A couple of highlights:
 -So much more! [Full load order here!](https://loadorderlibrary.com/lists/a-beautiful-commonwealth)
 
 I wanted to make a fun, modern feeling Fallout 4 that's ready for an enjoyable playthrough out of the box, but is completely ready for you to add what you want! There's also an included fast start mod ([SKK Fast New Start](https://www.nexusmods.com/fallout4/mods/29227)) and [DavesMods - In Game ESP Explorer](https://www.nexusmods.com/fallout4/mods/42520) for QoL if you add anything new!
+
+
+IMPORTANT NOTES:  
+The list ships with Creation Kit Platform Extended, but it is not installed. If you need to make Creation Kit changes and want to use CKPE, you will need to overwrite the WinHTTP from xSE Plugin Preloader. Do not forget to swap the version back before playing or the functions Buffout 4 needs from xSE will not work. 
