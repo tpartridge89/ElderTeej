@@ -24,7 +24,6 @@ Pre-install:
 -Make sure all Visual C++ Redistributables and .NET frameworks are up to date.  
 -Set a 40 GB page file   
 -Run both Skyrim and Creation Kit from Steam. If you haven't downloaded the AE Creation Club files yet, you will need to do so when running Skyrim.  
--Wabbajack occasionally has issues downloading High Poly Head- I recommend manually downloading it here and placing the file in the folder you intend to use for your mod downloads prior to installing through the Wabbajack UI if you have issues.
 
 Post-install:  
 -When launching, ensure you have "ElderTeej" selected in the upper right-hand corner.  
@@ -37,7 +36,9 @@ M4 for dual wield blocking
 DEL for STB Widgets menu  
 END for ENB menu  
 
-PLEASE NOTE THAT THIS IS ACTIVELY BEING PATCHED. I only have this live because I'm hoping for people to help me get this fixed and maybe add some cool stuff to it later, but I don't have a team and I didn't build mods before this; I'm just a guy with a hyperfocus who loves Bethesda games!
+Important notes:  
+-Gamepad++ has been bundled with the list, but I do not use controller and have not configured it. I am happy to use anyone's custom setup that they get working for it if they want to provide one that they've tested, otherwise I have tested controller with the vanilla control scheme and it works. LB works as the dodge key when tapped, sprint key when held down and moving, and the activator button for Dynamic Activation Key.   
+-Ultrawide options have been included but not extensively tested. I don't own a monitor to test ultrawide on, so this is not currently something I can provide secondary support for.  
 
 Discord:
 [https://discord.gg/r4YnyqGBBA](https://discord.gg/r4YnyqGBBA)
