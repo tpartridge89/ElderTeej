@@ -5,7 +5,7 @@ Welcome to the ElderTeej Wabbajack list!
 <img width="1255" height="739" alt="ElderTeejmain" src="https://github.com/user-attachments/assets/e4638bff-3f88-4279-997b-2913deb41212" />
 
 
-What started as a fork of another popular modlist has become my own work, taking my tweaked version of the combat suite and safe save/death alternatives from the Journals of Jyggalag, every supported quest or item with a display in the Legacy of the Dragonborn museum, and plenty of visual goodness! Also includes some QoL tweaks, vanilla skill leveling with Experience on top, and some old favorites like Mysticism, Ordinator, and my implementation of what I'm dubbing The Great Cities of JK's Northern Roads.
+What started as a fork of another popular modlist has become my own work, taking my tweaked combat, every supported quest or item with a display in the Legacy of the Dragonborn museum, and plenty of visual goodness! Also includes some QoL tweaks, vanilla skill leveling with Experience on top, and some old favorites like Mysticism, Ordinator, and my implementation of what I'm dubbing The Great Cities of JK's Northern Roads.  
 
 Some highlights:  
 Witchy Wilderness  
