@@ -19,7 +19,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejsmall.png",
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_558f7f8b-a732-4bd1-8da8-7be9b69e2b4f",
       "machineURL": "ElderTeej",
@@ -80,4 +80,5 @@
     "dateUpdated": "2025-09-26T13:51:24.3290352Z",
     "repositoryName": ""
   }
+
 ]
