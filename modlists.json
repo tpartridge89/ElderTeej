@@ -27,13 +27,13 @@
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "7zjYRnDV2+Y=",
-      "Size": 1815251494,
-      "NumberOfArchives": 2423,
-      "SizeOfArchives": 215671972623,
-      "NumberOfInstalledFiles": 331657,
-      "SizeOfInstalledFiles": 342586602637,
-      "TotalSize": 558258575260
+      "Hash": "4O/EpDvpt8w=",
+      "Size": 942595481,
+      "NumberOfArchives": 2562,
+      "SizeOfArchives": 274170032423,
+      "NumberOfInstalledFiles": 426836,
+      "SizeOfInstalledFiles": 440748666545,
+      "TotalSize": 714918698968
     },
     "version": "2.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -82,3 +82,4 @@
   }
 
 ]
+
