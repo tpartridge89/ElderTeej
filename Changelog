@@ -1,3 +1,26 @@
+2.2.0:  
+
+Added:  
+-Thunderchild
+-Kanjs - Blackfyre Reborn  
+-Kanjs - Exsanguinator Bow  
+-Kanjs - Oath of the Storm  
+-Kanjs - GRA Katana Fallout New Vegas  
+-Discord Rich Presence  
+-Custom Window  
+-Lucifer the Argonian  
+
+
+Removed:  
+-Face Discoloration Fix
+
+
+
+-Updated NGIO since old version was showing in some crash reports  
+-Fixed Animated Armoury TCC patch  
+-Split list into 2 profiles so there is a nevernude default option  
+
+
 2.1.3:  
 -Additional Dac0da support, including a fix for the delayed start
 
