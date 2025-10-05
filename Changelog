@@ -1,3 +1,22 @@
+2.2.2:  
+
+Added:  
+-Cosmos Lucien Replacer  
+-Inigo the Suave  
+-Foxglove Auri Replacer  
+
+Removed:  
+-Pandorable's Lucien Replacer  
+-Auri Re-Imagined  
+-Gamepad++ - this breaks the list every time and I'm not going to spend time patching it in when the vanilla layout works great as-is  
+
+Updated:
+-Pandora Behavior Engine - 4.0.4 beta has working version with TK Dodge functionality again finally  
+-SDA - 4.2.2 hotfixes added  
+-Khajit Will Follow - new Vigilant update added  
+-SkyParkour updated to v3
+
+
 2.2.1:  
 
 Added:  
