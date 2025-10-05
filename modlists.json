@@ -61,7 +61,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/A%20Beautiful%20Commonwealth%20Readme",
+      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/A%20Beautiful%20Commonwealth%20Readme.md",
       "download": "https://authored-files.wabbajack.org/Default.wabbajack_4e9852a6-4059-4a0b-9613-a5cbdad80f0f",
       "machineURL": "ABC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
@@ -81,4 +81,5 @@
     "dateUpdated": "2025-09-28T23:19:13.2914466Z",
     "repositoryName": ""
   }
+
 ]
