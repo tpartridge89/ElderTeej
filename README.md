@@ -40,6 +40,10 @@ Important notes:
 -Gamepad++ has been bundled with the list, but I do not use controller and have not configured it. I am happy to use anyone's custom setup that they get working for it if they want to provide one that they've tested, otherwise I have tested controller with the vanilla control scheme and it works. LB works as the dodge key when tapped, sprint key when held down and moving, and the activator button for Dynamic Activation Key.   
 -Ultrawide options have been included but not extensively tested. I don't own a monitor to test ultrawide on, so this is not currently something I can provide secondary support for.  
 
+Known bugs:  
+-On start up, opening presets or naming your character before all scripts initialize can cause your character to die and get a "Dialogue Quest Failed to Start" pop up. Close the game and re-open, start a new character, and wait a bit. 
+
+
 Discord:
 [https://discord.gg/r4YnyqGBBA](https://discord.gg/r4YnyqGBBA)
 
