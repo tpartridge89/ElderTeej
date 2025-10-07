@@ -1,3 +1,20 @@
+2.2.3:  
+
+Added:  
+-HammerHair - more Redguard hairs? Hell yeah 
+-Photo Mode  
+-Collectibles Helper  
+-Semi-Realistic Preset Collection - 3BA and HIMBO, why not have more variety in bodies?  
+
+Removed:  
+-Unofficial TCC Display Helper - was causing false positives in items, not needed to speed up displays thanks to Papyrus Tweaks  
+-Falskaar Addons and Patches - incompatible with fixes mod used  
+-Falskaar writing patch - also breaks Comprehensive Fixes
+
+Updated:  
+-DynDOLOD updated to 196 alpha, new TexGen and list normal settings run as well  
+-Edge UI Explorer Addon and patches  
+
 2.2.2:  
 
 Added:  
