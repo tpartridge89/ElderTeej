@@ -15,7 +15,7 @@ Mods removed from Visuals Only profile:
 -Legendaries They Can Use  
 -Molotov Cocktail Nerf  
 -Useful Crank  
-Orphans of the Commonwealth and its Workshop Framework patch  
+-Orphans of the Commonwealth and its Workshop Framework patch  
 -LevelUpMenuEx  
 
 1.0.1:  
