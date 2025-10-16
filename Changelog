@@ -4,7 +4,8 @@ Added:
 -LOTD Unofficial Unslaad TCC Patch  
 
 Removed:  
--RYFTEN Consistency of Windows  
+-RYFTEN Consistency of Windows - caused CTD in Riften Temple of Mara  
+-Capture Warmer - caused all kinds of chaos with camera rotating  
 
 2.2.4:  
 
