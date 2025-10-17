@@ -151,7 +151,8 @@ If you find landscape holes/seams or find floating/clipping/broken static items,
 - If the issue is a static item that is clearly just needing to be disabled, we will need a screenshot with the FormID so we can look the item up. Hit the ` key to launch the console, click on the offending item (or use your mouse wheel to scroll through until the item is what is clearly highlighted), then screenshot the whole window by hitting the Print Screen button.  
 
   It should look like this:  
-  <img width="1875" height="1078" alt="image" src="https://github.com/user-attachments/assets/d43ec96f-12e2-40fe-a949-e2741095bd2d" />  
+  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9878abe1-052e-4964-b9b1-43182e9f5dd0" />  
+  
 
 - If the issue is a landscape seam/hole, or is a static object that needs to be adjusted instead of disabled, we will need a little more information than that. [This video by biggie_boss](https://www.youtube.com/watch?v=bLibtlmBgRw) shows how to find the plugin information for a cell your character is in; we will need all plugins affecting the cell so we can recreate it in Creation Kit and generate a patch for the issue.  
 
