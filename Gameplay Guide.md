@@ -196,7 +196,10 @@ There are a few options to improve performance on the list:
 
   <img width="1875" height="1078" alt="image" src="https://github.com/user-attachments/assets/d52e1622-2d3a-4773-952a-4032408f6feb" />  
 
-- [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) changes some of the ways scripting and memory stuff works, can be tweaked to allow more or less speed on scripting calls as your PC will tolerate.  
+- [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) changes some of the ways scripting and memory stuff works, can be tweaked to allow more or less speed on scripting calls as your PC will tolerate. You can find the ini in the below folder:
+
+  <img width="1875" height="1078" alt="image" src="https://github.com/user-attachments/assets/a2647972-1d56-4ee5-9be0-40173b16fbfc" />  
+  
 
 - [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557) is also included with the list if you want to use it to knock down VRAM usage from the textures the list uses. I highly recommend re-running all outputs AFTER Synthesis if you use VRAMr.
 
