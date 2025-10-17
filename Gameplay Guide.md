@@ -143,7 +143,7 @@ Additionally, if you add new CBBE or HIMBO outfits, you will need to update the 
 
       
 
-## Troubleshooting  
+## Troubleshooting:  
 
 
 ### Kodex Reports  
