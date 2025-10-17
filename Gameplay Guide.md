@@ -136,6 +136,8 @@ The list includes [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mod
 Please note: **DO NOT** disable the non-Nevernude Bodyslide outputs, the Nevernude Outputs are **only** the updated nude bodies, so the other outputs are needed for the outfits to work.   
 
 
+
+
 If you wish to change the body physics, the 3BBB installer has options for lighter physics, simply right-click the mod and hit re-install; for male bodies, you will need to update Bodyslide files.  
 
 Additionally, if you add new CBBE or HIMBO outfits, you will need to update the outputs. Do not forget that there are separate Bodyslide outputs for male bodies and female bodies in the list; you will need to update the output folders accordingly. [The Bodyslide mod page](https://www.nexusmods.com/skyrimspecialedition/mods/201) has usage instructions for the tool.  
