@@ -133,10 +133,10 @@ The list has a few major changes to combat to be aware of:
 The list includes [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) and [HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/46311) to change the bodies in-game and [OBody Next Generation](https://www.nexusmods.com/skyrimspecialedition/mods/77016) (mod pages are NSFW- be warned) to distribute the different preset bodies throughout Skyrim. There is also a SFW profile as well with nevernude bodies as the default; simply select the Nevernude Default profile:  
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7eade1af-a5b0-4a3d-a0f2-d10874c79908" />  
-Please note: **DO NOT** disable the non-Nevernude Bodyslide outputs, the Nevernude Outputs are **only** the updated nude bodies, so the other outputs are needed for the outfits to work.  
+Please note: **DO NOT** disable the non-Nevernude Bodyslide outputs, the Nevernude Outputs are **only** the updated nude bodies, so the other outputs are needed for the outfits to work.   
 
 
-If you wish to change the body physics, the 3BBB installer has options for lighter physics, simply right-click the mod and hit re-install; for male bodies, you will need to update Bodyslide files. 
+If you wish to change the body physics, the 3BBB installer has options for lighter physics, simply right-click the mod and hit re-install; for male bodies, you will need to update Bodyslide files.  
 
 Additionally, if you add new CBBE or HIMBO outfits, you will need to update the outputs. Do not forget that there are separate Bodyslide outputs for male bodies and female bodies in the list; you will need to update the output folders accordingly. [The Bodyslide mod page](https://www.nexusmods.com/skyrimspecialedition/mods/201) has usage instructions for the tool.  
 
