@@ -4,7 +4,7 @@
 
 ### Getting Started  
 
-Create your character in Race Menu. There are presets available to test out by clicking on the Presets tab in the upper right-hand corner of the screen. You will have the option to Save Preset or Load Preset at the bottom of your screen- you can save your current build for future use, or load up one of the ones the list comes with from here.
+Create your character in Race Menu. There are presets available to test out by clicking on the Presets tab in the upper right-hand corner of the screen. You will have the option to Save Preset or Load Preset at the bottom of your screen- you can save your current build for future use, or load up one of the ones the list comes with from here. Please note that if you make a preset, the Discord has a channel to share it that will occasionally get included in the list!  
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3797b659-7e4e-4ab0-b6a3-23ae4f068c18" />
 
@@ -111,8 +111,34 @@ There are a few mods that delay the timing of quests/DLCs in the list:
 - [Radiant Requirements MCM](https://www.nexusmods.com/skyrimspecialedition/mods/45427): allows you to delay certain radiant quests until you're a certain level.
 
 
+### Combat  
+The list has a few major changes to combat to be aware of:  
+
+- [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052): changes third person combat/NPC combat behaviors based on installed movesets. There is a MCM if you want to tweak combat behaviors.  
+
+- [Dual Wield Parrying SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/85505): adds a separate block button so you can have left-hand items equipped and still block. Also allows for spells in your left hand. Default key is set to Mouse4, but the Posts tab has the scan codes the included ini file needs if you want to change it for yourself. You will also need to change the Valhalla MCM options if you change your block key:
+
+  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/bf6c2cee-5f6c-4dce-834a-900a4be4419f" />  
+
+
+- [TK Dodge NG](https://www.nexusmods.com/skyrimspecialedition/mods/115408): adds a dodge roll mechanic. List default is tap to dodge, set to the sprint key.  
+
+- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741): adds a stamina and blocking/parrying mechanic to combat. Has a MCM to change values if you want to tweak them, will need changes if you switch dual wield block key.
+
+- [Chocolate Poise](https://www.nexusmods.com/skyrimspecialedition/mods/70478): adds a poise and stagger mechanic to combat. You should see a yellow bar in the HUD indicating stagger status.  
+
+
 ### BodySlide and Modified Bodies  
 
+The list includes [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) and [HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/46311) to change the bodies in-game and [OBody Next Generation](https://www.nexusmods.com/skyrimspecialedition/mods/77016) (mod pages are NSFW- be warned) to distribute the different preset bodies throughout Skyrim. There is also a SFW profile as well with nevernude bodies as the default; simply select the Nevernude Default profile:  
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7eade1af-a5b0-4a3d-a0f2-d10874c79908" />  
+Please note: **DO NOT** disable the non-Nevernude Bodyslide outputs, the Nevernude Outputs are **only** the updated nude bodies, so the other outputs are needed for the outfits to work.  
+
+
+If you wish to change the body physics, the 3BBB installer has options for lighter physics, simply right-click the mod and hit re-install; for male bodies, you will need to update Bodyslide files. 
+
+Additionally, if you add new CBBE or HIMBO outfits, you will need to update the outputs. Do not forget that there are separate Bodyslide outputs for male bodies and female bodies in the list; you will need to update the output folders accordingly.[The Bodyslide mod page](https://www.nexusmods.com/skyrimspecialedition/mods/201) has usage instructions for the tool.  
 
 
       
@@ -158,3 +184,44 @@ If you find landscape holes/seams or find floating/clipping/broken static items,
 
   The screenshot for these issues should look like this:
   <img width="1211" height="686" alt="image" src="https://github.com/user-attachments/assets/97d0f73e-5091-47b0-877a-751f76a6c07f" />  
+
+
+### Performance Improvements  
+
+There are a few options to improve performance on the list:  
+
+- Install the performance LODs [from the Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/154704). Place these below the standard DynDOLOD Outputs in the left pane, then enable them and disable the old ones.  
+
+- The list has the most up-to-date [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230); the .toml file can be edited to enable/disable tweaks and memory fixes based on your PC. That file can be found in the below folder:  
+
+  <img width="1875" height="1078" alt="image" src="https://github.com/user-attachments/assets/d52e1622-2d3a-4773-952a-4032408f6feb" />  
+
+- [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779) changes some of the ways scripting and memory stuff works, can be tweaked to allow more or less speed on scripting calls as your PC will tolerate.  
+
+- [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557) is also included with the list if you want to use it to knock down VRAM usage from the textures the list uses. I highly recommend re-running all outputs AFTER Synthesis if you use VRAMr.
+
+
+### Re-Running Outputs  
+
+You may need to re-run outputs from time-to-time: broken install, rule 11 additions, maybe you've got a better rig than me and want better DynDOLOD outputs. Our friends at The Modding Bordello [have put together a comprehensive guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Tool-Running-Guide) that they've kindly allowed us permission to link to that breaks down all of the tools you may need to mess with. My only real general addition is that I always recommend keeping the outputs in the order shown below:  
+
+<img width="454" height="370" alt="image" src="https://github.com/user-attachments/assets/d002f175-3855-4f16-83e9-a1eb069eea2c" />  
+
+Additionally, if you re-run Synthesis, you may need to re-forward changes from the ElderTeej Master Patch into Synthesis to maintain landscape fixes the team has already identified and fixed.  
+
+You will need to open xEdit:  
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/37547c88-20d0-44f0-8438-718a3991dcfa" />  
+
+Hit Ok on the Plugin Selection screen, then make sure not to select anything on the Mod Groups screen. Scroll down to the ElderTeej Master Patch (all the way toward the bottom) and expand it to get into the Worldspaces, as pictured:  
+
+<img width="2092" height="1150" alt="image" src="https://github.com/user-attachments/assets/6c4c38dd-4d8e-491f-acd5-a253943cf501" />  
+
+
+From here, you can expand every worldspace edit in the patch; you are looking for the "Landscape" entry to look like below:  
+
+<img width="2092" height="1150" alt="image" src="https://github.com/user-attachments/assets/2f7e228d-cbd2-459b-a841-f7cbadc47bda" />  
+
+
+If the word "Landscape" is red, you will need to drag the column that says "ElderTeej Master Patch.esp" at the top over the column that says "Synthesis.esp." Once you have confirmed that all landscape edits from the master patch are the winning values, exit xEdit and save when prompted. This process is applicable for **any** time you run Synthesis.  
+
+
