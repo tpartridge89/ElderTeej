@@ -29,7 +29,8 @@ As far as technical requirements: I recommend at least 32 GB of RAM for modded S
 
 **Post-install:**  
 - When launching, ensure you have "ElderTeej" selected in the upper right-hand corner.  
-- Please allow everything to load fully before selecting a start in the beginning cell- this is a VERY script heavy portion of things. You should get a message stating "Museum List Building Complete" when everything is ready.  
+- Please allow everything to load fully before selecting a start in the beginning cell- this is a VERY script heavy portion of things. You should get a message stating "Museum List Building Complete" when everything is ready.
+- [A full gameplay guide is now available!](https://github.com/tpartridge89/ElderTeej/blob/main/Gameplay%20Guide.md)
 
 **Important hot keys:**  
 G to toggle helmet  
