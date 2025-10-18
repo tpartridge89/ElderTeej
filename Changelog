@@ -12,6 +12,7 @@ Added:
 Removed:  
 -RYFTEN Consistency of Windows - caused CTD in Riften Temple of Mara  
 -Capture Warmer - caused all kinds of chaos with camera rotating  
+-ENB Dynamic Cubemaps - moving away from dynamic cubemapping at all
 
 2.2.4:  
 
