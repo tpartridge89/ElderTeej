@@ -62,23 +62,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/A%20Beautiful%20Commonwealth%20Readme.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_4e9852a6-4059-4a0b-9613-a5cbdad80f0f",
+      "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_4233e32a-5eae-4e0f-9756-c70dae577403",
       "machineURL": "ABC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "6AgTNrYbPFQ=",
-      "Size": 222259843,
-      "NumberOfArchives": 1309,
-      "SizeOfArchives": 129259746437,
-      "NumberOfInstalledFiles": 103979,
-      "SizeOfInstalledFiles": 154635979488,
-      "TotalSize": 283895725925
+      "Hash": "7BR767Mmw/E=",
+      "Size": 5370771788,
+      "NumberOfArchives": 1317,
+      "SizeOfArchives": 129285293290,
+      "NumberOfInstalledFiles": 106564,
+      "SizeOfInstalledFiles": 154961596471,
+      "TotalSize": 284246889761
     },
-    "version": "1.0.3",
+    "version": "2.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-28T23:19:13.2914466Z",
+    "dateUpdated": "2025-10-19T00:40:33.745482Z",
     "repositoryName": ""
   }
 ]
