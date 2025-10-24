@@ -208,9 +208,19 @@ There are a few options to improve performance on the list:
 
 ### Re-Running Outputs  
 
-You may need to re-run outputs from time-to-time: broken install, rule 11 additions, maybe you've got a better rig than me and want better DynDOLOD outputs. Our friends at The Modding Bordello [have put together a comprehensive guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Tool-Running-Guide) that they've kindly allowed us permission to link to that breaks down all of the tools you may need to mess with. My only real general addition is that I always recommend keeping the outputs in the order shown below:  
+You may need to re-run outputs from time-to-time: broken install, rule 11 additions, maybe you've got a better rig than me and want better DynDOLOD outputs. Our friends at The Modding Bordello [have put together a comprehensive guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Tool-Running-Guide) that they've kindly allowed us permission to link to that breaks down all of the tools you may need to mess with. I always recommend keeping the outputs in the order shown below:  
 
 <img width="454" height="370" alt="image" src="https://github.com/user-attachments/assets/d002f175-3855-4f16-83e9-a1eb069eea2c" />  
+
+Please note that we use a different setup for BodySlide than they do- I recommend using the Group Manager function to loads my pre-made groups and add your outfits to them in the interest of running the tool easier/more efficient in the future:  
+
+<img width="1299" height="695" alt="image" src="https://github.com/user-attachments/assets/ef831c70-e0b9-4f5b-8358-fc195f66f3ee" />  
+
+Hit "Browse," then load "ElderTeej.xml" and you should have 2 groups, Female and Male. You can add outfits to either group and hit "Save" to keep them permanently in the groups I set up.  
+
+<img width="786" height="493" alt="image" src="https://github.com/user-attachments/assets/5ab71e74-dd1b-4781-8f09-8b7be9a83317" />  
+
+Do not forget to choose the appropriate Bodyslide Outputs folder for the gender you are generating, as I have them separated.  
 
 Additionally, if you re-run Synthesis, you may need to re-forward changes from the ElderTeej Master Patch into Synthesis to maintain landscape fixes the team has already identified and fixed.  
 
