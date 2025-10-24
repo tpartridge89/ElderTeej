@@ -135,13 +135,32 @@ The list includes [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mod
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7eade1af-a5b0-4a3d-a0f2-d10874c79908" />  
 Please note: **DO NOT** disable the non-Nevernude Bodyslide outputs, the Nevernude Outputs are **only** the updated nude bodies, so the other outputs are needed for the outfits to work.   
 
+I recommend using the Group Manager function to load my pre-made groups and add your outfits to them in the interest of running the tool easier/more efficient in the future:  
 
+<img width="1299" height="695" alt="image" src="https://github.com/user-attachments/assets/ef831c70-e0b9-4f5b-8358-fc195f66f3ee" />  
 
+Hit "Browse," then load "ElderTeej.xml" and you should have 2 groups, Female and Male. You can add outfits to either group and hit "Save" to keep them permanently in the groups I set up.  
+
+<img width="786" height="493" alt="image" src="https://github.com/user-attachments/assets/5ab71e74-dd1b-4781-8f09-8b7be9a83317" />  
+
+Do not forget to choose the appropriate Bodyslide Outputs folder for the gender you are generating, as I have them separated.  
 
 If you wish to change the body physics, the 3BBB installer has options for lighter physics, simply right-click the mod and hit re-install; for male bodies, you will need to update Bodyslide files.  
 
-Additionally, if you add new CBBE or HIMBO outfits, you will need to update the outputs. Do not forget that there are separate Bodyslide outputs for male bodies and female bodies in the list; you will need to update the output folders accordingly. [The Bodyslide mod page](https://www.nexusmods.com/skyrimspecialedition/mods/201) has usage instructions for the tool.  
+Additionally, if you add new CBBE or HIMBO outfits, you will need to update the outputs. Once again, there are separate Bodyslide outputs for male bodies and female bodies in the list; you will need to update the output folders accordingly. [The Bodyslide mod page](https://www.nexusmods.com/skyrimspecialedition/mods/201) has usage instructions for the tool.  
 
+
+### Handy Crafting and Spells  
+
+[Handy Crafting and Spells](https://www.nexusmods.com/skyrimspecialedition/mods/64843) adds an auto-store feature for crafting materials and alchemy ingredients, as well as a few different spells for convenience. It is important to note that this will happen instantly, so if you are picking flowers, grabbing mushrooms, mining ore, whatever it is, and you don't see it in your inventory, you can access the stored ingredients at any point. There are spells for a bag of holding, access to your stored ingredients, sell the items in your bag of holding, and even summon a ghost mount if you don't already have a horse!  
+
+(Placeholder, show screenshot of spells in menu)  
+
+Ingredients will be restored to your inventory when crafting or when in a safe location (player homes, the Dragonborn Museum, etc.), and you can also turn auto-store on and off in the MCM. There's also a few other options, like the ability to auto-learn the alchemical properties of auto-stored ingredients when they get stored. This is disabled by default.  
+
+(Placeholder, show MCM)  
+
+Please remember: ingredients that are auto-stored will need to be manually retrieved if needing them for a quest, like in the Lost Echo Cave, where a glowing mushroom is needed. You will need to retrieve a mushroom from your stored ingredients to actually have one on hand for the quest.  
 
       
 
@@ -211,16 +230,6 @@ There are a few options to improve performance on the list:
 You may need to re-run outputs from time-to-time: broken install, rule 11 additions, maybe you've got a better rig than me and want better DynDOLOD outputs. Our friends at The Modding Bordello [have put together a comprehensive guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/SOS-Tool-Running-Guide) that they've kindly allowed us permission to link to that breaks down all of the tools you may need to mess with. I always recommend keeping the outputs in the order shown below:  
 
 <img width="454" height="370" alt="image" src="https://github.com/user-attachments/assets/d002f175-3855-4f16-83e9-a1eb069eea2c" />  
-
-Please note that we use a different setup for BodySlide than they do- I recommend using the Group Manager function to loads my pre-made groups and add your outfits to them in the interest of running the tool easier/more efficient in the future:  
-
-<img width="1299" height="695" alt="image" src="https://github.com/user-attachments/assets/ef831c70-e0b9-4f5b-8358-fc195f66f3ee" />  
-
-Hit "Browse," then load "ElderTeej.xml" and you should have 2 groups, Female and Male. You can add outfits to either group and hit "Save" to keep them permanently in the groups I set up.  
-
-<img width="786" height="493" alt="image" src="https://github.com/user-attachments/assets/5ab71e74-dd1b-4781-8f09-8b7be9a83317" />  
-
-Do not forget to choose the appropriate Bodyslide Outputs folder for the gender you are generating, as I have them separated.  
 
 Additionally, if you re-run Synthesis, you may need to re-forward changes from the ElderTeej Master Patch into Synthesis to maintain landscape fixes the team has already identified and fixed.  
 
