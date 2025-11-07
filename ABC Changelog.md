@@ -1,3 +1,17 @@
+3.0.0:  
+
+Added:  
+-Lightweight Lighting  
+-MS Fast Start - Skip Sanctuary Prologue  
+
+Removed:  
+-Ultra Interior Lighting  
+-Ultra Exterior Lighting  
+-SKK Fast Start  
+
+Updated:  
+-FlaconOil's Complete Retextures has been downgraded to 2k textures for performance reasons  
+
 2.0.0:  
 
 Added:  
