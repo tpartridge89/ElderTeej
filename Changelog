@@ -1,3 +1,19 @@
+Beta Hotfix 1:  
+
+Removed:  
+-Myrwatch Editable Cell Fix (no longer needed)  
+-Auto Parallax  (kept it when it wasn't really needed after PG Patcher became a thing, idk)  
+
+Fixed:  
+-Argonian skins (FAR 2k is broken, upgraded to 4k)  
+-Markarth Doors  
+-CTD with children's furniture  
+-NPCs having Summon Spectral Steed (because why can they call Arvak in a fight?)    
+
+Known bugs:  
+-Tome of Reflections book is illegible in inspection mode; this is a mod issue and will be updated when the author fixes it  
+-Some horns from Better Argonian Horns float a slight amount above character's head in RaceMenu; this is unresolved in this hotfix but will be addressed
+
 3.0.0:  
 
 Added:  
