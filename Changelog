@@ -1,3 +1,32 @@
+Beta Hotfix 2:  
+
+Added:  
+-SIGMA Greatsword and Warhammer 1st person animations  
+-State Behavior Framework  
+-SPID - NFF - Add Ignore Token to CustomAI Followers  
+-NFF - Hidden Ignore Tokens in Inventory for Custom AI Followers and Automatic SPID Distribution  
+-Project ja-Kha'jay Kha'jiit Will Follow and 3DNPCs add-ons  
+
+Removed:  
+-SB Lucifer Replacer  
+-Common Clothing Expansion  
+-More Varied Clothes  
+-JellyFish FP Movement REanimation  
+-Bard Fashions  
+-Merchant Fashions  
+-Blacksmith Fashions  
+-Common Clothing Retexture SE  
+-Court Fashions  
+-Follower Fashions  
+
+Fixed:  
+-NPCs having Summon Arvak, because somehow they had Spectral Steed AND Arvak in the distribution ini
+-Children's furniture .nif crashing from LotD  
+-Ice Floes ice not being updated in LotD reception hall  
+-All reported landscape issues  
+
+
+
 Beta Hotfix 1:  
 
 Removed:  
