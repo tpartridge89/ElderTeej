@@ -7,6 +7,7 @@ Fixed:
 
 Updated:  
 -USSEP, was somehow on an old version  
+-NPCs Learn has had ALL Conjuration distributions removed. At this rate, it's about to get tossed altogether.  
 
 Untested:  
 -Hermaeus Mora face meshes being were patched by PG Patcher but not showing in-game. This has been corrected but not tested to see if it actually fixes the issue.   
