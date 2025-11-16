@@ -1,3 +1,13 @@
+Beta Hotfix 3:  
+
+Fixed:  
+-PG Patcher exceptions didn't catch a couple previous fixes, so updated exceptions and reverted output to expected 
+-Invisible armored trolls  
+-Misspelling in Conjuration perk Dark Whispers  
+
+Updated:  
+-USSEP, was somehow on an old version  
+
 Beta Hotfix 2:  
 
 Added:  
