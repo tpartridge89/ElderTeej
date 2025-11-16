@@ -8,7 +8,7 @@ Fixed:
 
 Updated:  
 -USSEP, was somehow on an old version  
--NPCs Learn has had ALL magic distributions removed, there are more focused and better constructed distributions already in the list   
+-NPCs Learn has had ALL magic distributions removed, there are more focused and better constructed distributions already in the list. This may not fix NPCs that have already had spells distributed to them, like followers   
 
 Untested:  
 -Hermaeus Mora face meshes being were patched by PG Patcher but not showing in-game. This has been corrected but not tested to see if it actually fixes the issue.   
