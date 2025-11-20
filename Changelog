@@ -1,3 +1,25 @@
+Beta Hotfix 5:  
+
+Added:  
+-Mesh Improvement Compilation; actually a prereq for one of the texture mods, may improve Windhelm stability  
+-Complete Temper Replica Fixes NG; to temper replica weapons added by Complete Replica Fixes  
+-Bruiser  
+-Lexicon SKSE  
+-Stagger Knockdown Perk Entries  
+-Unarmed Weapon Speed Scaling  
+
+Removed:  
+-Constellations  
+
+Updated:  
+-Complete Replica Fixes for Legacy of the Dragonborn  
+-Skypatcher  
+-Actor Value Generator  
+-Perk Entry Point Extender  
+
+Fixed:  
+-Wrong leveled list item being pulled for some museum displays  
+
 Beta Hotfix 4:  
 
 Added:  
