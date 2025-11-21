@@ -7,18 +7,32 @@ Added:
 -Lexicon SKSE  
 -Stagger Knockdown Perk Entries  
 -Unarmed Weapon Speed Scaling  
+-The Great Town of Ivarstead  
+-Mihail's Hanging Dead Animals Replacer and Hanging Dead Chickens Replacer  
+-Mihail's More Cow Variants, fluffy patch and PBR textures  
 
 Removed:  
 -Constellations  
+-Thuldor's Ivarstead  
+-Morrowind Creatures  
+-MM Cows  
+-High Poly Milk Jug  
+-Welwas  
+-Durzogs  
+-Echatere  
+-Kwama  
 
 Updated:  
 -Complete Replica Fixes for Legacy of the Dragonborn  
 -Skypatcher  
 -Actor Value Generator  
 -Perk Entry Point Extender  
+-Northern Roads Patch Collection  
 
 Fixed:  
 -Wrong leveled list item being pulled for some museum displays  
+-All currently identified landscape issues  
+-Skyrim's Unique Treasures chest in Riverwood was clipped inside a building  
 
 Beta Hotfix 4:  
 
