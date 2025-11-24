@@ -11,8 +11,7 @@ Updated:
 -Widescreen Scale Removed  
 
 Fixed:  
--Blackface on Riverwood Has Walls NPCs  
--Vanilla hair in LotD NPCs not covered by the NPC overhaul for it  
+-Blackface on Riverwood Has Walls NPCs   
 -Switched to Edge UI since it did not have crosshair issues Oathvein seems to have; Oathvein still packaged as optional, but will need additional work  
 -Some broken/incomplete FormLists  
 -General Xile from Relic Hunter start nerfed to be a little lower level, still should feel like a boss, just not kill you 4 times  
