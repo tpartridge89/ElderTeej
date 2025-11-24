@@ -1,3 +1,25 @@
+Beta Hotfix 7:  
+
+Added:  
+-Faithful Faces - Legacy of the Dragonborn  
+-LotD Mesh Fixes  
+-Legacy of the Dragonborn cubemaps fixed  
+-Legacy of the Dragonborn 4K-2K - Cleaned and Upscaled Textures for LotD SSE  
+-Parallax Textures - Legacy of the Dragonborn  
+-Rorikstead Basalt Cliffs Patches  
+-Riverwood Has Walls - Alchemist Fix  
+-Legacy of the Dragonborn - Improved Dig Sites SE by Xtudo  
+
+Removed:  
+-Legacy Textures Upscaled - Legacy of the Dragonborn  
+-Legacy of the Dragonborn Plaques Retexture  
+
+Fixed:  
+-Weird hair broken by patching stuff in LotD 
+-Rorikstead cliffs being all screwed up  
+-Replica fixes re-ordered to un-break Safehouse displayed items  
+
+
 Beta Hotfix 6:  
 
 Added:  
