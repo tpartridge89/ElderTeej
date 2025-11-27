@@ -80,5 +80,48 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-11-27T17:11:19.769613Z",
     "repositoryName": ""
+  },
+    {
+    "title": "A Bountiful Commonwealth",
+    "description": "The ElderTeej philosophy, but applied to Fallout!",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Total Overhaul",
+      "Steam",
+      "Combat Overhaul",
+      "SFW"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
+      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_03b1fe27-5e4d-4376-8838-42a1250f8ce7",
+      "machineURL": "ABouC",
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "eGw2GSgK6zs=",
+      "Size": 647880619,
+      "NumberOfArchives": 1564,
+      "SizeOfArchives": 201599569968,
+      "NumberOfInstalledFiles": 189475,
+      "SizeOfInstalledFiles": 277380144884,
+      "TotalSize": 478979714852
+    },
+    "version": "1.0.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "",
+    "repositoryName": ""
   }
+
 ]
