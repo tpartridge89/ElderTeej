@@ -46,9 +46,6 @@ F11 for Hotkey Reminder
 - Upscaling for Community Shaders is included in the list, but not enabled by default. 
 - There is controller support through Modern Controlmap but will require some setup/config. Please see the gameplay guide for recommendations and instructions. 
 
-**Known bugs:**  
-- <s>On start up, opening presets or naming your character before all scripts initialize can cause your character to die and get a "Dialogue Quest Failed to Start" pop up. Close the game and re-open, start a new character, and wait a bit.</s> This appears to have been resolved through the removal of an offending mod; however, I will leave it listed, just in case.  
-
 
 **Discord:**
 [https://discord.gg/r4YnyqGBBA](https://discord.gg/r4YnyqGBBA)
