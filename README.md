@@ -34,13 +34,13 @@ As far as technical requirements: I recommend at least 32 GB of RAM for modded S
 - [A full gameplay guide is now available!](https://github.com/tpartridge89/ElderTeej/blob/main/Gameplay%20Guide.md)
 
 **Important hot keys:**  
-G to toggle helmet
-H to call horse
-M4 for dual wield blocking
-DEL for STB Widgets menu
-END for Community Shaders menu
-PGDN for Modex
-F11 for Hotkey Reminder
+G to toggle helmet  
+H to call horse  
+M4 for dual wield blocking  
+DEL for STB Widgets menu  
+END for Community Shaders menu  
+PGDN for Modex  
+F11 for Hotkey Reminder  
 
 **Important notes:**  
 - Upscaling for Community Shaders is included in the list, but not enabled by default. 
