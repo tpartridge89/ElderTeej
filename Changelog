@@ -1,3 +1,141 @@
+3.1.0:  
+
+Added:  
+-Dragonborn's Bestiary - Mihail Addons  
+
+Updated:  
+-powerofthree's Papyrus Extender  
+-ConsolePlusPlus  
+-SkyPatcher  
+-KreatE  
+-XEMI Utility  
+-Persistent Favorites  
+-Creation Kit Platform Extended  
+-Container Distribution Framework  
+-Experience  
+-Considerate Followers - Followers are Silent During Dialogue  
+-Magic Casting Utilities (now renamed to "aTweaks and Utilities" on Nexus)  
+-Navigator - Navmesh Fixes  
+-Unofficial Skyrim Modder's Patch - USMP SE  
+-Zero Bounty Hostility Fix  
+-Universal Unwanted Effects Clearer - Visual Effects - Imagespace Modifiers - Effect Shaders - Clairvoyance  
+-Ultimate Optimized Scripts Compilation  
+-Fast Travel Crash Fix  
+-Switch Camera During Dialogue  
+-Camera Persistence Fixes  
+-Easy Console Commands  
+-ImGui Icons  
+-Detection Meter - AE Support  
+-Better Third Person Selection - BTPS  
+-Smart Talk (Dialogue Menu Enhancer)  
+-Floating Subtitles  
+-The Dragonborn's Bestiary - Race Based Identification Addon  
+-Contextual Crosshair  
+-Assorted mesh fixes  
+-Random Barrel Roll - Base Object Swapper  
+-Icy Mesh Remaster - Ice Glaciers - LOD - other fixes  
+-Dynamic Things Alternative - Base Object Swapper  
+-Praedy's College of Winterhold - SE  
+-Orc Settlements Enhanced  
+-Nordic Stonewalls  
+-Rally's Dark Elf Furniture (High Poly - ENB Light)  
+-Skyking Alchemy Ingredients  
+-Animated Icebergs  
+-Animated Ice Floes  
+-Praedy's Night Sky AIO - SE  
+-DrJacopo's - 3D Landscapes and Grass Library  
+-Happy Little Trees PBR  
+-Cathedral PBR Plants  
+-Diverse high-quality PBR shrubs  
+-Overlooked Dungeon Objects Retextures  
+-slightly Better Nordic Henges  
+-Water for ENB  
+-Natural Waterfalls  
+-Water Effects Brightness and Reflection Fix  
+-Legacy of the Dragonborn - Ryn's Snazzy Last Vigil - Ebony Warrior Overhaul Patch  
+-Snozz's Resource Pack  
+-Ryn's Mehrunes Dagon - Patch Collection  
+-Fluffworks - Tweaks and Expansion  
+-Betty Netch  
+-KrittaKitty's Realistic Primitive Horse Breeds - Port Update Fluff  
+-Khajiit Has Tents (2k main file)  
+-Cities of the North - Falkreath Patch Collection  
+-The Great City of Winterhold Patch Collection  
+-JK's Riften Outskirts Patch Collection  
+-JK's Solitude Outskirts Patch Collection  
+-JK's Whiterun Outskirts  
+-Whiterun Exteriors Patch Collection (JK - Ryn's - Capital)  
+-JK's Tel Mithryn Patch Collection  
+-Snazzy Location Resources  
+-JK's Fort Dawnguard  
+-JK's Septimus Signus's Outpost  
+-JK's The Winking Skeever  
+-JK's Thieves Guild HQ  
+-Snazzy Interiors Patch Collection  
+-JK's College of Winterhold (Immersive and Obscure) Combo Patches  
+-Growl - Werebeasts of Skyrim  
+-Apocalypse - Magic of Skyrim  
+-Odin - Skyrim Magic Overhaul  
+-Odin - Ordinator Compatibility Patch    
+-Lost Grimoire - Apocalypse Odin and Other Patches  
+-Ordinator - Perks of Skyrim  
+-Optimised Scripts for Ordinator  
+-Additional Dremora Faces  
+-Additional Dremora Faces - VIGILANT Patch (probably should add the CC The Cause patch too)  
+-Remote Interactions  
+-Swiftly Order Squad - Follower Commands UI  
+-Legendary Enemies  
+-Wyrmstooth (Dragonborn Compatibility patch no longer needed)  
+-DAc0da - CoMAP Addon  
+-VIGILANT SE - Settings Loader  
+-Siege at Icemoth  
+-Innocence Lost - Quest Expansion  
+-College of Winterhold - Quest Expansion  
+-The Heart of Dibella - Quest Expansion  
+-Nilheim - Misc Quest Expansion  
+-The Whispering Door - Quest Expansion  
+-Hunters Not Bandits  
+-BBE 3BA Vanilla Outfits Redone  
+-S long hair for males Unisex patch  
+-HammerHair V1.15  
+-Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos  
+-Vrayth's Racemenu Presets - Male and Female - EFM - High Poly Head  
+-Cultural Bards - A Bard Themed Clothing and Accessory Collection  
+-Cultural Bards - CBBE 3BA  
+-Fur Shader Armors  
+-Xavbio Cubemap Patch Hub (3BA - HIMBO)  
+-Kanjs - Sanguine Rose Animated  
+-Heavy Armory - New Weapons  
+-Silver Bow  
+-Sithis Armour - Special Edition - Mastercraft Version  
+-VickusDickus' Khajiiti Apex Armory Reforged  
+-Ancient Imperial Armor SE  
+-Ancient Imperial Armour SE 3BA  
+-Dwemer Armor SE - CBBE 3BA  
+-SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)  
+-Smart NPC Potions - Enemies Use Potions and Poisons  
+-Helmet Toggle 2  
+-First Person Interactions  
+-Dismembering Framework  
+-Next-Gen Decapitations  
+-Draugr Unarmed Attack Animation  
+-Draugr One-handed Attack Animation  
+-Unlocked 1st Person Combat  
+-Precision Creatures  
+-Core Impact Framework (CIF)  
+-Smooth Moveset - OAR  
+-Chocolate Poise - Elden Parry - Ordinator - ParryingRPG Tweaks and Integration  
+-Ultimate NPC Dodging  
+-Flint - A Minotaur Follower v2.4.1  
+-Embers XD  
+-Legacy of the Dragonborn - Creation Club Patch Hub  
+ 
+
+Fixed:  
+-Goldenhills Plantation statics floating  
+-Minor landscape fixes for Relic Hunter start  
+-Stone of Barenziah not being JS model  
+
 3.0.0:
 
 Added:  
