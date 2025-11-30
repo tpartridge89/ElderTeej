@@ -146,6 +146,8 @@ Fixed:
 -Goldenhills Plantation statics floating  
 -Minor landscape fixes for Relic Hunter start  
 -Stone of Barenziah not being JS model  
+-JS models not being used in a few intended spots  
+-Hotkey Reminder mapping  
 
 3.0.0:
 
