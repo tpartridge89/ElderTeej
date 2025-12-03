@@ -1,7 +1,7 @@
 [
   {
     "title": "ElderTeej",
-    "description": "BFCO combat, every official LOTD display on Nexus, Ordinator perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
+    "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
     "author": "tpartridge89",
     "maintainers": [
       "github/tpartridge89"
@@ -123,4 +123,5 @@
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
   }
+
 ]
