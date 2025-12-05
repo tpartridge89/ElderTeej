@@ -16,6 +16,7 @@ Added:
 
 Updated:  
 -Riton's Farmhouses upgraded to 4k; you see this wood texture EVERYWHERE, so I figured it made sense to look better  
+-Compass Navigation Overhaul is defaulted to disabled; it is still in the list if you want to enable it, but we are trying to see if this also causes the UI issues people have had  
 
 Removed:  
 -First Person Interactions  
