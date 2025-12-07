@@ -109,7 +109,7 @@ Unfortunately, though patches are currenty planned for these interiors, we also 
 <img width="1845" height="1202" alt="image" src="https://github.com/user-attachments/assets/3509393a-c98b-4c5a-9540-215efb0b1e52" />  
 
 
-There are a LOT of patches for these mods in the list. Make sure you're disabling all of them that show up in the right pane. Failure to do so may cause your game to CTD.  
+There are a LOT of patches for these mods in the list. Make sure you're disabling all of them that show up in the right pane. Failure to do so may cause your game to CTD. Make sure _all_ plugins that show "missing master" warnings are disabled.    
 
 Now that everything else is disabled, go to the #bards-college-expansion-support channel in the Discord and download the custom patches from the pinned comment with them. These go in your ElderTeej - xEdit Outputs folder, and they should be rearranged into the "Outputs and Custom Patches" group after loading into MO2. After some organizing, my "Outputs and Custom Patches" group in the right pane looks like this:  
 
@@ -185,8 +185,13 @@ Congrats! You should be able to start up ElderTeej with the Bards College Expans
 
 Now, some of you may be doing some rule 11 stuff that adds world edits/new worlds. If that's the case, _do not use my pre-made PG Patcher ESPs or the TexGen and DynDOLOD files I generated,_ because you need to run all the outputs yourself. I won't be throwing xLODGen instructions in here, as I feel that if you're adding worldspace changes into a list this size, that's a step you ought to be able to do already.  
 
-However, if you added _anything else_ PG Patcher needs to accomodate, you will need to run TexGen and DynDOLOD yourself as well. First things first, let's run TexGen. Just like any other apps in MO2, select it in the dropdown menu and hit play. Once it comes up, the menu will launch to generate everything. By default it should output to Tools\DynDOLOD\TexGen_Output and create a .zip file you'll need to install. As with my pre-made outputs, I would name this the same name you gave the new BCE TexGen Output folder and just let it overwrite.  
+However, if you added _anything else_ PG Patcher needs to accomodate, you will need to run TexGen and DynDOLOD yourself as well. First things first, let's run TexGen. Just like any other apps in MO2, select it in the dropdown menu and hit play. Once it comes up, the menu will launch to generate everything. By default it should output to Tools\DynDOLOD\TexGen_Output and create a .zip file you'll need to install. Just hit CTRL+M and it will let you select the file to install; as with my pre-made outputs, I would name this the same name you gave the new BCE TexGen Output folder and just let it overwrite.  
+
 
 My TexGen settings are:  
+<img width="527" height="764" alt="image" src="https://github.com/user-attachments/assets/0a160ba3-6320-4c43-b2dd-8b16f8da81ca" />  
 
+
+
+Once you've installed the TexGen 
 
