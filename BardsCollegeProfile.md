@@ -185,7 +185,7 @@ Congrats! You should be able to start up ElderTeej with the Bards College Expans
 
 Now, some of you may be doing some rule 11 stuff that adds world edits/new worlds. If that's the case, _do not use my pre-made PG Patcher ESPs or the TexGen and DynDOLOD files I generated,_ because you need to run all the outputs yourself. I won't be throwing xLODGen instructions in here, as I feel that if you're adding worldspace changes into a list this size, that's a step you ought to be able to do already.  
 
-However, if you added _anything else_ PG Patcher needs to accomodate, you will need to run TexGen and DynDOLOD yourself as well. First things first, let's run TexGen. Just like any other apps in MO2, select it in the dropdown menu and hit play. Once it comes up, the menu will launch to generate everything. By default it should output to Tools\DynDOLOD\TexGen_Output and create a .zip file you'll need to install. Just hit CTRL+M and it will let you select the file to install; as with my pre-made outputs, I would name this the same name you gave the new BCE TexGen Output folder and just let it overwrite.  
+However, if you added _anything else_ PG Patcher needs to accomodate, you will need to run TexGen and DynDOLOD yourself as well. First things first, let's run TexGen. Just like any other apps in MO2, select it in the dropdown menu and hit play. Once it comes up, the menu will launch to generate everything. By default it should output to Tools\DynDOLOD\TexGen_Output and when it finishes, you can create a .zip file you'll need to install. Just hit CTRL+M in the main MO2 window and it will let you select the file to install; as with my pre-made outputs, I would name this the same name you gave the new BCE TexGen Output folder and just let it overwrite.  
 
 
 My TexGen settings are:  
@@ -193,5 +193,13 @@ My TexGen settings are:
 
 
 
-Once you've installed the TexGen 
+Once you've installed the TexGen outputs and installed them, it's time to start DynDOLOD up. Once the UI comes up, you'll want to choose what level of quality you want the outputs to be made at. I recommend Medium settings, then you need to make sure the rest of your choices match mine here:  
 
+
+<img width="888" height="597" alt="image" src="https://github.com/user-attachments/assets/85ab8a1e-3ae8-4589-bbcc-abe790d3d3c9" />  
+
+Crucially, these fields must match EXACTLY:  
+<img width="895" height="46" alt="image" src="https://github.com/user-attachments/assets/a926afc3-a66a-43e4-a011-18c5a7014393" />  
+
+
+Just like with TexGen, CTRL+M to install these outputs, name them the same as the output folder you created earlier, replace, and enable. Sort the plugins in the order I showed above, then you should be good to go!  
