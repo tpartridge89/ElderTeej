@@ -1,4 +1,4 @@
-### How to set up coverage for the Bards College Expansion  
+# How to set up coverage for the Bards College Expansion  
 
 
 Hey guys! Thanks to Discord user @BearMama, I have been given a copy of the kinggath Creation Bards College Expansion! What this means is that for those of you who own it or are interested in it, I'll have pre-generated files and this instruction guide to have official coverage for switching to BCE!  
