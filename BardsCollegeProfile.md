@@ -52,7 +52,7 @@ Refresh MO2 and you should see kinggathcreations_bard.esm in the right-hand pane
 
 There you go, Bards College Expansion itself is installed. But there's more work to do!  
 
-Now we need to go to [the patch hub website](https://forum.kinggathcreations.com/resources/bards-college-expansion-unofficial-patches.5/) and download the patches. Right-click on the "Vanilla Quest Tweaks" separator like before, but this time we're going to select "Install Mod Inside," then install the .zip file from the patch hub. Enable the mod, then sort all of the patches appropriately in the right pane. I usually select the patches, right-click, and hit "Send To," then "Top," as this should put them right under the mods they patch for. 
+Now we need to go to [the patch hub website](https://forum.kinggathcreations.com/resources/bards-college-expansion-unofficial-patches.5/) and download the patches. Right-click on the "Vanilla Quest Tweaks" separator like before, but this time we're going to select "Install Mod Inside," then install the .zip file from the patch hub. Don't forget to enable the mesh replacer option in the FOMOD since this requires manual selection and the list uses JS Instruments. Enable the mod, then sort all of the patches appropriately in the right pane. I usually select the patches, right-click, and hit "Send To," then "Top," as this should put them right under the mods they patch for. 
 
 
 <img width="438" height="106" alt="image" src="https://github.com/user-attachments/assets/b51cb387-aab6-4a07-aa84-11894b56bc6b" />  
