@@ -43,7 +43,7 @@ PGDN for Modex
 F11 for Hotkey Reminder  
 
 **Important notes:**  
-- Upscaling for Community Shaders is included in the list, but not enabled by default. 
+- Upscaling for Community Shaders is included in the list, feel free to deactivate it if you do not want it running or experience ghosting/artifacting.  
 - There is controller support through Modern Controlmap but will require some setup/config. Please see the gameplay guide for recommendations and instructions. 
 
 
