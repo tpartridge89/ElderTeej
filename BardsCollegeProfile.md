@@ -156,7 +156,7 @@ Hit the big paper airplane at the bottom of the left pane and let it run. When i
 <img width="697" height="928" alt="image" src="https://github.com/user-attachments/assets/40ec38f6-d5bd-4bce-8d0b-cfa7367734c4" />  
 
 
-Next, we need to run PG Patcher. It will pop up with the options window- you need to change the output location to the BCE - ParallaxGen folder you created. It should look similar to this:  
+Next, we need to run PG Patcher. It will pop up with the options window- you need to change the output location to the BCE - ParallaxGen folder you created; you MUST have this folder disabled until you have run PG Patcher and replaced its ESPs and .json with the files from the Discord. It should look similar to this:  
 
 
 <img width="1300" height="976" alt="image" src="https://github.com/user-attachments/assets/b52c0f06-cf78-4464-806e-8eb43fc8502a" />  
