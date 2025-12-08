@@ -7,6 +7,9 @@ Removed:
 -The Wheels of Lull 3BA/HIMBO Conversion  
 -The The Wheels of Lull 3BA/HIMBO Conversion GDPR  
 
+Updated:  
+-Upscaling is now on by default on the list; enjoy the extra performance, turn it off if you get ghosting/artifacting  
+
 Fixed:  
 -Accidentally did not enable TNG for Val Serano in Nudity Enabled profile  
 -CTDs with broken Wheels of Lull NPC  
