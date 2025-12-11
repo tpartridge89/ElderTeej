@@ -122,5 +122,44 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
+  },
+  {
+    "title": "Dovahmeme",
+    "description": "Tamriel... but way dumber",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Total Overhaul",
+      "Steam",
+      "Combat Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/Dovahmeme%20splash.png",
+      "readme": "",
+      "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_f56a27b3-15e0-40bb-8f12-d5b8263bbd90",
+      "machineURL": "Dovahmeme,
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "btqtpmZtRWc=",
+      "Size": 989152869,
+      "NumberOfArchives": 1493,
+      "SizeOfArchives": 133548339461,
+      "NumberOfInstalledFiles": 193984,
+      "SizeOfInstalledFiles": 233561295324,
+      "TotalSize": 367109634785
+    },
+    "version": "0.0.69"
   }
+
 ]
