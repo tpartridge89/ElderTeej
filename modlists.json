@@ -92,7 +92,7 @@
         "links": {
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
-            "readme": "",
+            "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
             "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_03b1fe27-5e4d-4376-8838-42a1250f8ce7",
             "machineURL": "ABouC",
             "discordURL": "https://discord.gg/r4YnyqGBBA"
@@ -146,3 +146,4 @@
         "version": "0.0.69"
     }
 ]
+
