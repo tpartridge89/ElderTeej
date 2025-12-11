@@ -47,6 +47,10 @@ Added:
 -Gen Z Argoonians  
 -Nobody dipping from Sigma Mine and The sussy Forsworn conspiracy  
 -Sigma Mine Music  
+-Stealth Meter Tweaks  
+
+Updated:  
+-Norden UI, also changed to not have numbers showing in the TrueHUD bars  
 
 0.0.69:  
 
