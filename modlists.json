@@ -118,10 +118,7 @@
       "SizeOfInstalledFiles": 277380144884,
       "TotalSize": 478979714852
     },
-    "version": "1.0.0.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
-    "repositoryName": ""
+    "version": "1.0.0.1"
   },
   {
     "title": "Dovahmeme",
@@ -163,6 +160,7 @@
   }
 
 ]
+
 
 
 
