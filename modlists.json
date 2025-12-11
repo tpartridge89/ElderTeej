@@ -1,168 +1,148 @@
 [
-  {
-    "title": "ElderTeej",
-    "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Total Overhaul",
-      "Steam",
-      "Combat Overhaul",
-      "SFW"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_bd41f2d9-6f58-4fae-8a0f-525795d9ecd0",
-      "machineURL": "ElderTeej",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "ElderTeej",
+        "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
+        "author": "tpartridge89",
+        "maintainers": [
+            "github/tpartridge89"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "Total Overhaul",
+            "Steam",
+            "Combat Overhaul",
+            "SFW"
+        ],
+        "nsfw": false,
+        "image_contains_title": false,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
+            "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_bd41f2d9-6f58-4fae-8a0f-525795d9ecd0",
+            "machineURL": "ElderTeej",
+            "discordURL": "https://discord.gg/r4YnyqGBBA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "9m/EB1IQ6ug=",
+            "Size": 2060196865,
+            "NumberOfArchives": 2707,
+            "SizeOfArchives": 294087115876,
+            "NumberOfInstalledFiles": 436155,
+            "SizeOfInstalledFiles": 742532421893
+        },
+        "version": "3.2.1"
     },
-    "download_metadata": {
-      "Hash": "9m/EB1IQ6ug=",
-      "Size": 2060196865,
-      "NumberOfArchives": 2707,
-      "SizeOfArchives": 294087115876,
-      "NumberOfInstalledFiles": 436155,
-      "SizeOfInstalledFiles": 448445306017,
-      "TotalSize": 742532421893
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "A Beautiful Commonwealth",
+        "description": "Boston is dirty, dangerous, and radioactive...\n\n...why not make it a little prettier?",
+        "author": "tpartridge89",
+        "maintainers": [
+            "github/tpartridge89"
+        ],
+        "game": "fallout4",
+        "tags": [
+            "DLC Required",
+            "Steam"
+        ],
+        "nsfw": false,
+        "image_contains_title": false,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
+            "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
+            "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_f97aef46-be1c-495f-8898-f520c2540547",
+            "machineURL": "ABC",
+            "discordURL": "https://discord.gg/r4YnyqGBBA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "Sb7Oq4yLIh8=",
+            "Size": 516192268,
+            "NumberOfArchives": 1289,
+            "SizeOfArchives": 122404581169,
+            "NumberOfInstalledFiles": 156380,
+            "SizeOfInstalledFiles": 270084516927
+        },
+        "version": "3.0.2"
     },
-    "version": "3.2.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-08T06:52:49.8841723Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "A Beautiful Commonwealth",
-    "description": "Boston is dirty, dangerous, and radioactive...\n\n...why not make it a little prettier?",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "fallout4",
-    "official": false,
-    "tags": [
-      "DLC Required",
-      "Steam"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
-      "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_f97aef46-be1c-495f-8898-f520c2540547",
-      "machineURL": "ABC",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "A Bountiful Commonwealth",
+        "description": "The ElderTeej philosophy, but applied to Fallout!",
+        "author": "tpartridge89",
+        "maintainers": [
+            "github/tpartridge89"
+        ],
+        "game": "fallout4",
+        "tags": [
+            "Total Overhaul",
+            "Steam",
+            "Combat Overhaul",
+            "SFW"
+        ],
+        "nsfw": false,
+        "image_contains_title": false,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
+            "readme": "",
+            "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_03b1fe27-5e4d-4376-8838-42a1250f8ce7",
+            "machineURL": "ABouC",
+            "discordURL": "https://discord.gg/r4YnyqGBBA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "eGw2GSgK6zs=",
+            "Size": 0,
+            "NumberOfArchives": 14,
+            "SizeOfArchives": 135206078,
+            "NumberOfInstalledFiles": 1311,
+            "SizeOfInstalledFiles": 336453775
+        },
+        "version": "1.0.0.1"
     },
-    "download_metadata": {
-      "Hash": "Sb7Oq4yLIh8=",
-      "Size": 516192268,
-      "NumberOfArchives": 1289,
-      "SizeOfArchives": 122404581169,
-      "NumberOfInstalledFiles": 156380,
-      "SizeOfInstalledFiles": 147679935758,
-      "TotalSize": 270084516927
-    },
-    "version": "3.0.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-27T17:11:19.769613Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "A Bountiful Commonwealth",
-    "description": "The ElderTeej philosophy, but applied to Fallout!",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "fallout4",
-    "official": false,
-    "tags": [
-      "Total Overhaul",
-      "Steam",
-      "Combat Overhaul",
-      "SFW"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
-      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_03b1fe27-5e4d-4376-8838-42a1250f8ce7",
-      "machineURL": "ABouC",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "eGw2GSgK6zs=",
-      "Size": 647880619,
-      "NumberOfArchives": 1564,
-      "SizeOfArchives": 201599569968,
-      "NumberOfInstalledFiles": 189475,
-      "SizeOfInstalledFiles": 277380144884,
-      "TotalSize": 478979714852
-    },
-    "version": "1.0.0.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
-    "repositoryName": ""
-  },
-  {
-    "title": "Dovahmeme",
-    "description": "Tamriel... but way dumber",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Total Overhaul",
-      "Steam",
-      "Combat Overhaul"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/Dovahmeme%20splash.png",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_f56a27b3-15e0-40bb-8f12-d5b8263bbd90",
-      "machineURL": "Dovahmeme",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "btqtpmZtRWc=",
-      "Size": 989152869,
-      "NumberOfArchives": 1493,
-      "SizeOfArchives": 133548339461,
-      "NumberOfInstalledFiles": 193984,
-      "SizeOfInstalledFiles": 233561295324,
-      "TotalSize": 367109634785
-    },
-    "version": "0.0.69"
-  }
-
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "Dovahmeme",
+        "description": "Tamriel... but way dumber",
+        "author": "tpartridge89",
+        "maintainers": [
+            "github/tpartridge89"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "Total Overhaul",
+            "Steam",
+            "Combat Overhaul",
+            "Memes"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/Dovahmeme%20splash.png",
+            "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_f56a27b3-15e0-40bb-8f12-d5b8263bbd90",
+            "machineURL": "Dovahmeme",
+            "discordURL": "https://discord.gg/r4YnyqGBBA"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "btqtpmZtRWc=",
+            "Size": 989152869,
+            "NumberOfArchives": 1493,
+            "SizeOfArchives": 133548339461,
+            "NumberOfInstalledFiles": 193984,
+            "SizeOfInstalledFiles": 233561295324
+        },
+        "version": "0.0.69"
+    }
 ]
-
-
-
