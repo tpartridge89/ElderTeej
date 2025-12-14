@@ -193,7 +193,7 @@ My TexGen settings are:
 
 
 
-Once you've installed the TexGen outputs and installed them, it's time to start DynDOLOD up. Once the UI comes up, you'll want to choose what level of quality you want the outputs to be made at. I recommend Medium settings, then you need to make sure the rest of your choices match mine here:  
+Once you've generated the TexGen outputs and installed them, it's time to start DynDOLOD up. Once the UI comes up, you'll want to choose what level of quality you want the outputs to be made at. I recommend Medium settings, then you need to make sure the rest of your choices match mine here:  
 
 
 <img width="888" height="597" alt="image" src="https://github.com/user-attachments/assets/85ab8a1e-3ae8-4589-bbcc-abe790d3d3c9" />  
