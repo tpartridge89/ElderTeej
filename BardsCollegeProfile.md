@@ -150,13 +150,13 @@ Ensure that the BCE - Synthesis Outputs folder is enabled, select Synthesis in t
 <img width="1377" height="803" alt="image" src="https://github.com/user-attachments/assets/e101fdd6-687b-427a-b457-6b6ba6511d26" />  
 
 
-Hit the big paper airplane at the bottom of the left pane and let it run. When it finishes running all the patchers, you're done with Synthesis. Close it, refresh MO2, and put your patches in the "Outputs and Custom Patches" group at the bottom like so:  
+Hit the big paper airplane at the bottom of the left pane and let it run. When it finishes running all the patchers, you're done with Synthesis. Close it, refresh MO2, and put your patches in the "Custom Patches and Outputs" group at the bottom like so:  
 
 
-<img width="697" height="928" alt="image" src="https://github.com/user-attachments/assets/40ec38f6-d5bd-4bce-8d0b-cfa7367734c4" />  
+<img width="669" height="998" alt="image" src="https://github.com/user-attachments/assets/2fbf0674-be9b-4e8c-86f1-1f4132605436" />  
+ 
 
-
-Next, we need to run PG Patcher. It will pop up with the options window- you need to change the output location to the BCE - ParallaxGen folder you created; you MUST have this folder disabled until you have run PG Patcher and replaced its ESPs and .json with the files from the Discord. It should look similar to this:  
+Before we run PG Patcher, download the edited HPH Patches and Synthesis Terrain and Environment patches from the Discord and overwrite the files in your Synthesis Outputs; once done, launch PG Patcher. It will pop up with the options window- you need to change the output location to the BCE - ParallaxGen folder you created; you MUST have this folder disabled until you have run PG Patcher and replaced its ESPs and .json with the files from the Discord. It should look similar to this:  
 
 
 <img width="1300" height="976" alt="image" src="https://github.com/user-attachments/assets/b52c0f06-cf78-4464-806e-8eb43fc8502a" />  
