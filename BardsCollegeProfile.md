@@ -111,10 +111,7 @@ Unfortunately, though patches are currenty planned for these interiors, we also 
 
 There are a LOT of patches for these mods in the list. Make sure you're disabling all of them that show up in the right pane. Failure to do so may cause your game to CTD. Make sure _all_ plugins that show "missing master" warnings are disabled.    
 
-Now that everything else is disabled, we need to have the updated custom patches; these should already be in the correct folder, but if they're not, go to the #bards-college-expansion-support channel in the Discord and download the custom patches from the pinned comment with them. These go in your ElderTeej - xEdit Outputs folder, and they should be rearranged into the "Outputs and Custom Patches" group after loading into MO2. Either way, after some organizing, my "Outputs and Custom Patches" group in the right pane looks like this:  
-
-
-<img width="685" height="815" alt="image" src="https://github.com/user-attachments/assets/d1a164f8-9269-432f-860e-83c03db2e6a9" />  
+Now that everything else is disabled, we need to have the updated custom patches; these should already be in the correct folder, but if they're not, go to the #bards-college-expansion-support channel in the Discord and download the custom patches from the pinned comment with them. These go in your ElderTeej - xEdit Outputs folder, and they should be rearranged into the "Outputs and Custom Patches" group after loading into MO2. For now, they can be kind of loosely arranged, but the ElderTeej Master Patch BCE Version should be at the top of the group. A final order after running Synthesis is below.
 
 
 
