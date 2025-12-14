@@ -147,7 +147,7 @@ Ensure that the BCE - Synthesis Outputs folder is enabled, select Synthesis in t
 <img width="1377" height="803" alt="image" src="https://github.com/user-attachments/assets/e101fdd6-687b-427a-b457-6b6ba6511d26" />  
 
 
-Hit the big paper airplane at the bottom of the left pane and let it run. When it finishes running all the patchers, you're done with Synthesis. Close it, refresh MO2, and put your patches in the "Custom Patches and Outputs" group at the bottom like so:  
+Click the check mark next to the Water for ENB patcher to disable it, then hit the big paper airplane at the bottom of the left pane and let it run. When it finishes running all the patchers, you're done with Synthesis. Close it, refresh MO2, and put your patches in the "Custom Patches and Outputs" group at the bottom like so:  
 
 
 <img width="669" height="998" alt="image" src="https://github.com/user-attachments/assets/2fbf0674-be9b-4e8c-86f1-1f4132605436" />  
