@@ -1,3 +1,30 @@
+0.0.666:  
+
+Added:  
+-Immersive Lore-friendly Elevator Music  
+-Elder Scroll (Job Application)  
+-INDIGO   
+-Sir Dripsalot - Fully Voiced Un-Immersive Incredibly Fashionable Follower  
+-Immersive Idiot - Roderick Redbeard SE  
+-Moon Sugar Investigation - Uncle Sweetshare Quest - A 2024 Merry Modding Days Mod  
+-The Killer Rabbit of Caerbannog- 2023 Easter Special (SE-AE version)  
+-Fluffy Killer Rabbit of Caerbannog  
+-The Killer Rabbit of Caerbannog - My optimized textures and Fluffy patch SE by Xtudo  
+-Kanjs - Headless Horseman Outfit and Sword  
+-Discord Rich Presence  
+-Infant Draugrs- Mihail Monsters and Animals (with PBR addon)  
+-Infant Skeletons- Mihail Monsters and Animals (with PBR addon)  
+-Troll Cubs- Mihail Monsters and Animals (with PBR addon)  
+
+Updated:  
+-Become High King of Skyrim TNG  
+
+Fixed:  
+-Charizard Dragons not being visible  
+
+Removed:  
+-Sonic The Hedgehog  
+
 0.0.420:  
 
 Added:  
