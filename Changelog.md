@@ -13,6 +13,7 @@ Updated:
 -Actor Value Generator  
 -Rebalancing Anniversary Edition  
 -Simplicity of Seeding  
+-CC's Enhanced Ore Veins SSE Edition  
 
 Fixed:  
 -Auri's Bow *confirmed* to be fixed  
