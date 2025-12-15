@@ -15,6 +15,8 @@ Added:
 -Infant Draugrs- Mihail Monsters and Animals (with PBR addon)  
 -Infant Skeletons- Mihail Monsters and Animals (with PBR addon)  
 -Troll Cubs- Mihail Monsters and Animals (with PBR addon)  
+-Aetherium Armor and Weapons Compilation by lautasantenni  
+-Aetherium Armor Texture Enhancements  
 
 Updated:  
 -Become High King of Skyrim TNG  
