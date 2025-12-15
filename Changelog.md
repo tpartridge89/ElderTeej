@@ -1,7 +1,9 @@
-3.3.3:  
+3.4.0:  
 
 Added:  
 -FISSES NG  
+-Simplicity of Sea  
+-Simplicity of Sea - Water Color and Transparency Tweaks  
 
 Updated:  
 -Persistent Favorites  
@@ -17,6 +19,9 @@ Updated:
 
 Fixed:  
 -Auri's Bow *confirmed* to be fixed  
+
+Removed:  
+-Water for ENB  
 
 3.3.2:  
 
