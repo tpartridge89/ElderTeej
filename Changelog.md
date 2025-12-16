@@ -4,7 +4,7 @@ Added:
 -FISSES NG  
 -Simplicity of Sea  
 -Simplicity of Sea - Water Color and Transparency Tweaks  
---CC's Enhanced Ore Veins SSE Edition  
+-CC's Enhanced Ore Veins SSE Edition  
 
 Updated:  
 -Persistent Favorites  
