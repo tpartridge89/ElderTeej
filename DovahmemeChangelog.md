@@ -33,7 +33,8 @@ Updated:
 
 
 Removed:  
-
+-Water for ENB and patches  
+-Random first person magic animation SSE with DAR  
 
 0.0.666:  
 
