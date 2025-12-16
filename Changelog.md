@@ -16,6 +16,7 @@ Updated:
 -Actor Value Generator  
 -Rebalancing Anniversary Edition  
 -Simplicity of Seeding  
+-Trying upgraded quality DynDOLOD outputs to see performance  
 
 Fixed:  
 -Auri's Bow *confirmed* to be fixed  
