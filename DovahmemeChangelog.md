@@ -1,3 +1,40 @@
+0.0.6969:  
+
+Added:  
+-SIGMA - Magic animations - 1st person  
+-Assorted Behavior Fixes  
+-Simplicity of Sea - Water Mod with ENB and Community Shaders Displacement Textures  
+-Simplicity of Sea - Water Color and Transparency Tweaks  
+
+Updated:  
+-powerofthree's Papyrus Extender  
+-SkyPatcher  
+-SKSE Menu Framework  
+-Lexicon SKSE  
+-Actor Value Generator  
+-PGPatcher (aka ParallaxGen)  
+-Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.  
+-Headhunter - Bounties Redone  
+-Optional Quick Start - SE  
+-Unlocked 1st Person Combat  
+-imGui Icons  
+-Norden UI  
+-Mesh Improvement Compilation  
+-Temples of the Ancients PBR  
+-Lost Grimoire SSE  
+-Ancient Death Magic  
+-Weapons and Armors Remastered - PBR (2k)  
+-Precision Creatures  
+-Children of the Hist - An Argonian NPC Overhaul  
+-Ambient Templates for Lighting Mods  
+-Window Shadows Ultimate  
+-Window Shadows Ultimate (WSU) - Patch Hub  
+-CS Light  
+
+
+Removed:  
+
+
 0.0.666:  
 
 Added:  
