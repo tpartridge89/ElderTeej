@@ -4,6 +4,7 @@ Added:
 -FISSES NG  
 -Simplicity of Sea  
 -Simplicity of Sea - Water Color and Transparency Tweaks  
+--CC's Enhanced Ore Veins SSE Edition  
 
 Updated:  
 -Persistent Favorites  
@@ -15,7 +16,6 @@ Updated:
 -Actor Value Generator  
 -Rebalancing Anniversary Edition  
 -Simplicity of Seeding  
--CC's Enhanced Ore Veins SSE Edition  
 
 Fixed:  
 -Auri's Bow *confirmed* to be fixed  
