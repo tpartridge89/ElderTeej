@@ -1,3 +1,60 @@
+3.5.0:  
+
+Added:  
+-Fantasia Landscapes and PBR addon  
+-Fabled Forests Ivy on Trees  
+-Wintersun - Simply Knock Patch  
+-Simple Offence Suppression MCM - Block Friendly Fire  
+-Simple Offence Suppression MCM - Block Friendly Fire - Settings Loader  
+-Birds of Prey and Felsaad Terns- Mihail Monsters and Animals (SE-AE version)  
+-Crows and Ravens- Mihail Monsters and Animals (SE-AE version)  
+-Frogs- Mihail Monsters and Animals (SE-AE version)  
+-Mammoth Expansion - Mihail Monsters and Animals (SE-AE version) (''megafauna'')  
+-Mihail Mammoth Expansion Fluffy  
+-Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)  
+-Fluffy Rabbit Replacer And Hanging Dead Rabbits Replacer  
+-Roasted Cow Replacer- Mihail's Shards of Immersion (SE-AE)  
+-Roosters- Mihail Monsters and Animals (SE-AE version) (''chicken'')  
+-Sea Turtles- Mihail Monsters and Animals (SE-AE version)  
+-Seagulls- Mihail Monsters and Animals (SE-AE version)  
+-Optimized meshes and PBR textures for the Mihail animals  
+-Water Puddles Fix  
+-4K HQ Puddles (2k non-ripple version)  
+-ATHEUZZ Glaciers Ice PBR 4K  
+
+Updated:  
+-VRAMr  
+-PG Patcher  
+-Hotkey Reminder  
+-Paired Animation Improvements  
+-Assorted Behavior Fixes  
+-Mesh Improvement Compilation  
+-Faultier's PBR Soul Cairn  
+-GKB Waves For Various Mods  
+-Temples of the Ancients PBR  
+-Stony AF Markarth PBR  
+-Ancient AF Windhelm PBR  
+-JK's Raven Rock  
+-Headhunter - Bounties Redone  
+-Lost Grimoire SSE  
+-Elden Parry - Vokord Patch  
+-The Whispering Door - Quest Expansion  
+-The New Gentleman  
+-Serana Dialogue Add-On SE  
+-Children of the Hist - An Argonian NPC Overhaul  
+-Children of Dawn's Beauty - Resource Mod  
+-Window Shadows Ultimate  
+-CS Light  
+-True Light  
+-Legacy of the Dragonborn Patches (Official)  
+-Legacy of the Dragonborn - Alternate Perspective Patch  
+-SIGMA - Magic animations - 1st person  
+
+Removed:  
+-Local Map Upgrade Edge UI patch  
+-Fluted Armor - My fixes by Xtudo  
+
+
 3.4.0:  
 
 Added:  
