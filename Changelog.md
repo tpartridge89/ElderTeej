@@ -22,6 +22,7 @@ Added:
 -Water Puddles Fix  
 -4K HQ Puddles (2k non-ripple version)  
 -ATHEUZZ Glaciers Ice PBR 4K  
+-Azurite Weathers - MCM and Settings Loader  
 
 Updated:  
 -VRAMr  
