@@ -17,6 +17,7 @@ Added:
 -Roosters- Mihail Monsters and Animals (SE-AE version) (''chicken'')  
 -Sea Turtles- Mihail Monsters and Animals (SE-AE version)  
 -Seagulls- Mihail Monsters and Animals (SE-AE version)  
+-Troll Cubs- Mihail Monsters and Animals (SE-AE version)  
 -Optimized meshes and PBR textures for the Mihail animals  
 -Water Puddles Fix  
 -4K HQ Puddles (2k non-ripple version)  
