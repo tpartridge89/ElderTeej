@@ -104,23 +104,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
-      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_03b1fe27-5e4d-4376-8838-42a1250f8ce7",
+      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_69401e70-9a86-4593-b0c3-05e81d96798a",
       "machineURL": "ABouC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "eGw2GSgK6zs=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775,
-      "TotalSize": 471659853
+      "Hash": "hVE1EaHbRS0=",
+      "Size": 647998699,
+      "NumberOfArchives": 1564,
+      "SizeOfArchives": 201599615515,
+      "NumberOfInstalledFiles": 189476,
+      "SizeOfInstalledFiles": 277381672576,
+      "TotalSize": 478981288091
     },
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2025-12-19T04:46:30.0174309Z",
     "repositoryName": ""
   },
   {
