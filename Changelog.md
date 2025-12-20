@@ -1,3 +1,26 @@
+3.5.1:  
+
+Added:  
+-Skyshards  
+-Dev Aveza PBR  
+-Faultier's WIP PBR Armors and Clothes (shoutout to Faultier for providing permission to do this until the Nexus version is out!)  
+-Mihail's Crows COTN patch  
+-Floating Crows fix outside Abandoned Shack  
+-JS Purses and Septims Wintersun Patch  
+
+Updated:  
+-Child Dress Replacer; had incorrect torso mesh version installed and female childred had a massive neck gap  
+
+Removed:  
+-Happy Little Trees; caused CTDs from memory issues with Fabled Forests installed over it  
+-HDT-SMP HIMBO/3BA patch for GDPR textures; caused PBR conversions to not apply correctly to armor  
+
+Fixed:  
+-neck seams on female children  
+-weird glow on Dwarven Armor from incompatible meshes  
+-CTDs near Dawnstar  
+-all identified landscape issues  
+
 3.5.0:  
 
 Added:  
