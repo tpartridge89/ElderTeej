@@ -1,6 +1,6 @@
 0.0.69420:  
 
-Added: 
+Added:  
 -DX Commonwealth Shorts SSE  
 -DX Star Trek TOS Uniform  
 
