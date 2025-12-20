@@ -10,6 +10,8 @@ Added:
 
 Updated:  
 -Child Dress Replacer; had incorrect torso mesh version installed and female children had a massive neck gap  
+-Window Shadows Ultimate  
+-WSU Patch Hub  
 
 Removed:  
 -Happy Little Trees; caused CTDs from memory issues with Fabled Forests installed over it  
