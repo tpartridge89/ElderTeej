@@ -1,3 +1,29 @@
+0.0.69420:  
+
+Added: 
+-DX Commonwealth Shorts SSE  
+-DX Star Trek TOS Uniform  
+
+Updated:  
+-Race Distribution Framework  
+-Assorted Behavior Fixes  
+-Norden UI  
+-No Grass In Objects  
+-Splashes of Skyrim  
+-Stony AF Markarth PBR  
+-Ancient AF Windhelm PBR  
+-Helmet Toggle 2  
+-SIGMA - Magic animations - 1st person  
+-BFCO NG  
+-Become High King of Skyrim  
+-Ambient Templates for Lighting Mods  
+-Window Shadows Ultimate  
+-Window Shadows Ultimate - Patch Hub  
+-True Light  
+
+Removed:  
+-La Tomatina  
+
 0.0.6969:  
 
 Added:  
