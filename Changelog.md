@@ -14,6 +14,7 @@ Updated:
 Removed:  
 -Happy Little Trees; caused CTDs from memory issues with Fabled Forests installed over it  
 -HDT-SMP HIMBO/3BA patch for GDPR textures; caused PBR conversions to not apply correctly to armor  
+-Nudity Enabled profile; everything needed to convert to nude bodies will remain in the list but will require manually changing over  
 
 Fixed:  
 -neck seams on female children  
