@@ -43,6 +43,7 @@ Updated:
 -Animated Armoury Patch for DAc0da
 -Northern Roads - Collision and Placement Fix  
 -Infinity UI and CNO enabled by default again  
+-Community Presets caught up to current  
 
 Removed:  
 -Oathvein UI  
