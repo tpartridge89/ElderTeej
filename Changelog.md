@@ -1,3 +1,58 @@
+3.6.0:  
+
+Added:  
+-Norden UI  
+-Menu Maid 2  
+-MCM Recorder - Menu Maid 2 Compatability  
+-SMP Vanilla Hair Remake wigs for RS Children (SPID)  
+-Vanilla Hair Remake Unlocked and patches  
+-K.C.C.E Khajiit Character Creation Extended  
+-Argonian Creation Extended  
+-Shadowscale Set Reborn  
+-Khash The Argonian  
+-Cloud's Khash the Argonian Tweaks  
+-Nix-Hounds - Mihail Monsters and Animals (SE-AE version)  
+-Nix-Hounds - My optimized textures SE by Xtudo  
+-Mihail's Nix-Hounds - Creation Club Model Replacer  
+-Feris - Custom Voiced Rogue Follower  
+-Clean Crafting  
+-Proper journal entries for 3dnpcs  
+-XPMSSE Left Hand Sheath Rotation Fix  
+
+Updated:  
+-powerofthree's Papyrus Extender  
+-Perk Entry Point Extender  
+-Hotkey Reminder  
+-State Behavior Framework  
+-Assorted Behavior Fixes  
+-Smart Talk (Dialogue Menu Enhancer)  
+-Assorted mesh fixes  
+-Enhanced Rocks and Mountains - Fix and Addon  
+-Vanaheimr Landscapes - AIO  
+-No Grass In Objects  
+-Splashes of Skyrim  
+-Snozz's Resource Pack  
+-Siege at Icemoth  
+-JellyFishFP CROSSBOW  
+-Khajiit Will Follow  
+-Redcap  
+-Ambient Templates for Lighting Mods  
+-True Light  
+-Canissa's Little Patch Emporium  
+-Navigator Patch Collection  
+-Animated Armoury Patch for DAc0da
+-Northern Roads - Collision and Placement Fix  
+-Infinity UI and CNO enabled by default again  
+
+Removed:  
+-Oathvein UI  
+-RYFTEN Consistency of Windows (still fuckin crashes)  
+-Happy Little Trees Add-On - DynDOLOD 3 (textures in Fabled Forests already)  
+-Better Dynamic Snow - Complex Parallax Materials  
+-Custom STB Widgets setup  
+
+
+
 3.5.1:  
 
 Added:  
