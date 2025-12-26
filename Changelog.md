@@ -44,6 +44,7 @@ Updated:
 -Northern Roads - Collision and Placement Fix  
 -Infinity UI and CNO enabled by default again  
 -Community Presets caught up to current  
+-Illusion Tree is back to being correct per Vokord base  
 
 Removed:  
 -Oathvein UI  
