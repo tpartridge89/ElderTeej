@@ -47,7 +47,7 @@ F11 for Hotkey Reminder
 - There is controller support through Modern Controlmap but will require some setup/config. Please see the gameplay guide for recommendations and instructions. 
 
 **Known issues:**  
--For some reason, the UI will occasionally freeze or have elements disappear. A restart will fix this temporarily, but a permanent cause/solution has yet to be determined.  
+- For some reason, the UI will occasionally freeze or have elements disappear. A restart will fix this temporarily, but a permanent cause/solution has yet to be determined.  
 
 **Discord:**
 [https://discord.gg/r4YnyqGBBA](https://discord.gg/r4YnyqGBBA)
