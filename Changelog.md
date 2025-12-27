@@ -1,3 +1,15 @@
+3.6.1:  
+
+Added:  
+-Book Covers Skyrim PBR  
+-Pelage - CC Saturalia Addon  
+-Pelage - CC Saturalia Patches and Bodyslides  
+
+Fixed:  
+-Missing book textures  
+-Reported clipping and landscape issues  
+
+
 3.6.0:  
 
 Added:  
