@@ -8,6 +8,7 @@ Added:
 Fixed:  
 -Missing book textures  
 -Reported clipping and landscape issues  
+--Minotaur in Dayspring Canyon; Minotaurs have also been nerfed since they appear in several potentially low-level areas  
 
 
 3.6.0:  
