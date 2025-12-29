@@ -146,23 +146,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/Dovahmeme%20splash.png",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_8a8a0ae8-781e-4c81-8036-3a26105137e2",
+      "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_1396f4e2-0735-4f3f-957d-3a3abd022c28",
       "machineURL": "Dovahmeme",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "8mFCn/DwlSc=",
-      "Size": 1151486443,
-      "NumberOfArchives": 1565,
-      "SizeOfArchives": 134790159206,
-      "NumberOfInstalledFiles": 203469,
-      "SizeOfInstalledFiles": 235565627653,
-      "TotalSize": 370355786859
+      "Hash": "5rI8KJ0RKLM=",
+      "Size": 990938814,
+      "NumberOfArchives": 1571,
+      "SizeOfArchives": 141588794777,
+      "NumberOfInstalledFiles": 205139,
+      "SizeOfInstalledFiles": 242854860954,
+      "TotalSize": 384443655731
     },
-    "version": "0.0.69420",
+    "version": "0.69.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-20T22:52:58.6095215Z",
+    "dateUpdated": "2025-12-29T21:24:00.3130598Z",
     "repositoryName": ""
   }
 ]
