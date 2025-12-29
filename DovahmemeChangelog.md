@@ -1,3 +1,27 @@
+0.69.0:  
+
+Added:  
+-Faultier's PBR Armors and Clothing WIP  
+-Jiaye's CC Curios PBR  
+-Mammoth Arrows  
+-Shrek Trolls (Deluxe Edition)    
+
+Updated:  
+-powerofthree's Papyrus Extender  
+-Perk Entry Point Extender  
+-Pandora Behaviour Engine Plus  
+-PGPatcher (aka ParallaxGen)  
+-State Behavior Framework  
+-Assorted Behavior Fixes  
+-Smart Talk (Dialogue Menu Enhancer)  
+-Assorted Mesh Fixes  
+-Vanaheimr - Landscapes - AIO  
+-Cathedral PBR Plants  
+-Relics of Hyrule SE - A DLC Scale Zelda Mod  
+-(Lore Accurate) Dagoth Ur Follower  
+-Azurite III CS  
+-Ambient Templates for Lighting Mods  
+
 0.0.69420:  
 
 Added:  
