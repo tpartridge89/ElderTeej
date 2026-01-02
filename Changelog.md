@@ -1,3 +1,25 @@
+3.6.4:  
+
+Added:  
+-Lightened JK's Blue Palace  
+-Lightened JK's The Bannered Mare  
+-Lightened JK's Dragonsreach  
+-Lightened JK's Whiterun Outskirts  
+-Lightened JK's Markarth Outskirts  
+-Lightened Skyrim - Base Object Swapper edition  
+-Circlets with or without Hoods and Helmets - Skypatched  
+-Jiaye's CC Curios PBR conversion (shoutout to Jiaye for authorizing me to host these myself!)  
+
+Updated:  
+-Faultier's Armors and Clothing WIP  
+-WIDeadBodyCleanupScript Crash Fix  
+-Vanilla Dwemer meshes - GDPR  
+-Khajiit Will Follow - Custom Voiced Khajiit Follower Mod  
+-Embers XD  
+-Window Shadows Ultimate - Patch Hub  
+-Pandora Behaviour Engine Plus  
+-
+
 3.6.3:  
 
 Added:  
