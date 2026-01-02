@@ -117,10 +117,11 @@ Now that everything else is disabled, we need to have the updated custom patches
 
 ## Setting up folders for your new outputs and running them  
 
-Just like when creating a new folder for the BCE mod, we also now need to make new folders for the outputs, so you don't overwrite the base list's info. Much like before, right-click, only this time do it on each mod one-by-one, and as before, mouse over "All Mods," but this time your option should say "Create Empty Mod Above"; please note that you should find pre-generated BCE Synthesis and BCE PG Patcher folders in the "LEAVE DISABLED" separator at the bottom of the left pane. You need to do this for the TexGen and DynDOLOD Output folders; it should look like this when you finish:  
+Just like when creating a new folder for the BCE mod, we also now need to make new folders for the outputs, so you don't overwrite the base list's info. Please note that you should find pre-generated BCE Synthesis and BCE PG Patcher folders in the "LEAVE DISABLED" separator at the bottom of the left pane, along with a BCE Master Patch folder. Enable these and place them your Outputs separator. Much like before, right-click, only this time do it on each mod one-by-one, and as before, mouse over "All Mods," but this time your option should say "Create Empty Mod Above". You need to do this for the TexGen and DynDOLOD Output folders; it should look like this when you finish:  
 
 
-<img width="758" height="511" alt="image" src="https://github.com/user-attachments/assets/fea5b402-0707-4c7e-8c15-55640b1df058" />  
+<img width="365" height="287" alt="image" src="https://github.com/user-attachments/assets/42c803b6-7849-4360-a079-7cb35fddfd52" />  
+ 
 
 
 If you are going to use my pre-generated outputs, [go to the Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/154704) and download the BCE - TexGen Output and BCE - DynDOLOD Output files under Miscellaneous. Install these with the same name as the folders you made earlier, let them replace when MO2 asks, then make sure that the PG Patcher ESPs and DynDOLOD ESPs are at the bottom of where they can load. Your right panel should look like below:  
