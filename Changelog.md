@@ -18,7 +18,25 @@ Updated:
 -Embers XD  
 -Window Shadows Ultimate - Patch Hub  
 -Pandora Behaviour Engine Plus  
--
+-Actor Value Generator  
+-State Behavior Framework  
+-Assorted Behavior Fixes  
+-Cathedral PBR Plants  
+-Siege at Icemoth  
+-KS Hairdos - HDT SMP (Physics)  
+-Gore - A Companion Mod  
+-eeekie's Choose Your Gore  
+-Azurite III CS  
+-Ambient Templates for Lighting Mods  
+-Window Shadows Ultimate  
+-True Light  
+-Northern Roads - Patches Compendium  
+-PGPatcher (aka ParallaxGen)  
+
+Fixed:  
+-Beyond Reach cart being mostly invisible  
+-Identified landscape issues  
+
 
 3.6.3:  
 
