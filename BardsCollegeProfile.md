@@ -117,51 +117,11 @@ Now that everything else is disabled, we need to have the updated custom patches
 
 ## Setting up folders for your new outputs and running them  
 
-Just like when creating a new folder for the BCE mod, we also now need to make new folders for the outputs, so you don't overwrite the base list's info. Much like before, right-click, only this time do it on each mod one-by-one, and as before, mouse over "All Mods," but this time your option should say "Create Empty Mod Above":  
-
-
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cc486789-4d8c-4ac6-be7e-c99139ae9aec" />
-
-
-You need to do this for the Synthesis, ParallaxGen, TexGen, and DynDOLOD Output folders. It should look like this when you finish:  
+Just like when creating a new folder for the BCE mod, we also now need to make new folders for the outputs, so you don't overwrite the base list's info. Much like before, right-click, only this time do it on each mod one-by-one, and as before, mouse over "All Mods," but this time your option should say "Create Empty Mod Above"; please note that you should find pre-generated BCE Synthesis and BCE PG Patcher folders in the "LEAVE DISABLED" separator at the bottom of the left pane. You need to do this for the TexGen and DynDOLOD Output folders; it should look like this when you finish:  
 
 
 <img width="758" height="511" alt="image" src="https://github.com/user-attachments/assets/fea5b402-0707-4c7e-8c15-55640b1df058" />  
 
-
-The list ships with Synthesis pointing to a specific folder, so before running it, we need to change it to our new BCE - Synthesis Outputs folder. To do this, hit "Edit" in the dropdown menu in the upper right-hand corner:  
-
-
-<img width="1896" height="1392" alt="image" src="https://github.com/user-attachments/assets/548f27a9-ab61-44fe-8df0-bd5de0996547" />  
-
-
-Change the output folder like below, hit apply, then you can exit and start up Synthesis:  
-
-
-<img width="712" height="472" alt="image" src="https://github.com/user-attachments/assets/8d3ac916-9c54-4eb4-853d-4ebe09bff9bd" />  
-
-
-Ensure that the BCE - Synthesis Outputs folder is enabled, select Synthesis in the dropdown you just edited in, then hit play. It will come up with the following window:  
-
-
-<img width="1377" height="803" alt="image" src="https://github.com/user-attachments/assets/e101fdd6-687b-427a-b457-6b6ba6511d26" />  
-
-
-Click the check mark next to the Water for ENB patcher to disable it, then hit the big paper airplane at the bottom of the left pane and let it run. When it finishes running all the patchers, you're done with Synthesis. Close it, refresh MO2, and put your patches in the "Custom Patches and Outputs" group at the bottom like so:  
-
-
-<img width="669" height="998" alt="image" src="https://github.com/user-attachments/assets/2fbf0674-be9b-4e8c-86f1-1f4132605436" />  
- 
-
-Before we run PG Patcher, download the edited HPH Patches and Synthesis Terrain and Environment patches from the Discord and overwrite the files in your Synthesis Outputs; once done, launch PG Patcher. It will pop up with the options window- you need to change the output location to the BCE - ParallaxGen folder you created; you MUST have this folder disabled until you have run PG Patcher and replaced its ESPs and .json with the files from the Discord. It should look similar to this:  
-
-
-<img width="1300" height="976" alt="image" src="https://github.com/user-attachments/assets/b52c0f06-cf78-4464-806e-8eb43fc8502a" />  
-
-
-Hit "Start Patching" and let it run. It will reach a point where it asks for override order for mod conflicts- if you've followed my instructions carefully, just select "Lock to MO2 Loose File Order," apply, then ok.  
-
-When it finishes, you'll get a dialogue box asking you to either close the patcher or go to output location. Go ahead and close it. If you _have not_ added anything that PG Patcher needs to patch, I will have PG Patcher ESPs in a pinned comment in the same channel that the custom patches were in. Drop these files into the BCE - ParallaxGen Output folder you made and let the files overwrite. This will ensure the info matches the TexGen and DynDOLOD outputs I will pre-generate for you. You can also now enable the default xLODGen Output and ACMOS Roads folders, as the info there should still be accurate.    
 
 If you are going to use my pre-generated outputs, [go to the Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/154704) and download the BCE - TexGen Output and BCE - DynDOLOD Output files under Miscellaneous. Install these with the same name as the folders you made earlier, let them replace when MO2 asks, then make sure that the PG Patcher ESPs and DynDOLOD ESPs are at the bottom of where they can load. Your right panel should look like below:  
 
