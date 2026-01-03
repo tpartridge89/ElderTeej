@@ -33,6 +33,9 @@ Updated:
 -Northern Roads - Patches Compendium  
 -PGPatcher (aka ParallaxGen)  
 
+Removed:  
+-Clean Crafting  
+
 Fixed:  
 -Beyond Reach cart being mostly invisible  
 -Identified landscape issues  
