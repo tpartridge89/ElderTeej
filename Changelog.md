@@ -1,3 +1,11 @@
+3.6.5:  
+
+Added:  
+-XPMSSE - Nemesis - Papyrus Stack Fix  
+
+Removed:  
+-XP32 Maximum Skeleton lite  
+
 3.6.4:  
 
 Added:  
