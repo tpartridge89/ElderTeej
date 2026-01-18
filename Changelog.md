@@ -76,6 +76,7 @@ Removed:
 
 Fixed:  
 -Landscape issues with Giant's Tooth worldspace  
+-Reported landscape issues  
 
 3.6.4:  
 
