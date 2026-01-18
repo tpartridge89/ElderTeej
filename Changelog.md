@@ -71,7 +71,7 @@ Updated:
 Removed:  
 -XP32 Maximum Skeleton lite  
 -Azurite III CS  
--Nordic Stonewalls PBR
+-Nordic Stonewalls PBR  
 -Nordic Stonewall Terraces PBR  
 
 Fixed:  
