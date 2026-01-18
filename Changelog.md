@@ -5,6 +5,8 @@ Added:
 -Skyrim Cell load Freeze fix NG  
 -Simple Elden Counter  
 -Faultier's WIP Armors and Clothes - USSEP Patch  
+-NAT III CS  
+-Optional post-processing build of Community Shaders with a couple of presets  
 
 Updated:  
 -SkyPatcher  
@@ -54,6 +56,7 @@ Updated:
 
 Removed:  
 -XP32 Maximum Skeleton lite  
+-Azurite III CS  
 
 Fixed:  
 -Landscape issues with Giant's Tooth worldspace  
