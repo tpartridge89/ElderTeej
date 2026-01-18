@@ -4,6 +4,7 @@ Added:
 -XPMSSE - Nemesis - Papyrus Stack Fix  
 -Skyrim Cell load Freeze fix NG  
 -Simple Elden Counter  
+-Faultier's WIP Armors and Clothes - USSEP Patch  
 
 Updated:  
 -SkyPatcher  
@@ -48,6 +49,8 @@ Updated:
 -Ryn's Skyrim patches  
 -Alternate Perspective Fixes and Patches  
 -Northern Roads Patch Collection  
+-DynDOLOD Resources SE 3.00  
+-Faultier's WIP Armors and Clothes
 
 
 Removed:  
