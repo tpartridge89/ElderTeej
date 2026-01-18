@@ -8,6 +8,11 @@ Added:
 -NAT III CS  
 -Optional post-processing build of Community Shaders with a couple of presets  
 -PBR Stonewalls  
+-Val's Ingredient Effect Consistency (Skypatcher)  
+-(Unofficial) Legacy of the Dragonborn - Auryen's Notes Map Marker  
+-Auto Name Enchantments  
+-Just Knock - Dynamic Activation Key Patch for Knocking Mods  
+-Just Bite - Dynamic Activation Key Patch For Vampire Mods  
 
 Updated:  
 -SkyPatcher  
@@ -53,7 +58,8 @@ Updated:
 -Alternate Perspective Fixes and Patches  
 -Northern Roads Patch Collection  
 -DynDOLOD Resources SE 3.00  
--Faultier's WIP Armors and Clothes
+-Faultier's WIP Armors and Clothes  
+-DynDOLOD  
 
 Removed:  
 -XP32 Maximum Skeleton lite  
