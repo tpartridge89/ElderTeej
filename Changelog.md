@@ -2,6 +2,52 @@
 
 Added:  
 -XPMSSE - Nemesis - Papyrus Stack Fix  
+-Skyrim Cell load Freeze fix NG  
+
+Updated:  
+-SkyPatcher  
+-XEMI Utility  
+-Persistent Favorites  
+-Predictable Persuasion  
+-Save and Load Accelerator For SKSE Cosaves  
+-Favorite Misc Items  
+-Stagger Effect Fix  
+-WIDeadBodyCleanupScript Crash Fix  
+-dMenu NG - Patch  
+-Contextual Crosshair  
+-Norden UI  
+-Assorted Mesh Fixes  
+-Icy Mesh Remaster  
+-Dynamic Things Alternative - Base Object Swapper  
+-Animated Icebergs  
+-Animated Ice Floes  
+-Diverse high-quality PBR shrubs  
+-Oui Oui Baguette - Bread Expansion  
+-Golden Dwemer Pipeworks Redone Patches for Vanilla Game  
+-The Great Town of Ivarstead Patch Collection  
+-Cities of the North - Falkreath Patch Collection  
+-Whiterun Exteriors Patch Collection  
+-JK's Raven Rock Patch Collection  
+-JK's Interiors Patch Collection  
+-Apocalypse - Ordinator Compatibility Patch  
+-Lost Grimoire - Apocalypse Odin and Other Patches  
+-Game Settings Override - Collection  
+-Simple Offence Suppression MCM - Block Friendly Fire  
+-CBBE 3BA Vanilla Outfits Redone  
+-SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)  
+-DF - Creatures by Xtudo - CC Bone Wolf  
+-Chocolate Poise - Elden Parry - Ordinator - ParryingRPG Tweaks and Integration  
+-(NEW) Thogra gra-Mugur - Orc Follower and Quest  
+-Feris - Custom Voiced Rogue Follower  
+-Children of the Hist - An Argonian NPC Overhaul  
+-eeekie's Gore x Vigilant - man bun hair  
+-Ambient Templates for Lighting Mods  
+-Window Shadows Ultimate  
+-So This Aint Right (STAR) - Patches by Missile  
+-Ryn's Skyrim patches  
+-Alternate Perspective Fixes and Patches  
+-Northern Roads Patch Collection  
+
 
 Removed:  
 -XP32 Maximum Skeleton lite  
