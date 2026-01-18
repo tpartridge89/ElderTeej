@@ -13,6 +13,13 @@ Added:
 -Auto Name Enchantments  
 -Just Knock - Dynamic Activation Key Patch for Knocking Mods  
 -Just Bite - Dynamic Activation Key Patch For Vampire Mods  
+-Smooth Moveset - OAR (CPR)  
+-Dwemer Gates Don't Reset - BOS  
+-More plants and recipes SE  
+-Beyond Reach - Plantable Plants  
+-Interesting NPCs SE (3DNPC) - Plantable Plants  
+-GLENMORIL SE - Plantable Plants  
+-VIGILANT SE - Plantable Plants  
 
 Updated:  
 -SkyPatcher  
