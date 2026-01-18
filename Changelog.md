@@ -52,9 +52,11 @@ Updated:
 -DynDOLOD Resources SE 3.00  
 -Faultier's WIP Armors and Clothes
 
-
 Removed:  
 -XP32 Maximum Skeleton lite  
+
+Fixed:  
+-Landscape issues with Giant's Tooth worldspace  
 
 3.6.4:  
 
