@@ -3,6 +3,7 @@
 Added:  
 -XPMSSE - Nemesis - Papyrus Stack Fix  
 -Skyrim Cell load Freeze fix NG  
+-Simple Elden Counter  
 
 Updated:  
 -SkyPatcher  
