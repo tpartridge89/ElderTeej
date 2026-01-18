@@ -7,6 +7,7 @@ Added:
 -Faultier's WIP Armors and Clothes - USSEP Patch  
 -NAT III CS  
 -Optional post-processing build of Community Shaders with a couple of presets  
+-PBR Stonewalls  
 
 Updated:  
 -SkyPatcher  
@@ -57,6 +58,8 @@ Updated:
 Removed:  
 -XP32 Maximum Skeleton lite  
 -Azurite III CS  
+-Nordic Stonewalls PBR
+-Nordic Stonewall Terraces PBR  
 
 Fixed:  
 -Landscape issues with Giant's Tooth worldspace  
