@@ -22,23 +22,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_6c03b87b-7f36-4109-9c5e-62648e761c0f",
+      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_89211df5-a725-4a31-ae2a-176b7eaecc79",
       "machineURL": "ElderTeej",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "PnaJEJ+UBWA=",
-      "Size": 3238315195,
+      "Hash": "/G+Iw3nEvJA=",
+      "Size": 3237998704,
       "NumberOfArchives": 2774,
       "SizeOfArchives": 300769217440,
-      "NumberOfInstalledFiles": 479106,
-      "SizeOfInstalledFiles": 471017336982,
-      "TotalSize": 771786554422
+      "NumberOfInstalledFiles": 478963,
+      "SizeOfInstalledFiles": 471011805279,
+      "TotalSize": 771781022719
     },
-    "version": "3.6.5",
+    "version": "3.6.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-18T21:04:58.4898608Z",
+    "dateUpdated": "2026-01-19T14:45:26.1225929Z",
     "repositoryName": ""
   },
   {
