@@ -1,3 +1,8 @@
+3.6.6:  
+
+Fixed:  
+-Norden UI switched from new default (the Slimventory option) back to standard layout  
+
 3.6.5:  
 
 Added:  
