@@ -69,6 +69,7 @@ Updated all current mods
 
 Removed:  
 -Optional Quick Start  
+-Golden Dwemer Pipeworks  
 
 0.69.0:  
 
