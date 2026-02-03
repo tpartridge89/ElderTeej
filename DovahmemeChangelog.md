@@ -1,3 +1,75 @@
+0.420.0:  
+
+Added:  
+-Alternate Perspective  
+-Book Covers Skyrim  
+-Mead Replacer PBR  
+-The Magnus Gauntlet  
+-Ghosts of the Tribunal PBR  
+-Sunder and Wraithguard PBR  
+-Sam the Battle Pan  
+-Animated chainsword from Warhammer 40k PBR Textured  
+-Lunar Guard Armor  
+-Twilight Princess Armor Mashup  
+-Saints and Seducers PBR  
+-Breton Field Knight PBR  
+-Nirn Necessities  
+-The Southbound Scouts  
+-Steel Battleaxe of Fiery Souls Truly Unique  
+-Scale Nord Armor  
+-Lollygaggin'  
+-Peacekeeper Armour  
+-Freehand Armor  
+-Elite Wolf Armor  
+-Ebony Knight Armor  
+-DX Dark Knight Armor  
+-Northern Roads (with clutter-only conversion and PBR textures)
+-Spaghetti's AIOs  
+-Conspiracy of Skyrim  
+-Lute Hero  
+-Milky Spells  
+-Corpse Cannon  
+-Sweet Roll Hut SE  
+-Dismem-brie-ment Asset Pack  
+-Gerbil Mounts and Followers  
+-Poop Knife  
+-Jarl Horker of Winterhold  
+-Greybeards- Aaaaaaaaaaaaaaaah
+-Sweets and Such  
+-Soda of Skyrim  
+-Substitute Teacher Troll  
+-Road Chunk Remover - Blended Roads  
+-Ring of Smacking
+-Cardi B Arrows  
+-AhegaoAlduin  
+-Secret Saturalia  
+-Laughing Skull Enchant Table Workbench Replacer  
+-The Bow of Flatulence  
+-Weapons Tourettes Guy  
+-Windbreaker  
+-Barbas Doggologue Add-On - ESPFE  
+-Lore Accurate Peter Griffin Follower  
+-McLaren P1  
+-BIG STICK ENERGY  
+-Lore Friendly Vivec - A Lore Friendly Follower - LORE FRIENDLY EDITION  
+-Sweetroll Mace  
+-Growable Giant's Toe - I'm Sorry  
+-Monster Squad  
+-A Digimon mod - Digimon Toys  
+-A Digimon mod - Digimon plushies  
+-I Feel Good  
+-Spells of Silly  
+-A Cat's Life  
+-A Dog's Life  
+-Sugar Attack  
+-Leprechaun Hat  
+-Dr. Draugr Robotnik - Draugr SFX Overhaul 02  
+
+Updated all current mods  
+
+Removed:  
+-Optional Quick Start  
+
 0.69.0:  
 
 Added:  
