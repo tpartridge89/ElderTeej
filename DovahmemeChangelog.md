@@ -23,7 +23,7 @@ Added:
 -Elite Wolf Armor  
 -Ebony Knight Armor  
 -DX Dark Knight Armor  
--Northern Roads (with clutter-only conversion and PBR textures)
+-Northern Roads (with clutter-only conversion and PBR textures)  
 -Spaghetti's AIOs  
 -Conspiracy of Skyrim  
 -Lute Hero  
@@ -34,12 +34,12 @@ Added:
 -Gerbil Mounts and Followers  
 -Poop Knife  
 -Jarl Horker of Winterhold  
--Greybeards- Aaaaaaaaaaaaaaaah
+-Greybeards- Aaaaaaaaaaaaaaaah  
 -Sweets and Such  
 -Soda of Skyrim  
 -Substitute Teacher Troll  
 -Road Chunk Remover - Blended Roads  
--Ring of Smacking
+-Ring of Smacking  
 -Cardi B Arrows  
 -AhegaoAlduin  
 -Secret Saturalia  
