@@ -58,7 +58,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
@@ -100,7 +100,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
@@ -165,4 +165,5 @@
     "dateUpdated": "2026-02-04T07:50:42.1860711Z",
     "repositoryName": ""
   }
+
 ]
