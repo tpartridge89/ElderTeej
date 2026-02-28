@@ -1,3 +1,51 @@
+Beta v2.1:  
+
+Finally going back to doing changelogs!  
+
+Added:  
+-Draugrs - New models and textures  
+-The Restless Dead  
+-Rogues 'n Raiders  
+-Stances NG  
+-ADXP I MCO - Desert Imperium Nordic Stances Pack  
+-Immersive Equipment Displays and some presets  
+-Training Alchemy Learns Effects  
+-BBQ Community Shader Preset (was told it should still work with Azurite so I'll keep it available, seemed too bright to me)  
+
+Updated:  
+-All Sigma 1st person animations with Stances support  
+-Growl  
+-B612 - my little asteroid of useful UI components  
+-Diverse NPC Movesets  
+-BFCO - Attack Behavior Framework (SSE AE VR)  
+-VioLens Compatibility Extension - Mod Creatures KillMove Compatible - SkyPatcher  
+-Mfg Fix NG  
+-Open Animation Replacer - Math Plugin  
+-Open Animation Replacer  
+-Creation Club Spell Knight Armor - Complex Material and PBR  
+-Creation Club Alternative Armors - Complex Material and PBR  
+-Cities of the North - Dawnstar Patch Collection  
+-Roastlawyer's Restored Whiterun Defences  
+-The Great Town of Karthwasten Patch Collection  
+-The Great Town of Ivarstead Patch Collection  
+-Lost Grimoire SSE  
+-Lost Grimoire - Apocalypse Odin and Other Patches  
+-Ahz Armors - Complex Material and PBR  
+-Legacy of Ysgramor - Complex Material and PBR  
+-Steel Plate Armors - PBR and Complex Material  
+-aTweaks and Utilities  
+-Persistent Favorites  
+-Unofficial Skyrim Special Edition Patch - USSEP  
+-PGPatcher  
+-SSE Engine Fixes (skse64 plugin)  
+
+Removed:  
+-MCO I BFCO ER LightGreatswords Complete (1hm 2hm dw)  
+-Eivor - ADXP I MCO Sprint Attacks  
+-MCO I BFCO Eskyrim's Sprint Attacks  
+-ADXP I MCO I BFCO Elden Rim Dual Wield moveset collection  
+
+
 3.6.6:  
 
 Fixed:  
