@@ -39,6 +39,7 @@ Updated:
 -PGPatcher  
 -SSE Engine Fixes (skse64 plugin)  
 -Faultier's WIP Armors and Clothing  
+-Growl  
 
 Removed:  
 -MCO I BFCO ER LightGreatswords Complete (1hm 2hm dw)  
