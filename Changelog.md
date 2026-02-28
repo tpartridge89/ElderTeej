@@ -1,4 +1,4 @@
-Beta v2.1:  
+4.0 Beta v2.1:  
 
 Finally going back to doing changelogs!  
 
