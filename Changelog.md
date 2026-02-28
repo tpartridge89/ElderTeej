@@ -46,6 +46,10 @@ Removed:
 -MCO I BFCO Eskyrim's Sprint Attacks  
 -ADXP I MCO I BFCO Elden Rim Dual Wield moveset collection  
 
+Fixed:  
+-All reported landscape issues  
+-Just Simply Knock not working  
+
 
 3.6.6:  
 
