@@ -1,3 +1,34 @@
+4.0 Beta v2.2:  
+
+Added:  
+-All Thieves Guild Jobs Concurrently  
+-Hearthfire multiple adoptions  
+-Hearthfire Multiple Adoptions Expanded  
+-Heart-To-Heart - Conversations Among Family  
+-Improved Follower Dialogue - Lydia - INIGO  
+-Improved Follower Dialogue - Lydia and Lucien  
+-Marked Treasure SSE (NG)  
+-Auto Read Notes  
+-Informed Mail Delivery  
+-Spell Organizer - Hide Remove Delete Erase Forget Spells  
+-Shout Organizer - Hide Remove Delete Erase Forget Shouts  
+-Spell Organizer - Show in UI  
+-CC Fishing Gear Diversified - BOS  
+-Ash Pile Expiration - Special Edition  
+-Name Those Ash Piles  
+-Reusable Corpses for Necromancy - No Ash Piles  
+-Dynamic Activation Key - Addons Collection  
+-Legacy of the Dragonborn Collectors and Vendors  
+-Tony's Ebony PBR  
+
+Updated:  
+-DynDOLOD TexGen Fixes  
+
+Fixed:  
+-Identified landscape issues  
+-Merchant chest for 3DNPC character poking out of stairs in Hjerim  
+-Daedric armor changed to different winning texture set  
+
 4.0 Beta v2.1:  
 
 Finally going back to doing changelogs!  
