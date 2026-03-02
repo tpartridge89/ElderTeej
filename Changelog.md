@@ -23,6 +23,13 @@ Added:
 
 Updated:  
 -DynDOLOD TexGen Fixes  
+-SIGMA - Sword animations - 1st person  
+-aTweaks and Utilities  
+-Feris - Custom Voiced Rogue Follower  
+-Odin - Skyrim Magic Overhaul  
+-Gesture Animation Remix (OAR)  
+-Fluffworks - Auto Patches  
+-Security Overhaul SKSE - Some More Locks  
 
 Fixed:  
 -Identified landscape issues  
