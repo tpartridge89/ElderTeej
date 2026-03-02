@@ -35,6 +35,8 @@ Fixed:
 -Identified landscape issues  
 -Merchant chest for 3DNPC character poking out of stairs in Hjerim  
 -Daedric armor changed to different winning texture set  
+-Stances set to have neutral option (set to B by default)  
+-Added folder for controller dodge ini  
 
 4.0 Beta v2.1:  
 
