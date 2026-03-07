@@ -78,50 +78,12 @@ Install these files the same way we installed the patches, only this time, they'
 <img width="457" height="318" alt="image" src="https://github.com/user-attachments/assets/78e6a7fd-9d25-434b-b8a2-6f63a7d31f7a" />  
 
 
-
-## Disabling mods that aren't currently patched for BCE  
-
-Okay, next we need to disable things that don't play well with BCE. First, everything related to Skyrim's Got Talent has to go:  
-
-
-<img width="1845" height="1202" alt="image" src="https://github.com/user-attachments/assets/d22af89a-b82c-415c-ac83-35abde3bd1d0" />  
-
-<img width="1845" height="1202" alt="image" src="https://github.com/user-attachments/assets/bef81d3f-ad06-4d0e-baf3-8f6dfe91448b" />  
-
-<img width="1845" height="1202" alt="image" src="https://github.com/user-attachments/assets/7c30ab3b-3abe-4211-92b5-c12a1113b4ad" />  
-
-<img width="1845" height="1202" alt="image" src="https://github.com/user-attachments/assets/d1e19c80-8125-4a42-a15a-9f65911a2431" />  
-
-
-Basically anything with Skyrim's Got Talent, "X Follower Reacts to Your Music," or SGT in the title has to be disabled. That mod is incompatible with BCE and will likely never work with it.  
-
-Additionally, disable the following outputs for now:  
-
-
-<img width="833" height="474" alt="image" src="https://github.com/user-attachments/assets/af432b64-df25-45ca-856f-22394413d019" />  
-
-
-We will be making new outputs in new folders in the next step.  
-
-Unfortunately, though patches are currenty planned for these interiors, we also must disable JK's The Winking Skeever and JK's The Bards College along with any associated patches. If the patch hub updates to have patches for these interiors, this portion will be removed. 
-
-
-<img width="1845" height="1202" alt="image" src="https://github.com/user-attachments/assets/3509393a-c98b-4c5a-9540-215efb0b1e52" />  
-
-
-There are a LOT of patches for these mods in the list. Make sure you're disabling all of them that show up in the right pane. Failure to do so may cause your game to CTD. Make sure _all_ plugins that show "missing master" warnings are disabled.    
-
-Now that everything else is disabled, we need to have the updated custom patches; these should already be in the correct folder, but if they're not, go to the #bards-college-expansion-support channel in the Discord and download the custom patches from the pinned comment with them. These go in your ElderTeej - xEdit Outputs folder, and they should be rearranged into the "Outputs and Custom Patches" group after loading into MO2. For now, they can be kind of loosely arranged, but the ElderTeej Master Patch BCE Version should be at the top of the group. A final order after running Synthesis is below.
-
-
-
 ## Setting up folders for your new outputs and running them  
 
-Just like when creating a new folder for the BCE mod, we also now need to make new folders for the outputs, so you don't overwrite the base list's info. Please note that you should find pre-generated BCE Synthesis and BCE PG Patcher folders in the "LEAVE DISABLED" separator at the bottom of the left pane, along with a BCE Master Patch folder. Enable these and place them your Outputs separator. Much like before, right-click, only this time do it on each mod one-by-one, and as before, mouse over "All Mods," but this time your option should say "Create Empty Mod Above". You need to do this for the TexGen and DynDOLOD Output folders; it should look like this when you finish:  
+Just like when creating a new folder for the BCE mod, we also now need to make new folders for the outputs, so you don't overwrite the base list's info. Please note that you should find a pre-generated BCE PG Patcher folder in the "LEAVE DISABLED" separator at the bottom of the left pane- move this to just below the existing ElderTeej - PG Patcher Output folder, enable it, then disable the old output. To make the new folders: like before, right-click, only this time do it on each mod one-by-one, and as before, mouse over "All Mods," but this time your option should say "Create Empty Mod Above". You need to do this for the TexGen and DynDOLOD Output folders; it should look like this when you finish:  
 
 
-<img width="365" height="287" alt="image" src="https://github.com/user-attachments/assets/42c803b6-7849-4360-a079-7cb35fddfd52" />  
- 
+<img width="365" height="287" alt="image" src="https://github.com/user-attachments/assets/42c803b6-7849-4360-a079-7cb35fddfd52" />   
 
 
 If you are going to use my pre-generated outputs, [go to the Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/154704) and download the BCE - TexGen Output and BCE - DynDOLOD Output files under Miscellaneous. Install these with the same name as the folders you made earlier, let them replace when MO2 asks, then make sure that the PG Patcher ESPs and DynDOLOD ESPs are at the bottom of where they can load. Your right panel should look like below:  
