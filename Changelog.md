@@ -1,3 +1,19 @@
+4.0.1:  
+
+Added:  
+-CBPC  
+-CBBE 3BBB  
+-HDT-SMP Armors Fur Shaders patches  
+-Godsblood - An Ebony PBR Overhaul  
+-Natural And Realistic Bodies - CBBE 3BA Bodyslide Presets  
+
+Removed:  
+-Tony's Ebony PBR (Superseded)   
+-Wayward and Fleet Knight sets, these had brazenly NSFW options I missed  
+
+Fixed:  
+-Identified landscape issues  
+
 4.0 Beta v2.2:  
 
 Added:  
