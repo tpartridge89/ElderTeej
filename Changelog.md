@@ -11,6 +11,13 @@ Removed:
 -Tony's Ebony PBR (Superseded)   
 -Wayward and Fleet Knight sets, these had brazenly NSFW options I missed  
 
+Updated:  
+-Highly Improved Male Body Overhaul -HIMBO-  
+-Lost Grimoire - Apocalypse Odin and Other Patches  
+-Roastlawyer's Restored Whiterun Defences  
+-BFCO - Attack Behavior Framework  
+-Modex - A Mod Explorer Menu (AddItemMenu)  
+
 Fixed:  
 -Identified landscape issues  
 
