@@ -6,6 +6,7 @@ Added:
 -HDT-SMP Armors Fur Shaders patches  
 -Godsblood - An Ebony PBR Overhaul  
 -Natural And Realistic Bodies - CBBE 3BA Bodyslide Presets  
+-Dovahnique's Diverse Dark Elf Lanterns (BOS - ENB Lights - High Poly) with CS Lights and PBR  
 
 Removed:  
 -Tony's Ebony PBR (Superseded)   
