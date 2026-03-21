@@ -19,7 +19,7 @@ Updated:
 -VIGILANT - English Translation  
 -Glenmoril - English Translation  
 -Unslaad Voiced - English Addon  
--Haafstad  
+-Haafstad and the Border of High Rock  
 -Siege at Icemoth  
 -House of Horrors Quest Expansion - Wintersun patch  
 -Favor Quests Seperated - USSEP Patch  
