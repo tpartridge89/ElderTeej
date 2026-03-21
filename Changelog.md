@@ -1,3 +1,61 @@
+4.0.2:  
+
+Added:  
+-SIGMA - Archery animations - 1st person  
+-True Directional Movement Mounted Archery Fix  
+-Simplest Horses (and other mounts)  
+-HorsePower - Modernized Horse Riding (Total Riding Overhaul)  
+-RoastGorilla439's Patch Collection  
+
+Updated:  
+-State Behavior Framework  
+-SKSE Menu Framework  
+-Unofficial Skyrim Special Edition Patch - USSEP  
+-Alt-Tab Stuck Key Fix  
+-Ultimate Optimized Scripts Compilation  
+-Helmet Toggle 2  
+-Why I Came to Skyrim - Origin Stories  
+-VIGILANT - English Translation  
+-Glenmoril - English Translation  
+-Unslaad Voiced - English Addon  
+-Haafstad  
+-Siege at Icemoth  
+-House of Horrors Quest Expansion - Wintersun patch  
+-Favor Quests Seperated - USSEP Patch  
+-Wild Witch Outfit - PBR  
+-Feris - Custom Voiced Rogue Follower  
+-AI Overhaul SSE  
+-Complete Replica Fixes NG  
+-Roastlawyer's Restored Whiterun Defences  
+-Daedric Shrines AIO - The Only Cure patch  
+-Godsblood Ebony PBR  
+-Tomato's PBR Farmhouses  
+-Embers XD PBR  
+-Tiny Light Placer Hub  
+-Gesture Animation Remix (OAR)  
+-Smart NPC Potions - Enemies Use Potions and Poisons  
+-Sekiro Combat S  
+-SIGMA - Battleaxe animations - 1st person  
+-SIGMA - Mace animations - 1st person  
+-SIGMA - Waraxe animations - 1st person  
+-SIGMA - Greatsword animations - 1st person  
+-SIGMA - Warhammer animations - 1st person  
+-Aurea Umbra - SerketHetyt's Taliesin Overhaul  
+-SmoothCam  
+-Line and Lure - Fishing Perks  
+-Modex - A Mod Explorer Menu (AddItemMenu)  
+-Predictable Persuasion  
+
+Removed:  
+-Spell Organizer - Hide Remove Delete Erase Forget Spells  
+-Shout Organizer - Hide Remove Delete Erase Forget Shouts  
+-Spell Organizer - Show in UI  
+
+Fixed:  
+-Floating sewer entrance in Proudspire Manor  
+-Jehanna - Siege at Icemoth clipping  
+-"Quick Sneaking" perk has been removed entirely- this is something messed up in Vokord I tried to repair unsuccessfully  
+
 4.0.1:  
 
 Added:  
