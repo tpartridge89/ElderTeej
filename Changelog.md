@@ -7,6 +7,7 @@ Added:
 -HorsePower - Modernized Horse Riding (Total Riding Overhaul)  
 -RoastGorilla439's Patch Collection  
 -Tomato's Windhelm  
+-Whiterun 3D Stone Walls  
 
 Updated:  
 -State Behavior Framework  
