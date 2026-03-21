@@ -51,6 +51,7 @@ Removed:
 -Spell Organizer - Hide Remove Delete Erase Forget Spells  
 -Shout Organizer - Hide Remove Delete Erase Forget Shouts  
 -Spell Organizer - Show in UI  
+-Why I Came to Skyrim - Select Your Own Quest (No longer needed with latest update)  
 
 Fixed:  
 -Floating sewer entrance in Proudspire Manor  
