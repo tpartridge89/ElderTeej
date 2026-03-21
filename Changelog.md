@@ -8,6 +8,11 @@ Added:
 -RoastGorilla439's Patch Collection  
 -Tomato's Windhelm  
 -Whiterun 3D Stone Walls  
+-Rare Curios - Bolts Expanded  
+-Faster Transform - To Werewolf and VampireLord  
+-Faster Werewolf Transition Effect for Faster Transform (Re-upload)  
+-Disable Annoying Werewolf Killmove  
+-Earn Werewolf PerkPoint by Killing  
 
 Updated:  
 -State Behavior Framework  
