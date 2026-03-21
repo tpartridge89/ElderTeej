@@ -58,6 +58,7 @@ Removed:
 -Shout Organizer - Hide Remove Delete Erase Forget Shouts  
 -Spell Organizer - Show in UI  
 -Why I Came to Skyrim - Select Your Own Quest (No longer needed with latest update)  
+-Diverse Fishing Gear - Base Object Swapper  
 
 Fixed:  
 -Floating sewer entrance in Proudspire Manor  
