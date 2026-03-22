@@ -59,6 +59,7 @@ Removed:
 -Spell Organizer - Show in UI  
 -Why I Came to Skyrim - Select Your Own Quest (No longer needed with latest update)  
 -Diverse Fishing Gear - Base Object Swapper  
+-The Great City of Winterhold v4 - Vanilla Texture Paths  
 
 Fixed:  
 -Floating sewer entrance in Proudspire Manor  
