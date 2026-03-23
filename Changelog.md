@@ -65,6 +65,8 @@ Fixed:
 -Floating sewer entrance in Proudspire Manor  
 -Jehanna - Siege at Icemoth clipping  
 -"Quick Sneaking" perk has been removed entirely- this is something messed up in Vokord I tried to repair unsuccessfully  
+-Floating objects in Winterhold  
+-Mystic Condensers clipping in overhauled player homes  
 
 4.0.1:  
 
