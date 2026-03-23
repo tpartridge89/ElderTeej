@@ -66,7 +66,13 @@ Fixed:
 -Jehanna - Siege at Icemoth clipping  
 -"Quick Sneaking" perk has been removed entirely- this is something messed up in Vokord I tried to repair unsuccessfully  
 -Floating objects in Winterhold  
--Mystic Condensers clipping in overhauled player homes  
+-Mystic Condensers clipping in overhauled player homes (moved in one, disabled in 2 others)  
+-Exiting Underforge *should* put you outside door at normal height  
+-Incorrect biomes being used for fishing  
+
+Known Potential Issues:  
+-Some users report not being able to become Thane in several holds; these appear to be affected by Exiled Jarls Don't Require Favors, I am testing the master file to see if I can complete these quests or if a fix is needed  
+
 
 4.0.1:  
 
