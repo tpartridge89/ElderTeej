@@ -37,7 +37,7 @@ As far as technical requirements: I recommend at least 32 GB of RAM for modded S
 G to toggle helmet  
 H to call horse  
 M4 for dual wield blocking  
-DEL for STB Widgets menu  
+DEL for SKSE Menu Framework menu  
 END for Community Shaders menu  
 PGDN for Modex  
 F11 for Hotkey Reminder  
