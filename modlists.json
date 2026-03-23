@@ -22,23 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_7e7d51d3-fa5e-40ab-93be-0a731144458c",
+      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_34584607-3624-4083-99d8-0e6fc02300a1",
       "machineURL": "ElderTeej",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "lvwxxeSmVsY=",
-      "Size": 2988585499,
-      "NumberOfArchives": 2652,
-      "SizeOfArchives": 227268951483,
-      "NumberOfInstalledFiles": 461071,
-      "SizeOfInstalledFiles": 429016433666,
-      "TotalSize": 656285385149
+      "Hash": "qXv3WIrOF94=",
+      "Size": 2989743067,
+      "NumberOfArchives": 2664,
+      "SizeOfArchives": 227865857823,
+      "NumberOfInstalledFiles": 462901,
+      "SizeOfInstalledFiles": 429803977856,
+      "TotalSize": 657669835679
     },
-    "version": "4.0.1",
+    "version": "4.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-10T03:24:56.320648Z",
+    "dateUpdated": "2026-03-23T04:14:42.4894095Z",
     "repositoryName": ""
   },
   {
@@ -65,7 +66,8 @@
       "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_3e382d85-da8c-4925-b341-14b4248955d6",
       "machineURL": "ABC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "2r17aVUBYZo=",
@@ -107,7 +109,8 @@
       "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_69401e70-9a86-4593-b0c3-05e81d96798a",
       "machineURL": "ABouC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "hVE1EaHbRS0=",
@@ -149,7 +152,8 @@
       "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_58dfbaf8-b677-4822-b8b9-bc95c0d46720",
       "machineURL": "Dovahmeme",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "RHXuVd/B/+4=",
