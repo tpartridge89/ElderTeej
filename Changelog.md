@@ -1,3 +1,10 @@
+4.0.3:  
+
+Updated:  
+-Just Knock - DAK for Simply Knock  
+-Activate Soul Gems for Recharging  
+-Pandora Behaviour Engine Plus  
+
 4.0.2:  
 
 Added:  
