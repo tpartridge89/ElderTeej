@@ -4,6 +4,21 @@ Updated:
 -Just Knock - DAK for Simply Knock  
 -Activate Soul Gems for Recharging  
 -Pandora Behaviour Engine Plus  
+-Why I Came to Skyrim - Origin Stories  
+-The Gray Cowl of Nocturnal - 10th anniversary  
+-Additional Clockwork  
+-Heavy Armory - New Weapons  
+-Assorted Mesh Fixes  
+-Happy Little Trees - PBR  
+-Horsepower - Modernized Horse Riding  
+-Roastlawyer's Restored Whiterun Defences  
+-TOCQE - Wintersun - Daedric Shrines Xtudo patch  
+-Azurite Weathers III  
+-Water for ENB  
+-Stances - NG  
+-B612 - little asteroid of useful UI components  
+-Modex - A Mod Explorer Menu (AddItemMenu)  
+
 
 4.0.2:  
 
