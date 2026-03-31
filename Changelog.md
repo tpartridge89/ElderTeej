@@ -19,6 +19,7 @@ Updated:
 -B612 - little asteroid of useful UI components  
 -Modex - A Mod Explorer Menu (AddItemMenu)  
 -Faultier's PBR Skyrim AIO 2k  
+-Spell Perk Item Distributor  
 
 
 4.0.2:  
