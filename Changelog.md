@@ -20,6 +20,8 @@ Updated:
 -Modex - A Mod Explorer Menu (AddItemMenu)  
 -Faultier's PBR Skyrim AIO 2k  
 -Spell Perk Item Distributor  
+-KrittaKitty's Realistic Primitive Horse Breeds - Port Update Fluff  
+-Magic Organizer SKSE - Hide Spells Powers Active Effects  
 
 
 4.0.2:  
