@@ -18,6 +18,7 @@ Updated:
 -Stances - NG  
 -B612 - little asteroid of useful UI components  
 -Modex - A Mod Explorer Menu (AddItemMenu)  
+-Faultier's PBR Skyrim AIO 2k  
 
 
 4.0.2:  
