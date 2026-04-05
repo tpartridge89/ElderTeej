@@ -25,6 +25,8 @@ Updated:
 -SkyPatcher  
 -monster race crash fix  
 -No Grass In Objects  
+-Serana Dialogue Add-on  
+-CS Light  
 
 
 4.0.2:  
