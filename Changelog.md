@@ -22,6 +22,9 @@ Updated:
 -Spell Perk Item Distributor  
 -KrittaKitty's Realistic Primitive Horse Breeds - Port Update Fluff  
 -Magic Organizer SKSE - Hide Spells Powers Active Effects  
+-SkyPatcher  
+-monster race crash fix  
+-No Grass In Objects  
 
 
 4.0.2:  
