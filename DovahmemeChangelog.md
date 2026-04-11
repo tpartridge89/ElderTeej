@@ -1,3 +1,72 @@
+0.80085.0:  
+
+Added:  
+-Faultier's PBR Weapons and Armor  
+-Master Ale  
+-Stances NG  
+-SIGMA - Archery animations - 1st person  
+-Automatic Patcher  
+-Vel'dun UI  
+
+Updated:  
+-Spell Perk Item Distributor (SPID)  
+-SkyPatcher  
+-SKSE Menu Framework  
+-Papyrus Ini Manipulator  
+-Unofficial Skyrim Special Edition Patch - USSEP  
+-monster race crash fix  
+-Alt-Tab Stuck Key Fix  
+-Auto Input Switch  
+-Activate Soul Gems for Recharging  
+-Nature of the Wild Lands 3.X - Wyrmstooth Compatibility Patch  
+-Relics of Hyrule SE - A DLC Scale Zelda Mod  
+-Highly Improved Male Body Overhaul -HIMBO-  
+-Erin Race (Anime race)  
+-Odin - Skyrim Magic Overhaul  
+-Lost Grimoire - Apocalypse Odin and Other Patches  
+-Growl - Werebeasts of Skyrim  
+-Freehand Armour  
+-Assorted mesh fixes  
+-Nature of the Wild Lands Nordic Cut  
+-Fluffworks - Auto Patches  
+-Glorious Doors of Skyrim (GDOS) SE PBR  
+-Embers XD  
+-Embers XD PBR  
+-Conspiracy of Skyrim  
+-Gesture Animation Remix (OAR)  
+-Smart NPC Potions - Enemies Use Potions and Poisons  
+-Helmet Toggle 2  
+-BFCO - Attack Behavior Framework (SSE AE VR)  
+-Sekiro Combat S  
+-SIGMA - Sword animations - 1st person  
+-SIGMA - Warhammer animations - 1st person  
+-SIGMA - Greatsword animations - 1st person  
+-SIGMA - Mace animations - 1st person  
+-SIGMA - Waraxe animations - 1st person  
+-SIGMA - Battleaxe animations - 1st person  
+-Sir Dripsalot - Fully Voiced Un-Immersive Incredibly Fashionable Follower  
+-Chapter II - Jeremy Soule Inspired Music  
+-Azurite Weathers III  
+-CS Light  
+-Tiny Light Placer Hub (CS Lights)  
+-B612 - my little asteroid of useful UI components  
+-SkyUI  
+-MCM Helper  
+-Modex - A Mod Explorer Menu (AddItemMenu)  
+-STB Widgets  
+-Main Menu Video  
+-State Behavior Framework  
+-Ultimate Optimized Scripts Compilation  
+-Pandora Behaviour Engine Plus  
+-Barbas Doggologue Add-On - ESPFE  
+
+Removed:  
+-Norden UI  
+-SkyUI - Ghost Item Bug Fix  
+-Fix Note Icon for SkyUI (SKSE64 plugin)  
+-Chickens and Chicks- Mihail Monsters and Animals (SE-AE version)  
+
+
 0.420.0:  
 
 Added:  
