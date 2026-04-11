@@ -7,6 +7,7 @@ Added:
 -SIGMA - Archery animations - 1st person  
 -Automatic Patcher  
 -Vel'dun UI  
+-HorsePower - Modernized Horse Riding (Total Riding Overhaul)  
 
 Updated:  
 -Spell Perk Item Distributor (SPID)  
