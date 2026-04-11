@@ -43,6 +43,9 @@ Updated:
 -Embers XD  
 -Chapter II - Jeremy Soule Inspired Music  
 
+Fixed:  
+-Known landscape issues  
+-No bandits spawning at Bannermist Tower  
 
 4.0.2:  
 
