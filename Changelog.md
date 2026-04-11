@@ -1,5 +1,11 @@
 4.0.3:  
 
+Added:  
+-Thunderbolt HD Lightning  
+-Inferno - Fire Effects Redux  
+-Arctic - Frost Effects Redux  
+
+
 Updated:  
 -Just Knock - DAK for Simply Knock  
 -Activate Soul Gems for Recharging  
@@ -27,6 +33,13 @@ Updated:
 -No Grass In Objects  
 -Serana Dialogue Add-on  
 -CS Light  
+-Auto Input Switch  
+-Betalille's Hammerfell Quests Bundle - The Gray Cowl of Nocturnal  
+-Gore - A Companion Mod  
+-Legacy of the Dragonborn - Followers Patch  
+-Glorious Doors of Skyrim (GDOS) SE PBR  
+-Embers XD  
+-Chapter II - Jeremy Soule Inspired Music  
 
 
 4.0.2:  
