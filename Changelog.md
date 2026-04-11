@@ -4,6 +4,8 @@ Added:
 -Thunderbolt HD Lightning  
 -Inferno - Fire Effects Redux  
 -Arctic - Frost Effects Redux  
+-Melana the War Maiden - An Evolving Custom Voiced Follower  
+-Courageous - SerketHetyt's Melana Overhaul  
 
 
 Updated:  
