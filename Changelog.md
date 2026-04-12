@@ -48,7 +48,7 @@ Updated:
 -Gore - A Companion Mod  
 -FSMP - Faster HDT-SMP  
 
-Removed:
+Removed:  
 -Norden UI  
 
 Fixed:  
