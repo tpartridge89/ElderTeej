@@ -54,6 +54,7 @@ Removed:
 Fixed:  
 -Known landscape issues  
 -No bandits spawning at Bannermist Tower  
+-Several floating ravens in Morthal  
 
 4.0.2:  
 
