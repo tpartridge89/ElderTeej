@@ -1,11 +1,14 @@
 4.0.3:  
 
 Added:  
--Thunderbolt HD Lightning  
--Inferno - Fire Effects Redux  
+-Thunderbolt HD Lightning   
 -Arctic - Frost Effects Redux  
 -Melana the War Maiden - An Evolving Custom Voiced Follower  
 -Courageous - SerketHetyt's Melana Overhaul  
+-Vel'dun UI  
+-Vel'dun UI Patches  
+-Vel'dun UI Overhauls  
+-Automatic Patcher  
 
 
 Updated:  
@@ -42,6 +45,11 @@ Updated:
 -Glorious Doors of Skyrim (GDOS) SE PBR  
 -Embers XD  
 -Chapter II - Jeremy Soule Inspired Music  
+-Gore - A Companion Mod  
+-FSMP - Faster HDT-SMP  
+
+Removed:
+-Norden UI  
 
 Fixed:  
 -Known landscape issues  
