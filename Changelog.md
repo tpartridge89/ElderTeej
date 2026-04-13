@@ -50,6 +50,7 @@ Updated:
 
 Removed:  
 -Norden UI  
+-Vanaheimr - Northern Roads - Complex Material - PBR  
 
 Fixed:  
 -Known landscape issues  
