@@ -1,3 +1,33 @@
+4.0.4:  
+
+Added:  
+-Velothi II - SE by Xtudo - Camonna Tong Fixes  
+
+Updated:  
+-Creation Kit Platform Extended for Skyrim  
+-Pandora Behaviour Engine Plus  
+-Why I Came to Skyrim - Origin Stories  
+-Nyhus and the border of Cyrodiil  
+-Siege at Icemoth  
+-Gore - A Companion Mod  
+-Horsepower - Modernized Horse Riding  
+-JK's Solitude Outskirts Patch Collection  
+-JK's Tel Mithryn Patch Collection  
+-JK's Raven Rock Patch Collection  
+-FSMP - Faster HDT-SMP  
+-Better Argonian Horns  
+-Children of Dawn's Beauty - A Resource for Certain Mods  
+-Children of the Green - A Bosmer NPC Overhaul  
+-Children of the First - An Altmer NPC Overhaul  
+-Children of the Ash - A Dunmer NPC Overhaul  
+-Vel'dun UI  
+-Wildwood Echoes  
+
+Fixed:  
+-CompTag in UI (Completionist patching needed to be done)  
+-Controller not having a correct Stances config  
+
+
 4.0.3:  
 
 Added:  
