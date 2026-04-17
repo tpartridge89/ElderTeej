@@ -2,6 +2,7 @@
 
 Added:  
 -Velothi II - SE by Xtudo - Camonna Tong Fixes  
+-Skeleton Auto-Patch  
 
 Updated:  
 -Creation Kit Platform Extended for Skyrim  
