@@ -20,7 +20,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeej16x9.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_7469d114-a14e-445a-9fd3-a3c5cd931bdd",
       "machineURL": "ElderTeej",
