@@ -1,4 +1,4 @@
-4.0.5:  
+4.1.0:  
 
 Added:  
 -SIGMA - Dagger animations - 1st person  
@@ -17,6 +17,11 @@ Updated:
 -Vanilla Nights  
 -CS Light  
 -Vel'dun UI Patches  
+-BFCO  
+-SkyUI  
+-MCM Helper
+-RaceMenu  
+-Helmet Toggle 2 - SMP Wind Fix  
 
 4.0.4:  
 
