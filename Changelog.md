@@ -1,3 +1,23 @@
+4.0.5:  
+
+Added:  
+-SIGMA - Dagger animations - 1st person  
+
+Updated:  
+-SIGMA - Sword animations - 1st person  
+-SIGMA - Weapon Animations - Stances NG Patches  
+-XEMI Utility  
+-Nyhus and the border of Cyrodiil  
+-Wine Duchess (3BA SMP)  
+-Wine Duchess - PBR  
+-Gore - A Companion Mod  
+-Everdamned - a new generation Vampirism overhaul  
+-Lux CS  
+-Whiterun 3D Stone Walls  
+-Vanilla Nights  
+-CS Light  
+-Vel'dun UI Patches  
+
 4.0.4:  
 
 Added:  
