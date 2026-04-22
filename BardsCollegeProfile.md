@@ -78,6 +78,9 @@ Install these files the same way we installed the patches, only this time, they'
 
 <img width="457" height="318" alt="image" src="https://github.com/user-attachments/assets/78e6a7fd-9d25-434b-b8a2-6f63a7d31f7a" />  
 
+
+
+
 **Important note: I would tag all the mods you add with [NoDelete] in the title so that Wabbajack doesn't delete these files from your install when updating the list in the future.**
 
 ## Setting up folders for your new outputs and running them  
