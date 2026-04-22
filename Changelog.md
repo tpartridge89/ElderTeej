@@ -2,6 +2,7 @@
 
 Added:  
 -SIGMA - Dagger animations - 1st person  
+-Riverwood Has Walls - PBR  
 
 Updated:  
 -SIGMA - Sword animations - 1st person  
