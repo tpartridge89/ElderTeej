@@ -19,7 +19,7 @@ Updated:
 -Vel'dun UI Patches  
 -BFCO  
 -SkyUI  
--MCM Helper
+-MCM Helper  
 -RaceMenu  
 -Helmet Toggle 2 - SMP Wind Fix  
 
