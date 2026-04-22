@@ -23,6 +23,9 @@ Updated:
 -RaceMenu  
 -Helmet Toggle 2 - SMP Wind Fix  
 
+Fixed:  
+-Floating steward in Windhelm from Vigilant  
+
 4.0.4:  
 
 Added:  
