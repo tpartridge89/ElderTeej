@@ -68,4 +68,4 @@ Do jobs instead of combat! Who needs to be the Dragonborn?
 
 ### [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
 
-I know, this isn't meant to be a power fantasy list! But that's why skills are SALSa-locked... and it's also why [NPCs have Ordinator perks](https://www.nexusmods.com/skyrimspecialedition/mods/42022) now too.
+I know, this isn't meant to be a power fantasy list! But that's why skills are SALSa-locked... and it's also why [NPCs have Ordinator perks](https://www.nexusmods.com/skyrimspecialedition/mods/42022) now too. It's only 10% of people, because if everyone could be an OP adventurer, nobody would farm... but 10% of NPCs can be as powerful as you are.  
