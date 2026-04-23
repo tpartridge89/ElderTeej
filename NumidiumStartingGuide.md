@@ -73,6 +73,6 @@ I know, this isn't meant to be a power fantasy list! But that's why skills are S
 ## Current Known Issues
 
 - Feris may spawn with invisible armor. This is listed as a known issue on the mod's page, but taking that armor and giving her something else should work fine.
-- The UI messages in the upper-righthand corner are massive on first load. I cannot figure this out, as changing SkyHUD preferences like normal only changes it on subsequent loads.
+- The UI messages in the upper right-hand corner are massive on first load. I cannot figure this out, as changing SkyHUD preferences like normal only changes it on subsequent loads.
 - You *may* need to re-activate OBIS in the MCM menu.
 - I have an MCM Recorder step set up for the Animated Inebriation mod to disable the drinking contest verbiage. If MCM Recorder has issues or you want to be able to challenge literally anyone to a drinking contest, re-enable it in the MCM.
