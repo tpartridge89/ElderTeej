@@ -1,3 +1,15 @@
+4.1.1:  
+
+Updated:  
+-SIGMA - Greatsword animations - 1st person  
+-SIGMA - Warhammer animations - 1st person  
+-SIGMA - Battleaxe animations - 1st person  
+-Everdamned - a new generation Vampirism overhaul  
+-Roastlawyer's Restored Whiterun Defences  
+-Glorious Doors of Skyrim (GDOS) SE PBR  
+-Faster HDT-SMP  
+-Canissa's little patch emporium  
+
 4.1.0:  
 
 Added:  
