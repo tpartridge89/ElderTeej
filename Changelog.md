@@ -9,6 +9,7 @@ Updated:
 -Glorious Doors of Skyrim (GDOS) SE PBR  
 -Faster HDT-SMP  
 -Canissa's little patch emporium  
+-SIGMA - Weapon Animations - Stances NG Patches  
 
 4.1.0:  
 
