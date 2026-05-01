@@ -177,29 +177,38 @@
       "github/tpartridge89"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
       "Survival"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/numidium.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/NumidiumStartingGuide.md",
-      "download": "https://authored-files.wabbajack.org/Numidium.wabbajack_e8b516f0-f5f9-465d-858a-84dc76a32898",
+      "download": "https://authored-files.wabbajack.org/Numidium.wabbajack_f11c1ff1-270a-4187-a16a-fbfdc65f8a12",
       "machineURL": "Numidium",
-      "discordURL": "https://discord.gg/r4YnyqGBBA"
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "CiU7rkm+Wi0=",
-      "Size": 13891376791,
-      "NumberOfArchives": 2198,
-      "SizeOfArchives": 183153012736,
-      "NumberOfInstalledFiles": 327127,
-      "SizeOfInstalledFiles": 333907534448
+      "Hash": "z3x7Morhik8=",
+      "Size": 13786061690,
+      "NumberOfArchives": 2224,
+      "SizeOfArchives": 190474246206,
+      "NumberOfInstalledFiles": 328173,
+      "SizeOfInstalledFiles": 336444275510,
+      "TotalSize": 526918521716
     },
-    "version": "0.0.1"
+    "version": "0.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-05-01T04:21:22.1191837Z",
+    "repositoryName": ""
   }
 ]
