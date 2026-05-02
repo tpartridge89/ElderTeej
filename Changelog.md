@@ -1,3 +1,34 @@
+4.1.2:  
+
+Updated:  
+-SkyPatcher  
+-Assorted Behavior Fixes  
+-Auto Skeleton Patch - Universal Behaviour Runtime  
+-Crash Logger SSE AE VR - PDB support  
+-Dynamic Things Alternative - Base Object Swapper  
+-SIRENROOT - Deluge of Deceit  
+-Siege at Icemoth  
+-Heavy Armory - New Weapons  
+-Khajiit Will Follow - Custom Voiced Khajiit Follower Mod  
+-Lux CS  
+-Enhanced Rocks and Mountains - Complex Material and PBR  
+-Khajiit Has Tents  
+-Water for ENB  
+-SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)  
+-Chocolate Poise - Elden Parry - Ordinator - ParryingRPG Tweaks and Integration  
+-SIGMA - Mace animations - 1st person  
+-SIGMA - Waraxe animations - 1st person  
+-SIGMA - Sword animations - 1st person  
+-SIGMA - Greatsword animations - 1st person  
+-SIGMA - Weapon Animations - Stances NG Patches  
+-Unlocked 1st Person Combat  
+-SIGMA - Magic animations - 1st person  
+-Children of Dawn's Beauty - A Resource for Certain Mods  
+-Children of the First - An Altmer NPC Overhaul  
+-MCM Helper  
+-Vel'dun UI  
+
+
 4.1.1:  
 
 Updated:  
