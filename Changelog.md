@@ -1,3 +1,39 @@
+4.1.3:  
+
+Added:  
+-SIGMA - Fisting animations - 1st person  
+-ISL Helper SKSE  
+-Directional Movement Keys - DMK  
+
+Updated:  
+-State Behavior Framework  
+-Crash Logger SSE AE VR - PDB support  
+-Remiel-Custom Voiced Dwemer Specialist and Companion  
+-Lux CS  
+-Happy Little Trees - PBR  
+-The Great Town of Karthwasten Patch Collection  
+-Godsblood - An Ebony PBR Overhaul  
+-Community Shaders  
+-Cloud Shadows - Community Shaders  
+-Hair Specular - Community Shaders  
+-Screen Space Global Illumination (SSGI) - Community Shaders  
+-Sky Sync - Community Shaders  
+-Terrain Blending - Community Shaders  
+-Upscaling - Community Shaders  
+-Wetness Effects - Community Shaders  
+-SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)  
+-BFCO - Attack Behavior Framework  
+-Children of Dawn's Beauty - A Resource for Certain Mods  
+-Children of the Green - A Bosmer NPC Overhaul  
+-Children of the First - An Altmer NPC Overhaul  
+-Children of the Ash - A Dunmer NPC Overhaul  
+-SkyUI  
+-DynDOLOD Resources SE 3  
+-DynDOLOD DLL NG  
+
+Fixed:  
+-Ran Completionist patcher on UI  
+
 4.1.2:  
 
 Updated:  
