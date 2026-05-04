@@ -30,6 +30,11 @@ Updated:
 -SkyUI  
 -DynDOLOD Resources SE 3  
 -DynDOLOD DLL NG  
+-Skylighting - Community Shaders  
+-Northern Roads - Patches Compendium  
+
+Removed:  
+-BFCO Universal Support  
 
 Fixed:  
 -Ran Completionist patcher on UI  
