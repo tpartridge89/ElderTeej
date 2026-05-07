@@ -32,6 +32,7 @@ Updated:
 -DynDOLOD DLL NG  
 -Skylighting - Community Shaders  
 -Northern Roads - Patches Compendium  
+-Mfg Fix NG  
 
 Removed:  
 -BFCO Universal Support  
