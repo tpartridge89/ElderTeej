@@ -4,6 +4,9 @@ Added:
 -SIGMA - Fisting animations - 1st person  
 -ISL Helper SKSE  
 -Directional Movement Keys - DMK  
+-SigmaJelly - Katana animations - 1st person  
+-YASTM - Yet Another Soul Trap Manager  
+-Children of the Wave - A Redguard NPC Overhaul  
 
 Updated:  
 -State Behavior Framework  
