@@ -38,12 +38,30 @@ Updated:
 -Northern Roads - Patches Compendium  
 -Mfg Fix NG  
 -Wine Duchess - My patches SE by Xtudo  
+-Spell Perk Item Distributor (SPID)  
+-Heavy Armory - New Weapons  
+-Gore - A Companion Mod  
+-Serana Dialogue Add-On  
+-Icy Mesh Remaster - Ice Glaciers - LOD - other fixes  
+-Icy Cave Remaster  
+-Icy Cave Remaster - Ice Material Patch  
+-Light Placer  
+-Open Animation Replacer  
+-Open Animation Replacer - Math Plugin  
+-Disable Turn Animation NG  
+-SIGMA - Sword animations - 1st person  
+-Vel'dun UI  
+-Completionist - Skyrim Completion Tracker (NG)  
+-Completionist Addons  
 
 Removed:  
 -BFCO Universal Support  
 
 Fixed:  
 -Ran Completionist patcher on UI  
+-Identified landscape issues  
+-Missing textures on Akaviri armors  
+-Switched ACMoS and DynDOLOD to LOD level 16 to prevent LOD unloading bug in modded worldspaces  
 
 4.1.2:  
 
