@@ -7,6 +7,7 @@ Added:
 -SigmaJelly - Katana animations - 1st person  
 -YASTM - Yet Another Soul Trap Manager  
 -Children of the Wave - A Redguard NPC Overhaul  
+-SIGMA - Spear animations - 1st person  
 
 Updated:  
 -State Behavior Framework  
