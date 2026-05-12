@@ -36,6 +36,7 @@ Updated:
 -Skylighting - Community Shaders  
 -Northern Roads - Patches Compendium  
 -Mfg Fix NG  
+-Wine Duchess - My patches SE by Xtudo  
 
 Removed:  
 -BFCO Universal Support  
