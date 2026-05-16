@@ -1,3 +1,20 @@
+4.1.4:  
+
+Updated:  
+-Lucifer - Custom Fully Voiced Argonian Follower  
+-No Grass In Objects  
+-Skyking Signs - Saints and Seducers Extended Cut  
+-Community Shaders  
+-Cloud Shadows - Community Shaders  
+-Upscaling - Community Shaders  
+-SigmaJelly - Katana animations - 1st person  
+-SIGMA - Spear animations - 1st person  
+-Northern Roads Patch Collection  
+
+Fixed:  
+-Messed up skyhud.txt for new Vel'dun features  
+-Messed up textures on Brusef Amelion set from Oblivion Artifacts  
+
 4.1.3:  
 
 Added:  
