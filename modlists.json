@@ -191,24 +191,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/numidium.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/NumidiumStartingGuide.md",
-      "download": "https://authored-files.wabbajack.org/Numidium.wabbajack_f11c1ff1-270a-4187-a16a-fbfdc65f8a12",
+      "download": "https://authored-files.wabbajack.org/Numidium.wabbajack_f40346a2-e403-4e1b-bf82-080fb18ba85a",
       "machineURL": "Numidium",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "z3x7Morhik8=",
-      "Size": 13786061690,
-      "NumberOfArchives": 2224,
-      "SizeOfArchives": 190474246206,
-      "NumberOfInstalledFiles": 328173,
-      "SizeOfInstalledFiles": 336444275510,
-      "TotalSize": 526918521716
+      "Hash": "jNG8Zt5DyAw=",
+      "Size": 14841716052,
+      "NumberOfArchives": 2266,
+      "SizeOfArchives": 194663394063,
+      "NumberOfInstalledFiles": 334348,
+      "SizeOfInstalledFiles": 338539281360,
+      "TotalSize": 533202675423
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-01T04:21:22.1191837Z",
+    "dateUpdated": "2026-05-16T00:23:20.6907765Z",
     "repositoryName": ""
   }
 ]
