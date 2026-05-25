@@ -1,3 +1,44 @@
+4.2.0:  
+
+Added:  
+-Skyrim Skill Uncapper for SE and AE  
+-Character Menu SE  
+-Classic Classes and Birthsigns SSE (Reimagined)  
+-Velothi II - SE by Xtudo - Cmty Shaders Lanterns  
+
+Updated:  
+-Icy Mesh Remaster - Ice Glaciers - LOD - other fixes  
+-Enhanced Rocks and Mountains - Fix and Addon  
+-Container Distribution Framework  
+-Heavy Armory - New Weapons  
+-SMP Vanilla Armors Fur  
+-KS Hairdos - HDT SMP (Physics)  
+-Stuck on Sleeper Fix - Exit Noble Bed Double 02  
+-Headhunter - Bounties Redone  
+-Legacy of the Dragonborn Patches (Official)  
+-Legacy of the Dragonborn SSE  
+-Glorious Doors of Skyrim (GDOS) SE PBR  
+-PBR Vigilant Armors  
+-SIGMA - Spear animations - 1st person  
+-Deadly Dragons  
+-Faster HDT-SMP  
+-SIGMA - Fisting animations - 1st person  
+-SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)  
+-Children of the First - An Altmer NPC Overhaul  
+-Favor Quests Separated  
+-ISL Helper SKSE  
+-Why I Came to Skyrim - Origin Stories  
+-VioLens Compatibility Extension - Mod Creatures KillMove Compatible - SkyPatcher  
+-Growl - Werebeasts of Skyrim  
+-Canissa's Little Patch Emporium  
+-Fluffworks - Tweaks and Expansion  
+-The Handy Icon Collection Collective  
+-Alternate Perspective - Assorted Fixes and Patches  
+-Children of the Wave - A Redguard NPC Overhaul  
+-Miasma  
+
+
+
 4.1.4:  
 
 Updated:  
