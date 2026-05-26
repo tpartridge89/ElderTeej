@@ -5,6 +5,7 @@ Added:
 -Character Menu SE  
 -Classic Classes and Birthsigns SSE (Reimagined)  
 -Velothi II - SE by Xtudo - Cmty Shaders Lanterns  
+-LOTD Unofficial Unslaad TCC Patch  
 
 Updated:  
 -Icy Mesh Remaster - Ice Glaciers - LOD - other fixes  
