@@ -6,6 +6,9 @@ Added:
 -Classic Classes and Birthsigns SSE (Reimagined)  
 -Velothi II - SE by Xtudo - Cmty Shaders Lanterns  
 -LOTD Unofficial Unslaad TCC Patch  
+-Pirates in the Desert - The Gray Cowl of Nocturnal  
+-The Remnants of Hammerfell - The Gray Cowl of Nocturnal  
+-More to do in Kirkmore  
 
 Updated:  
 -Icy Mesh Remaster - Ice Glaciers - LOD - other fixes  
