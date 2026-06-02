@@ -38,7 +38,7 @@ Updated:
 -Vel'dun UI  
 -Northern Roads - Patches Compendium  
 
-Hotkey Reminder has been updated to reflect Modern Controlmap bindings, controller setup has been clarified, remaining keybinds not tied in to Hotkey Reminder are below (pulled from [Modern Controlmap](https://www.nexusmods.com/skyrimspecialedition/mods/89649)  
+Hotkey Reminder has been updated to reflect Modern Controlmap bindings, controller setup has been clarified, remaining keybinds not tied in to Hotkey Reminder are below (pulled from [Modern Controlmap](https://www.nexusmods.com/skyrimspecialedition/mods/89649)):  
 
 - LB+Back: Wait  
 - LB+Start: Quicksave  
