@@ -1,3 +1,12 @@
+1.0.0:
+
+Added:  
+-CS Lantern Lights - Lanterns of Skyrim II  
+
+Updated:  
+
+
+
 Beta v3:  
 
 Added:  
