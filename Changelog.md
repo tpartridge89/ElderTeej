@@ -1,3 +1,44 @@
+4.2.1:  
+
+Updated:  
+-State Behavior Framework  
+-SKSE Menu Framework  
+-PGPatcher  
+-BodySlide and Outfit Studio  
+-Project Combat Event Fixes  
+-monster race crash fix  
+-Take a Peek  
+-kryptopyr's Patch Hub  
+-Paarthurnax - Quest Expansion  
+-HDT-SMP Vanilla Armors  
+-Twilight Princess Armor Mashup  
+-Eimar's Edge PBR  
+-Growl - Werebeasts of Skyrim  
+-The Great Town of Karthwasten Patch Collection  
+-Roastlawyer's Restored Whiterun Defences  
+-Glorious Doors of Skyrim (GDOS) SE PBR  
+-Khajiit Has Tents  
+-Community Shaders  
+-Screen Space Global Illumination (SSGI) - Community Shaders  
+-Terrain Helper  
+-Upscaling - Community Shaders  
+-CS Light  
+-Directional Movement Keys - DMK  
+-SIGMA - Mace animations - 1st person  
+-SIGMA - Fisting animations - 1st person  
+-FSMP - Faster HDT-SMP  
+-Children of Dawn's Beauty - A Resource for Certain Mods  
+-Children of the Green - A Bosmer NPC Overhaul  
+-Children of the First - An Altmer NPC Overhaul  
+-Children of the Ash - A Dunmer NPC Overhaul  
+-Children of the Wave - A Redguard NPC Overhaul  
+-Completionist Addons  
+-Modex - A Mod Explorer Menu (AddItemMenu)  
+-CoMAP - Common Marker Addon Project  
+-Vel'dun UI  
+-Northern Roads - Patches Compendium  
+
+
 4.2.0:  
 
 Added:  
