@@ -38,6 +38,23 @@ Updated:
 -Vel'dun UI  
 -Northern Roads - Patches Compendium  
 
+Hotkey Reminder has been updated to reflect Modern Controlmap bindings, controller setup has been clarified, remaining keybinds not tied in to Hotkey Reminder are below (pulled from [Modern Controlmap](https://www.nexusmods.com/skyrimspecialedition/mods/89649)  
+
+- LB+Back: Wait  
+- LB+Start: Quicksave  
+- LB+D-Pad Left: Hotkey 3 (Favorites)  
+- LB+D-Pad Up: Hotkey 4 (Favorites)  
+- LB+D-Pad Right: Hotkey 5 (Favorites)  
+- LB+D-Pad Down: Hotkey 6 (Favorites)  
+
+- A+D-Pad Left: Quick Magic  
+- A+D-Pad Up: Quick Skills  
+- A+D-Pad Right: Quick Inventory  
+- A+D-Pad Down: Quick Map  
+
+- R3 (Hold): Switch Perspective  
+- R3 (Hold) + Left Stick: Change Camera Zoom in 3rd Person  
+
 
 4.2.0:  
 
