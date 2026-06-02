@@ -1,5 +1,8 @@
 4.2.1:  
 
+Added:  
+-Skyrim Cheat Engine (forgot to put it in the rebuild for 4.0)
+
 Updated:  
 -State Behavior Framework  
 -SKSE Menu Framework  
