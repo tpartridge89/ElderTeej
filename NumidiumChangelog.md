@@ -65,6 +65,7 @@ Updated:
 -Alternate Perspective - Thalmor Start - Patch V4.x 
 -Deadly Dragons  
 
+**Controller support has been standardized to mirror ElderTeej- this means that X is Dual Wield Parry, B is switch stances, and LB is Dodge or hold to sprint. All other non-vanilla keybinds are listed on the page for [Modern Controlmap](https://www.nexusmods.com/skyrimspecialedition/mods/89649)**
 
 Beta v3:  
 
