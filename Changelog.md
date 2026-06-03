@@ -1,3 +1,11 @@
+4.2.2:  
+
+Added:  
+-Inquisitor HDT-SMP Armor  
+
+Fixed:  
+-Female nevernude body- accidentally selected underwear option  
+
 4.2.1:  
 
 Updated:  
