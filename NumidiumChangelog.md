@@ -62,7 +62,8 @@ Updated:
 -Fur Shader Armors  
 -Northern Roads - Patches Compendium  
 -Additional Starts for Live Another Life  
--Alternate Perspective - Thalmor Start - Patch V4.x  
+-Alternate Perspective - Thalmor Start - Patch V4.x 
+-Deadly Dragons  
 
 
 Beta v3:  
