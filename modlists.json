@@ -188,7 +188,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "hhttps://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejLogoNew.webp",
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejLogoNew.webp",
       "readme": "https://github.com/crispyfires/ETJ/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_805a95d5-1a70-4325-a6d4-799e46606953",
       "machineURL": "ETJ",
