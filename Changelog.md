@@ -31,7 +31,7 @@ Updated:
 Fixed:  
 -Broken textures on female leather armors  
 -Broken display pedastals in Elysium Estate  
--GCoN not displaying correctly in the museum (fix is untested)  
+-GCoN not displaying correctly in the museum  
 
 4.2.2:  
 
