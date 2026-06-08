@@ -1,3 +1,37 @@
+4.2.3:  
+
+Added:  
+-SIGMA - Whip overhaul  
+
+Updated:  
+-BodySlide and Outfit Studio  
+-Crash Logger SSE AE VR - PDB support  
+-Activate Soul Gems for Recharging  
+-kryptopyr's Patch Hub  
+-Heavy Armory - New Weapons  
+-Twilight Princess Armor Mashup  
+-PBR Vigilant Armors  
+-Lucifer - Custom Fully Voiced Argonian Follower  
+-Apocalypse - Magic of Skyrim  
+-Legacy of the Dragonborn - Creation Club Patch Hub  
+-Legacy of the Dragonborn Patches (Official)  
+-Temper Replicas for Legacy of the Dragonborn  
+-Static Mesh Improvement Mod Improvement Mod  
+-Deadly Dragons  
+-Gesture Animation Remix (OAR)  
+-BFCO - Attack Behavior Framework (SSE AE VR)  
+-Directional Movement Keys - DMK  
+-Disable Turn Animation NG  
+-SIGMA - Sword animations - 1st person  
+-FSMP - Faster HDT-SMP  
+-Children of the Ash - A Dunmer NPC Overhaul  
+-Children of the Wave - A Redguard NPC Overhaul  
+
+Fixed:  
+-Broken textures on female leather armors  
+-Broken display pedastals in Elysium Estate  
+-GCoN not displaying correctly in the museum (fix is untested)  
+
 4.2.2:  
 
 Added:  
