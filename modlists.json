@@ -1,48 +1,5 @@
 [
   {
-    "title": "ElderTeej",
-    "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Total Overhaul",
-      "Steam",
-      "Combat Overhaul",
-      "SFW"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejLogoNew.webp",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_c3fe6941-9385-4d47-87a0-fdb67a70ae1a",
-      "machineURL": "ElderTeej",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "H4r59+SsisA=",
-      "Size": 3341961361,
-      "NumberOfArchives": 2703,
-      "SizeOfArchives": 231537396541,
-      "NumberOfInstalledFiles": 463590,
-      "SizeOfInstalledFiles": 441582901784,
-      "TotalSize": 673120298325
-    },
-    "version": "4.2.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-03T15:10:11.9968631Z",
-    "repositoryName": ""
-  },
-  {
     "title": "A Beautiful Commonwealth",
     "description": "Boston is dirty, dangerous, and radioactive...\n\n...why not make it a little prettier?",
     "author": "tpartridge89",
@@ -210,5 +167,42 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-06-05T05:23:37.5484531Z",
     "repositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ElderTeej",
+    "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Total Overhaul",
+      "Steam",
+      "Combat Overhaul",
+      "SFW"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "hhttps://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejLogoNew.webp",
+      "readme": "https://github.com/crispyfires/ETJ/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_805a95d5-1a70-4325-a6d4-799e46606953",
+      "machineURL": "ETJ",
+      "discordURL": "https://discord.gg/r4YnyqGBBA"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "srCfEPOshNU=",
+      "Size": 3359166612,
+      "NumberOfArchives": 2726,
+      "SizeOfArchives": 243459595042,
+      "NumberOfInstalledFiles": 464420,
+      "SizeOfInstalledFiles": 447357573826
+    },
+    "version": "4.2.3"
   }
 ]
