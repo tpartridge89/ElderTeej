@@ -2,6 +2,7 @@
 
 Added:  
 -SIGMA - Whip overhaul  
+-Vampire Clans and Bloodlines  
 
 Updated:  
 -BodySlide and Outfit Studio  
