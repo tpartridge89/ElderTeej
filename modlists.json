@@ -1,46 +1,5 @@
 [
   {
-    "title": "A Beautiful Commonwealth",
-    "description": "Boston is dirty, dangerous, and radioactive...\n\n...why not make it a little prettier?",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "fallout4",
-    "official": false,
-    "tags": [
-      "DLC Required",
-      "Steam"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
-      "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_3e382d85-da8c-4925-b341-14b4248955d6",
-      "machineURL": "ABC",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "2r17aVUBYZo=",
-      "Size": 516204630,
-      "NumberOfArchives": 1289,
-      "SizeOfArchives": 122404626716,
-      "NumberOfInstalledFiles": 156380,
-      "SizeOfInstalledFiles": 147679935876,
-      "TotalSize": 270084562592
-    },
-    "version": "3.0.3",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-25T03:32:42.4197887Z",
-    "repositoryName": ""
-  },
-  {
     "title": "A Bountiful Commonwealth",
     "description": "The ElderTeej philosophy, but applied to Fallout!",
     "author": "tpartridge89",
@@ -124,48 +83,6 @@
     "version": "0.6969.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-02-04T07:50:42.1860711Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "Numidium",
-    "description": "The Numidium once allowed Tiber Septim to take over Tamriel... now let it give you control of your own Skyrim!",
-    "author": "tpartridge89",
-    "maintainers": [
-      "github/tpartridge89"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "SFW",
-      "Steam",
-      "Survival"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/numidium.webp",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/NumidiumStartingGuide.md",
-      "download": "https://authored-files.wabbajack.org/Numidium.wabbajack_291c00d0-732c-4893-9566-e3d04e781fee",
-      "machineURL": "Numidium",
-      "discordURL": "https://discord.gg/r4YnyqGBBA",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "2GO2ta40uHQ=",
-      "Size": 1339357801,
-      "NumberOfArchives": 2210,
-      "SizeOfArchives": 194319996931,
-      "NumberOfInstalledFiles": 333294,
-      "SizeOfInstalledFiles": 337586111522,
-      "TotalSize": 531906108453
-    },
-    "version": "1.0.0.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-05T05:23:37.5484531Z",
     "repositoryName": ""
   },
   {
