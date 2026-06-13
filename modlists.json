@@ -93,12 +93,13 @@
       "github/tpartridge89"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Total Overhaul",
       "Steam",
       "Combat Overhaul",
-      "SFW"
+      "SFW",
+      "Official"
     ],
     "nsfw": false,
     "utility_list": false,
