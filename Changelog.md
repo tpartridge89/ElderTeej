@@ -1,3 +1,43 @@
+4.2.4:  
+
+Added:  
+-Daedra Pack- Mihail Monsters and Animals (SE-AE)  
+-Mihail's Daedra Pack - No Worldspace and Cell Edits  
+-Jade's Rogue Daedra (Rogues n' Raiders - Mihail's Daedra Pack Integration Patch)  
+
+Updated:  
+-powerofthree's Papyrus Extender  
+-Crash Logger SSE AE VR - PDB support  
+-Fish Plaque Fixes and Improvements  
+-I'm Walkin' Here NG Expanded - No Collision for Followers - Summons - Pets - Friendlies  
+-Hearthfire Multiple Adoptions Expanded  
+-Unslaad SE  
+-UNSLAAD - English Translation (Plus Voiced Addon)  
+-Haafstad and the Border of High Rock  
+-Heavy Armory - New Weapons  
+-Rare Curios - Bolts Expanded  
+-Growl - Werebeasts of Skyrim  
+-PBR Flora Overhaul  
+-Fluffworks - Tweaks and Expansion  
+-Fluffworks - Dismembering Framework Patch  
+-JK's Dark Brotherhood Sanctuaries  
+-Community Shaders  
+-Hair Specular - Community Shaders  
+-Screen Space Global Illumination (SSGI) - Community Shaders  
+-Skylighting - Community Shaders  
+-Terrain Blending - Community Shaders  
+-FSMP - Faster HDT-SMP  
+-Stances NG  
+-Children of Dawn's Beauty - A Resource for Certain Mods  
+-Children of the Wave - A Redguard NPC Overhaul  
+
+Fixed:  
+-Reported landscape issues  
+-Invisible alchemy lab in Riverside Cottage  
+-Broken lighting in Forgotten City  
+
+
+
 4.2.3:  
 
 Added:  
