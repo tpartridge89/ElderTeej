@@ -37,7 +37,7 @@ Removed:
 
 Fixed:  
 -Reported landscape issues  
--Invisible alchemy lab in Riverside Cottage  
+-Invisible alchemy lab in Riverside Lodge  
 -Broken lighting in Forgotten City  
 -Stances changing in-menu on controller (stance change input has been changed to LB+B, neutral stance is now RB+B)  
 
