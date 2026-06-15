@@ -4,6 +4,7 @@ Added:
 -Daedra Pack- Mihail Monsters and Animals (SE-AE)  
 -Mihail's Daedra Pack - No Worldspace and Cell Edits  
 -Jade's Rogue Daedra (Rogues n' Raiders - Mihail's Daedra Pack Integration Patch)  
+-Tomato's Solitude Remastered - PBR  
 
 Updated:  
 -powerofthree's Papyrus Extender  
@@ -30,6 +31,9 @@ Updated:
 -Stances NG  
 -Children of Dawn's Beauty - A Resource for Certain Mods  
 -Children of the Wave - A Redguard NPC Overhaul  
+
+Removed:  
+-Tomato's PBR Solitude  
 
 Fixed:  
 -Reported landscape issues  
