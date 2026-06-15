@@ -35,7 +35,7 @@ Fixed:
 -Reported landscape issues  
 -Invisible alchemy lab in Riverside Cottage  
 -Broken lighting in Forgotten City  
-
+-Stances changing in-menu on controller (stance change input has been changed to LB+B, neutral stance is now RB+B)  
 
 
 4.2.3:  
