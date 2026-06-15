@@ -34,6 +34,7 @@ Updated:
 
 Removed:  
 -Tomato's PBR Solitude  
+-Glorious Doors of Skyrim and all patching  
 
 Fixed:  
 -Reported landscape issues  
