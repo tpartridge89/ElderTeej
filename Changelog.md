@@ -1,3 +1,11 @@
+4.2.6:  
+
+Downgraded:  
+-Haafstad and the Border of High Rock  
+
+Fixed:  
+-List is confirmed to boot after downgrade to Haafstad  
+
 4.2.5:  
 
 Added:  
