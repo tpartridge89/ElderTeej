@@ -1,4 +1,4 @@
-4.2.7:  
+4.3.0:  
 
 Added:  
 -High Fantasy Pack- Mihail Monsters and Animals (SE-AE version)  
