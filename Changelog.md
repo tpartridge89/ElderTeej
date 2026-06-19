@@ -5,6 +5,7 @@ Added:
 -Mihail's High Fantasy Pack - No Worldspace and Cell Edits  
 -PBR and Xtudo optimized textures for the new Mihail's packs  
 -Biodiversiteej (a bespoke addition for world application of Mihail monsters)  
+-Female Hands Redone  
 
 Removed:  
 -Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)  
