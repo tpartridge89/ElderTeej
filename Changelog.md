@@ -1,3 +1,15 @@
+4.2.7:  
+
+Added:  
+-High Fantasy Pack- Mihail Monsters and Animals (SE-AE version)  
+-Mihail's High Fantasy Pack - No Worldspace and Cell Edits  
+-PBR and Xtudo optimized textures for the new Mihail's packs  
+-Biodiversiteej (a bespoke addition for world application of Mihail monsters)  
+
+Removed:  
+-Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)  
+-Minotaurs - Mihail Monsters and Animals (SE-AE version) (''oblivion'')  
+
 4.2.6:  
 
 Downgraded:  
