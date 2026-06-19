@@ -10,6 +10,11 @@ Removed:
 -Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)  
 -Minotaurs - Mihail Monsters and Animals (SE-AE version) (''oblivion'')  
 
+Fixed:
+-Broken textures on some Imperial dungeon doors  
+-Female Blades and Aegis of the Apocalypse armors  
+-Reported landscape issues  
+
 4.2.6:  
 
 Downgraded:  
