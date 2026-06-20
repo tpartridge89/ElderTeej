@@ -14,7 +14,6 @@ Updated:
 -VIGILANT SE  
 -VIGILANT - English Translation SE (Voiced)  
 -Lost Grimoire SSE  
--AI Overhaul SSE  
 -Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Xelzaz-Val Serano-Grandma Shirley-Remiel-Redcap)  
 -Snazzy Location Resources  
 -Snazzy Interiors Patch Collection  
