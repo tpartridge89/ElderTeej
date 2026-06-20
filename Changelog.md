@@ -7,9 +7,29 @@ Added:
 -Biodiversiteej (a bespoke addition for world application of Mihail monsters)  
 -Female Hands Redone  
 
+Updated:  
+-Spell Perk Item Distributor (SPID)  
+-XEMI Utility  
+-PGPatcher  
+-VIGILANT SE  
+-VIGILANT - English Translation SE (Voiced)  
+-Lost Grimoire SSE  
+-AI Overhaul SSE  
+-Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Xelzaz-Val Serano-Grandma Shirley-Remiel-Redcap)  
+-Snazzy Location Resources  
+-Snazzy Interiors Patch Collection  
+-JK's Raven Rock  
+-Community Shaders  
+-Hair Specular - Community Shaders  
+-Directional Movement Keys - DMK  
+-B612 - little asteroid of useful UI components  
+-Completionist Addons  
+
+
 Removed:  
 -Imps and Homonculus- Mihail Monsters and Animals (SE-AE version)  
 -Minotaurs - Mihail Monsters and Animals (SE-AE version) (''oblivion'')  
+-Splashes of Skyrim  
 
 Fixed:  
 -Broken textures on some Imperial dungeon doors  
