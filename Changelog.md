@@ -23,6 +23,9 @@ Updated:
 -Directional Movement Keys - DMK  
 -B612 - little asteroid of useful UI components  
 -Completionist Addons  
+-SkyPatcher  
+-Lucien - Immersive Fully Voiced Male Follower  
+-Alternate Perspective - Natural Learning Patch  
 
 
 Removed:  
