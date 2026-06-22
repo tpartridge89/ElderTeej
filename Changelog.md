@@ -1,3 +1,8 @@
+4.3.1:  
+
+Fixed:  
+-Forgot to enable a patch for a potentially broken leveled list  
+
 4.3.0:  
 
 Added:  
