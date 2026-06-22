@@ -37,6 +37,7 @@ Fixed:
 -Broken textures on some Imperial dungeon doors  
 -Female Blades and Aegis of the Apocalypse armors  
 -Reported landscape issues  
+-Berserkersgangr Shaman weird body  
 
 4.2.6:  
 
