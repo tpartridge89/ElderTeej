@@ -1,3 +1,11 @@
+4.3.2:  
+
+Fixed:  
+-exterior tower at Widow's Watch Tower missing  
+-Babette looking weird as hell  
+-Varnius Junius broken headparts 
+-landscape issues reported  
+
 4.3.1:  
 
 Fixed:  
