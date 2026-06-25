@@ -1,3 +1,11 @@
+4.3.3:  
+
+Fixed:  
+-NPCs not having correct HPH head parts  
+-High Fantasy Pack disabled version switched to deleted version  
+-Reported landscape issues  
+-Ebony Warrior not dropping LotD display armor  
+
 4.3.2:  
 
 Fixed:  
