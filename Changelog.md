@@ -2,7 +2,7 @@
 
 Fixed:  
 -NPCs not having correct HPH head parts  
--High Fantasy Pack disabled version switched to deleted version  
+-High Fantasy and Daedra Pack worldspace edit disabled versions switched to deleted versions  
 -Reported landscape issues  
 -Ebony Warrior not dropping LotD display armor  
 
