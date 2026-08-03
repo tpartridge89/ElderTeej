@@ -1,3 +1,70 @@
+5.0 Beta 2:  
+
+Added:  
+-FLICK NG  
+-Wait Your Turn Redux  
+-Cached Recursive Directory Walk  
+-Metallurgy - Ingots Ore and Veins HD (just the ore veins)  
+-Effects 11 - Community Shaders  
+-ENB Extender and Helper  
+-Silent Horizons 2 - Shader Core  
+-Dawnfire Azurite III ENB  
+-Azurite Horizons ENB  
+-Nordlys ENB  
+-Fossil Mining Map Markers (SSE Port)  
+-Don't Eat Spell Tomes (API)  
+-Daedric Enigma - Dusk (and patches)  
+
+
+Updated:  
+-Core Impact Framework (CIF)  
+-Zero Bounty Hostility Fix  
+-Project Combat Event Fixes  
+-Hearthfire Multiple Adoptions Expanded  
+-Undeath - Classical Lichdom  
+-Siege at Icemoth  
+-Legacy of the Dragonborn Patches (Official)  
+-Legacy of the Dragonborn - The Curator's Companion  
+-Smooth Terrain  
+-Canidae - A Wolf Replacer - Realistic Wolves in Skyrim  
+-Canidae - A Wolf Replacer - Fluff AF Patch  
+-Open Shaders  
+-SIGMA - Magic animations - 1st person  
+-Children of the Green - A Bosmer NPC Overhaul  
+-Children of the First - An Altmer NPC Overhaul  
+-Children of the Ash - A Dunmer NPC Overhaul  
+-Sigils of Skill - Custom Skills Menu icons  
+-Quest Givers Have Icons Framework  
+-Vel'dun UI  
+-Spell Perk Item Distributor (SPID)  
+-Unofficial Skyrim Creation Club Content Patches  
+-Conversations Raise Speechcraft  
+-SkyPlace  
+-OCF Keywords for Kittytail's Magic  
+-NPC Spell Variance - Spell Variety AI  
+-No Grass In Objects  
+-Deadly Dragons  
+-Roastlawyer's Restored Whiterun Defences  
+-Immersive College of Winterhold Patch Collection  
+-Snozz's Resource Pack  
+-Water for ENB  
+-Community Shaders  
+-Skylighting - Community Shaders  
+-Sanguine Symphony  
+-New Creature Attack Animation - Riekling and Goblin  
+-SkyPrompt  
+-STB Widgets  
+
+Removed:  
+-Cloud Shadows - Community Shaders (moved to core CS)  
+-Mihail's Mimics  
+-Better Mihail's Mimics  
+
+Fixed:  
+-Flickering leeks  
+-Improperly patched Staff Enchanters  
+-Reported clipping/landscape issues  
+
 4.3.3:  
 
 Fixed:  
