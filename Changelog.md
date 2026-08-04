@@ -1,4 +1,4 @@
-5.0 Beta 2:  
+5.0 Beta 3:  
 
 Added:  
 -FLICK NG  
