@@ -3,8 +3,7 @@
 Added:  
 -FLICK NG  
 -Wait Your Turn Redux  
--Cached Recursive Directory Walk  
--Metallurgy - Ingots Ore and Veins HD (just the ore veins)  
+-Cached Recursive Directory Walk    
 -Effects 11 - Community Shaders  
 -ENB Extender and Helper  
 -Silent Horizons 2 - Shader Core  
