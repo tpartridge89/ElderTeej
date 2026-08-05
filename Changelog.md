@@ -14,6 +14,7 @@ Removed:
 Fixed:  
 -LOD pop-in severely limited  
 -Bright tree billboards  
+-Turned off CRDW cache pop-up so users stop asking about it. It now defaults to not using the cache, but using the accelerated loading system. Should still be a lot quicker, but you can change the ini if you want  
 
 5.0 Beta 3:  
 
