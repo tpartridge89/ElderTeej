@@ -1,3 +1,19 @@
+5.0 Beta 5:  
+
+Updated:  
+-Project Combat Event Fixes - Fix NPCs Stuck in Combat  
+-Tumbajamba's Snow Elven Arsenal  
+-Lucifer - Custom Fully Voiced Argonian Follower  
+-Open Shaders  
+-Particle Patch  
+
+Removed:  
+-Dawnfire Azurite III ENB  
+
+Fixed:  
+-LOD pop-in severely limited  
+-Bright tree billboards  
+
 5.0 Beta 3:  
 
 Added:  
