@@ -6,6 +6,7 @@ Updated:
 -Lucifer - Custom Fully Voiced Argonian Follower  
 -Open Shaders  
 -Particle Patch  
+-Biodiversiteej - Arachnophobia Helper  
 
 Removed:  
 -Dawnfire Azurite III ENB  
