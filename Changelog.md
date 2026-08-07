@@ -5,6 +5,10 @@ Added:
 -Tomato's PBR Vanilla Trees  
 -Animated Forge Water  
 -Biodiversiteej - Arachnophobia Helper (located in Misc. Patches separator)  
+-Kanjs - Sigil Stone Animated  
+-Kanjs - Sigil of the Black Covenant  
+-Kanjs - The Watcher Series - Sword and GreatSword  
+-Halls of Order  
 
 Updated:  
 -Project Combat Event Fixes - Fix NPCs Stuck in Combat  
