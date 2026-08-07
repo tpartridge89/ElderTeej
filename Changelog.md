@@ -9,6 +9,7 @@ Added:
 -Kanjs - Sigil of the Black Covenant  
 -Kanjs - The Watcher Series - Sword and GreatSword  
 -Halls of Order  
+-Texture Downscaler (has its own separator, optional)  
 
 Updated:  
 -Project Combat Event Fixes - Fix NPCs Stuck in Combat  
