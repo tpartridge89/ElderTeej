@@ -34,6 +34,7 @@ Updated:
 
 Removed:  
 -Dawnfire Azurite III ENB  
+-COTN Dawnstar Vanilla Textures  
 
 Fixed:  
 -LOD pop-in severely limited  
