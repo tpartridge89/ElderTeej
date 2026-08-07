@@ -1,4 +1,10 @@
-5.0 Beta 5:  
+5.0.0:  
+
+Added:  
+-Enhanced Vanilla Trees SE  
+-Tomato's PBR Vanilla Trees  
+-Animated Forge Water  
+-Biodiversiteej - Arachnophobia Helper (located in Misc. Patches separator)  
 
 Updated:  
 -Project Combat Event Fixes - Fix NPCs Stuck in Combat  
@@ -6,7 +12,21 @@ Updated:
 -Lucifer - Custom Fully Voiced Argonian Follower  
 -Open Shaders  
 -Particle Patch  
--Biodiversiteej - Arachnophobia Helper (located in Misc. Patches separator)  
+-SkyPatcher  
+-Simple Offence Suppression MCM - Block Friendly Fire  
+-Simple Offence Suppression  
+-Become High King of Skyrim TNG  
+-Dark Apprentice (3BA SMP)  
+-Lost Grimoire SSE  
+-Lost Grimoire - Apocalypse Odin and Other Patches  
+-Smooth Terrain  
+-Snazzy Location Resources  
+-Snazzy Riften AIO  
+-Snazzy Interiors Patch Collection  
+-Community Shaders  
+-Skylighting - Community Shaders  
+-Terrain Variation - Community Shaders  
+-Sanguine Symphony - PBR  
 
 Removed:  
 -Dawnfire Azurite III ENB  
