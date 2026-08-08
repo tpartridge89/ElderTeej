@@ -41,6 +41,8 @@ Fixed:
 -LOD pop-in severely limited  
 -Bright tree billboards  
 -Turned off CRDW cache pop-up so users stop asking about it. It now defaults to not using the cache, but using the accelerated loading system. Should still be a lot quicker, but you can change the ini if you want  
+-Clipping Sinister 7 final chest  
+-Reported clipping issues  
 
 5.0 Beta 3:  
 
