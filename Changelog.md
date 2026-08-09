@@ -1,3 +1,8 @@
+5.0.1:  
+
+Fixed:  
+-Nude female bodies changed back to nevernude, Astrid's nude body should also be gone  
+
 5.0.0:  
 
 Added:  
