@@ -29,7 +29,7 @@ Removed:
 
 Fixed:  
 -RB's Sand Snake Armor and Weapon not having built meshes  
--WSU artifacts in Proudspire Manor  
+-WSU artifacts in Proudspire Manor    
 
 5.0.1:  
 
