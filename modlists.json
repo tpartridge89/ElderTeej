@@ -109,24 +109,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ElderTeejLogoNew.webp",
       "readme": "https://github.com/crispyfires/ETJ/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_5be4fd2c-58a4-4a2b-aa9b-ebdb5cec4560",
+      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_e9595afb-c149-45fa-ab53-8de6d943d49e",
       "machineURL": "ETJ",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "BLhBlXV8syM=",
-      "Size": 4296989177,
+      "Hash": "GT0dBUOX8a0=",
+      "Size": 4296989778,
       "NumberOfArchives": 2989,
-      "SizeOfArchives": 264534723063,
+      "SizeOfArchives": 264534715568,
       "NumberOfInstalledFiles": 520790,
-      "SizeOfInstalledFiles": 509723118180,
-      "TotalSize": 774257841243
+      "SizeOfInstalledFiles": 509723099277,
+      "TotalSize": 774257814845
     },
-    "version": "5.0.3",
+    "version": "5.0.3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-10T18:12:28.1988282Z",
+    "dateUpdated": "2026-08-10T20:51:25.0517738Z",
     "repositoryName": ""
   }
 ]
