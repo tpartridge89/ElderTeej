@@ -16,7 +16,7 @@ Updated:
 -Silent Horizons 2 - Shader Core  
 -SkyPrompt  
 -Hearthfire Multiple Adoptions Expanded Patch Hub  
--Witchy Wilderness switched to 1k version to see if this helps lower draw calls  
+-Witchy Wilderness switched to 1k version and density lowered to mod's default to see if this helps lower draw calls  
 
 Downgraded:  
 -My Precious...es - Multiple Rings SKSE (4.6 is broken)  
