@@ -24,6 +24,9 @@ Updated:
 Downgraded:  
 -My Precious...es - Multiple Rings SKSE (4.6 is broken)  
 
+Removed:  
+-LOD Unloading Bug Fix  
+
 Fixed:  
 -RB's Sand Snake Armor and Weapon not having built meshes  
 
