@@ -1,3 +1,28 @@
+5.0.2:  
+
+Updated:  
+-Core Impact Framework (CIF)  
+-(SBF) State Behavior Framework  
+-GLEN-MORIL SE  
+-GLEN-MORIL - English Translation  
+-Mysticism - A Magic Overhaul  
+-NPC Spell Variance - Mysticism  
+-Snazzy Riften AIO  
+-JK's Understone Keep  
+-Snazzy Interiors Patch Collection  
+-Meshes Optimization Project  
+-Open Shaders  
+-ENB Extender and Helper Skyrim  
+-Silent Horizons 2 - Shader Core  
+-SkyPrompt  
+-Hearthfire Multiple Adoptions Expanded Patch Hub  
+
+Downgraded:  
+-My Precious...es - Multiple Rings SKSE (4.6 is broken)  
+
+Fixed:  
+-RB's Sand Snake Armor and Weapon not having built meshes  
+
 5.0.1:  
 
 Fixed:  
