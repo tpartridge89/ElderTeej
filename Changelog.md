@@ -1,4 +1,7 @@
-5.0.3:  
+5.0.2:  
+
+Added:  
+-LOD Refresh Bug Fix  
 
 Updated:  
 -Core Impact Framework (CIF)  
