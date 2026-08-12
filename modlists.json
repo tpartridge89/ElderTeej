@@ -18,10 +18,10 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
-      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ABouC.webp",
+      "readme": "https://www.nexusmods.com/fallout4/mods/98039",
       "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_69401e70-9a86-4593-b0c3-05e81d96798a",
       "machineURL": "ABouC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
