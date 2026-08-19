@@ -22,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/main/ABouC.webp",
       "readme": "https://www.nexusmods.com/fallout4/mods/98039",
-      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_6a3c8ca2-502f-438c-987f-ba14c9e8ee72",
+      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_29cd5e49-28fd-4070-bf1c-bbfb9b87e54c",
       "machineURL": "ABouC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "2dwBxc6Mtu4=",
-      "Size": 292726645,
-      "NumberOfArchives": 859,
-      "SizeOfArchives": 228883511486,
+      "Hash": "vlnpp1pKJ6o=",
+      "Size": 292496194,
+      "NumberOfArchives": 860,
+      "SizeOfArchives": 228885798138,
       "NumberOfInstalledFiles": 180076,
-      "SizeOfInstalledFiles": 307142783408,
-      "TotalSize": 536026294894
+      "SizeOfInstalledFiles": 307139770961,
+      "TotalSize": 536025569099
     },
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-12T22:00:02.7868323Z",
+    "dateUpdated": "2026-08-19T19:22:46.3739962Z",
     "repositoryName": ""
   },
   {
