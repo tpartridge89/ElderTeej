@@ -8,6 +8,8 @@ Added:
 - Subversion - The Institute-Railroad Alliance Alternate Ending
 - David Hunter - A Brotherhood Story
 
+Removed:  
+- Have a Beer - Animated Drinking  
 
 Beta 6 (1.0.0.5):  
 
