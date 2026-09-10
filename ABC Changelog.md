@@ -1,3 +1,14 @@
+1.0.0:  
+
+Added:  
+- This Is Trash
+- ITOv2 Secondary Relay Alpha Workshop CTD Fix
+- Modding for Charity - Transmission Zeta - with Wes Johnson
+- Modding for Charity - Double Feature - with Wes Johnson and Friends
+- Subversion - The Institute-Railroad Alliance Alternate Ending
+- David Hunter - A Brotherhood Story
+
+
 Beta 6 (1.0.0.5):  
 
 Added:  
