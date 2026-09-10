@@ -9,7 +9,10 @@ Added:
 - David Hunter - A Brotherhood Story
 
 Removed:  
-- Have a Beer - Animated Drinking  
+- Have a Beer - Animated Drinking
+
+Fixed:  
+- Raider Heavy Armour missing textures for female PCs  
 
 Beta 6 (1.0.0.5):  
 
