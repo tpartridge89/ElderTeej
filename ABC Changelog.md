@@ -59,6 +59,7 @@ Removed:
 - ENB
 - The Enhancer
 - Real Water HD 2 for ENB
+- Motion Vector Fixes  
 
 1.0.0:  
 
