@@ -1,3 +1,65 @@
+1.1.0:  
+
+Added:
+- Dear Modding UI
+- Fallout 4 Community Shaders
+- Boat To Spectacle Island (Animated)
+- Nuka World - Skip raiding your own settlements
+- Shortcut to Curie
+- To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
+- Leaders of the Commonwealth - SS2 Add-On for Settlers of the Commonwealth
+- Double Feature - eXoPatch  
+
+Updated:  
+- Addictol & Crash Logger  
+- High FPS Physics Fix
+- Garden of Eden Papyrus Script Extender
+- RobCo Patcher
+- Leveled Item Fixes (LIF)
+- Smooth Cell Loading - F4SE
+- Sprint Stuttering Fix
+- Armor Penetration Bug Fix - F4SE
+- Weapon Debris Crash Fix
+- Moon Rotation Fix
+- Smooth Terrain F4SE
+- Stuck LOD Fix - F4SE
+- Vault-Tec Workshop Overhaul Redux (VTWOR)
+- F4SE Menu Framework
+- Who's The General Patch Hub
+- Workshop Framework
+- FP Gunplay Overhaul
+- You Are Exceptional - Skills and Perk Overhaul
+- America Rising 2 - Legacy of the Enclave
+- Random Encounter Framework Patch Hub
+- Previsibines Repair Pack Stable Branch - PRP
+- Atom's retribution 2 DLC Children of atom story
+- Sons of Steel - Brotherhood Infantry Armor
+- PrincessAries' Sons of Steel - Brotherhood Infantry Armor Crafting Patch
+- Improved Brotherhood of Steel
+- Improved Institute
+- You And What Army 2 Patch Hub
+- Improved Guards
+- Improved Hostile Factions
+- Sim Settlements 2 Wasteland Reconstruction Kit
+- Sim Settlements 2 - All Chapters Pack
+- BodySlide and Outfit Studio
+- See Through Scopes
+- Backpacks of the Commonwealth
+- Eli's Armour Compendium - EAC
+- Boston Riot Armor
+- Reaper's Munitions Patches
+- Lightweight Lighting - A weather and interior lighting overhaul
+- True Storms - Wasteland Edition
+- Much Better 3rd Person Animations - MLVic's Edition
+
+Removed:  
+- This Is Trash Previsbines Add-on
+- Frame Generation
+- Upscaling
+- ENB
+- The Enhancer
+- Real Water HD 2 for ENB
+
 1.0.0:  
 
 Added:  
